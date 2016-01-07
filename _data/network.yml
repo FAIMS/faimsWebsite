@@ -1,21 +1,24 @@
-- menu_name: "Dankeschön"
+- menu_name: "Partner Organisations"
 
-- name: "Icons by Daniel Bruce"
-  url: "http://entypo.com/"
+- name: "Australian Research Council"
+  url: http://www.arc.gov.au/2015-linkage-projects
   class: "network-entypo"
-  title: "Icons by Daniel Bruce"
+  title: "Project Funded by support from the Australian Research Council"
 
-- name: "Built on Foundation"
-  url: "http://foundation.zurb.com/"
-  class: "services-newsletter"
-  title: "Built on Foundation"
+- name: "Macquarie University"
+  url: "http://anchist.mq.edu.au"
 
-- name: "Images by Unsplash"
-  url: "http://unsplash.com/"
-  class: "rss-link"
-  title: "Images by Unsplash"
+- name: "Universty of New South Wales"
+  url: "http://unsw.edu.au"
 
-- name: "Using Backstretch by Scott Robbin"
-  url: "http://srobbin.com/jquery-plugins/backstretch/"
-  class: "sitemap-link"
-  title: "Using Backstretch by Scott Robbin"
+- name: "LaTrobe University"
+  url: "http://latrobe.edu.au"
+
+- name: "University of Sydney"
+  url: "http://usyd.edu.au"
+
+- name: "Intersect Australia"
+  url: "http://intersect.org.au"
+
+- name: "NeCTAR"  
+  url: "http://nectar.edu.au"

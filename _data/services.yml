@@ -8,9 +8,17 @@
   url: "/feed.xml"
   title: "Subscribe to RSS Feed"
 
-- name: "Atom"
-  url: "/atom.xml"
-  title: "Subscribe to Atom Feed"
+- name: "Wiki"  
+  url: "https://faimsproject.atlassian.net/wiki"
+  title: "FAIMS Wiki"
+
+- name: "Install FAIMS 2.0"
+  url: "https://play.google.com/store/apps/details?id=au.org.intersect.faims.android"
+  title: "Install FAIMS on your Android 4.4+"
+
+#- name: "Atom"
+#  url: "/atom.xml"
+#  title: "Subscribe to Atom Feed"
 
 - name: "sitemap.xml"
   url: "/sitemap.xml"

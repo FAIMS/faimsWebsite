@@ -1,0 +1,13 @@
+---
+author: denubis
+comments: true
+date: 2012-07-16 16:28:13+00:00
+layout: post
+slug: unsw
+title: The University of New South Wales
+wordpress_id: 18
+categories:
+- Participants
+---
+
+UNSW is the lead organisation on the FAIMS project.

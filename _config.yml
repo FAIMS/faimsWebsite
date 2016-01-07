@@ -8,28 +8,29 @@
 #                                                 /____/        
 #
 # Title of your website
-title: "Feeling Responsive"
+title: "FAIMS Project"
 
+destination: /usr/share/nginx/html/
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "A Flexible Theme for Jekyll"
+slogan: "Creating eResearch tools for Field Researchers, Humanities, and the Sciences"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes."
+description: "FAIMS provides digital tools for born-digital field data through to archiving for any research discipline, workflow, ontology, and standard."
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: denubis
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://phlow.github.io/feeling-responsive'
+url: 'http://127.0.0.1'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+improve_content: 
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -37,7 +38,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://phlow.github.io/feeling-responsive/images/'
+urlimg: 'http://127.0.0.1/images/'
 
 
 # Logo size is 600x80 pixels
@@ -96,13 +97,13 @@ compress_html:
 defaults:
   -
     scope:
-      path: "" 				# an empty string here means all files in the project
+      path: ""        # an empty string here means all files in the project
       type: "pages"
     values:
-      show_meta: false 	# Hide metadata for all pages
-      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
+      show_meta: false  # Hide metadata for all pages
+      # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: denubis     # Default author for pages
   -
     scope:
       path: ""
@@ -111,7 +112,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: denubis     # Default author for posts
 
 
 

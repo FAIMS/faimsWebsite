@@ -1,17 +1,17 @@
 - name: GitHub
-  url: http://github.com/
+  url: http://github.com/FAIMS
   class: icon-github
-  title: ""
+  title: "FAIMS Project"
 
 - name: YouTube
-  url: http://www.youtube.com/
+  url: https://www.youtube.com/user/FAIMSProject
   class: icon-youtube
-  title: ""
+  title: "FAIMS Youtube"
 
-- name: Twitter
-  url: http://twitter.com/
-  class: icon-twitter
-  title: ""
+#- name: Twitter
+#  url: http://twitter.com/
+#  class: icon-twitter
+#  title: ""
 
 # - name: Mixcloud
 #   url: http://www.mixcloud.com/
