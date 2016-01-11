@@ -1,11 +1,12 @@
 ---
 author: adela
-comments: true
-date: 2012-12-27 00:28:27+00:00
+comments: false
+show_meta: false
+
 layout: page
 slug: project-reports
 title: Project Reports
-wordpress_id: 488
+permalink: /research/project-reports/
 ---
 
 On this page you can find completed FAIMS project documents, reports and publications produced in the course of elaboration and development:

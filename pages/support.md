@@ -94,23 +94,15 @@ If you have a complex workflow and deeply structured and complicated data, you m
 
 ## I want to deposit my data in the FAIMS repository. What does this process involve?
 
-If you are a historical archaeologist, go to [www.ahad.edu.au](http://www.ahad.edu.au) and start contributing. All records from AHAD will be carried over the new repository.
-
 If you are interested in contributing data from any other field of Australian archaeology, or you are an Australian archaeologist working overseas, you will not be able to start contributing data until 30 September when repository is publicly released. In the meantime, we are keen to work with sample datasets from a range of fields, so please contact [repository@fedarch.org](mailto:repository@fedarch.org) if you have suitable material.
 
-Once the repository is online, the process will involve: creating an account and agreeing to the terms and condition of use (see the [AHAD ](http://ahad.edu.au/account/new#)terms for an idea of what they will be); clicking 'New Project' and entering as much metadata as you can about your Project; then uploading and describing some extra metadata for documents, datasets, images and sensory data as you possibly can. See the user documentation pages on [AHAD](http://ahad.edu.au/docs/userdoc/) and [tDAR ](https://dev.tdar.org/confluence/display/TDAR/User+Documentation)to get an idea of what's involved. It's designed to be intuitive for archaeologists and no special skills are required. There are a number of features (like project inheritance and bulk uploads) to make data entry as easy as possible.
+Once the repository is online, the process will involve: creating an account and agreeing to the terms and condition of use; clicking 'New Project' and entering as much metadata as you can about your Project; then uploading and describing some extra metadata for documents, datasets, images and sensory data as you possibly can. See the user documentation pages on [tDAR](https://docs.tdar.org/) to get an idea of what's involved. It's designed to be intuitive for archaeologists and no special skills are required. There are a number of features (like project inheritance and bulk uploads) to make data entry as easy as possible.
 
 The second stage in publishing your project records is ontology creation and mapping. This will be the basis for intersite comparisons using tDAR's [Data Integration](https://dev.tdar.org/confluence/display/TDAR/Data+Integration) tool.
 
-If you do not have the time to prepare your site archive or ontology maps, we can do this for you for a fee. Please [contact us](about:blank) to discuss the nature of your dataset. We will need information on the structure of your dataset, the completeness of the metadata, the geographic and thematic coherence, internal consistency, formats of data used, volume and complexity of the data.
+If you do not have the time to prepare your site archive or ontology maps, we can do this for you for a fee. Please [contact us](mailto:enquiries@fedarch.org) to discuss the nature of your dataset. We will need information on the structure of your dataset, the completeness of the metadata, the geographic and thematic coherence, internal consistency, formats of data used, volume and complexity of the data.
 
 From 2015, there will be charges for depositing data to cover the ongoing costs of the repository. A schedule of fees will be prepared in 2014.
-
-## What is the difference between tDAR, AHAD and the new FAIMS Repository?
-
-[AHAD ](http://www.ahad.edu.au)is a repository for historical archaeological data built by [La Trobe University](http://www.latrobe.edu.au/humanities/research/australian-historical-archaeology-database-ahad) and [VeRSI](http://versi.edu.au/) in 2011-12 using the open-source software created by [Digital Antiquity](http://digitalantiquity.org/) to run the Digital Archaeological Record ([tDAR](http://tdar.org)).
-
-The new FAIMS repository will replace and expand AHAD and provide a repository for all Australian archaeological data or archaeological data collected by Australian archaeologists or institutions. Like AHAD, it will be powered by tDAR and include additional features developed by La Trobe University and VeRSI (such as the [RDA data exchange](http://researchdata.ands.org.au/)) which are not used in tDAR.
 
 ## Is technical support provided by the FAIMS project?  At what cost?
 
@@ -138,11 +130,11 @@ Use the following links to find FAIMS-specific documentation:
 
 Access documentation for Heurist using the following link:
 
-* [Heurist Help](http://heuristnetwork.org/tutorials/)
+* [Heurist Help](http://heuristnetwork.org/documentation/)
 
 The FAIMS Repository is powered by tDAR. Access documentation for tDAR using the following link:
 
-* [tDAR Documentation Home](https://dev.tdar.org/confluence/display/TDAR/Documentation+Home)
+* [tDAR Documentation Home](https://docs.tdar.org/)
 
 
 

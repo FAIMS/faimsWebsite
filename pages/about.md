@@ -27,7 +27,7 @@ This project is led by Macquarie University in collaboration with ten Australian
 
 # The FAIMS Team 
 
-![portrait_shawnross](/images/portrait_shawnross.jpg) 
+![portrait_shawnross]({{ site.urlimg }}portrait_shawnross.jpg) 
 
 ### Dr Shawn Ross
 
@@ -39,7 +39,7 @@ Shawn Ross (Ph.D. University of Washington, 2001) is currently an Associate Prof
 
 [Shawn's Publications >>](https://mq.academia.edu/ShawnRoss)
 
-![Portrait_adela](/images/Portrait_adela.jpg)
+![Portrait_adela]({{ site.urlimg }}Portrait_adela.jpg)
 
 ### Dr Adela Sobotkova
 
@@ -50,7 +50,7 @@ Adela Sobotkova ( PhD in Classical Art and Archaeology at the University of Mich
 
 [Adela's Publications >>](https://mq.academia.edu/AdelaSobotkova)
 
-![Portrait_penny](/images/Portrait_penny.jpg)
+![Portrait_penny]({{ site.urlimg }}Portrait_penny.jpg)
 
 ### Dr Penny Crook
 * _Development Coordinator (La Trobe)_
@@ -61,7 +61,7 @@ Penny Crook is a Research Fellow at the School of Historical and European Studie
 [Penny's Publications >>](https://latrobe.academia.edu/PennyCrook)
 
 
-![Portrait_Brian](/images/Portrait_Brian.jpg)
+![Portrait_Brian]({{ site.urlimg }}Portrait_Brian.jpg)
 
 ### Dr Brian Ballsun-Stanton
 

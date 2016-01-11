@@ -39,7 +39,7 @@ permalink: /research/
 * [Adela Sobotkova's Publications](https://mq.academia.edu/AdelaSobotkova)
 * [Brian Ballsun-Stanton's Publications](https://mq.academia.edu/BrianBallsunStanton)
 * [Penny Crook's Publications](https://latrobe.academia.edu/PennyCrook)
-* [Shawn Ross's Publications](http://mq.academia.edu/ShawnARoss)
+* [Shawn Ross's Publications](http://mq.academia.edu/ShawnRoss)
 
 ## Reports
 

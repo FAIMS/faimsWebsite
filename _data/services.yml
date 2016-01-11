@@ -1,11 +1,11 @@
 - menu_name: "Services"
 
 - name: "Contact"
-  url: "/contact/"
+  url: "/newSite/contact/"
   title: "Contact"
 
 - name: "RSS"
-  url: "/feed.xml"
+  url: "/newSite/feed.xml"
   title: "Subscribe to RSS Feed"
 
 - name: "Wiki"  
@@ -21,5 +21,5 @@
 #  title: "Subscribe to Atom Feed"
 
 - name: "sitemap.xml"
-  url: "/sitemap.xml"
+  url: "/newSite/sitemap.xml"
   title: "Sitemap for Google Webmaster Tools"

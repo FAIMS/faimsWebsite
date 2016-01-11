@@ -10,7 +10,7 @@
 # Title of your website
 title: "FAIMS Project"
 
-destination: /usr/share/nginx/html/
+destination: _site
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: "Creating eResearch tools for Field Researchers, Humanities, and the Sciences"
@@ -25,7 +25,7 @@ author: denubis
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://127.0.0.1'
+url: 'http://octopress.fedarch.org/newSite'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -38,7 +38,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://127.0.0.1/images/'
+urlimg: 'http://octopress.fedarch.org/newSite/images/'
 
 
 # Logo size is 600x80 pixels

@@ -10,17 +10,17 @@ header:
   caption: "Image: Data collection with the FAIMS Mobile App in the Blue Mountains with Georgia Burnett and Penny Crook. CC-BY Shawn Ross 2014"
 widget1:
   title: "FAIMS Mobile Platform"
-  url: 'http://www.fedarch.org/faims-mobile-platform'
+  url: 'http://octopress.fedarch.org/newSite/faims-mobile-platform'
   image: '/images/FAIMS-CYMK-FULL-VECTOR.png'
   text: 'Collect information digitally in the field using the FAIMS Mobile Platform. Use an Android mobile device running the FAIMS app and sync data to an on-site server for doing fully offline GIS.'
 widget2:
   title: "FAIMS Web Tools"
-  url: 'http://http://heuristnetwork.org/'
+  url: 'http://heuristnetwork.org/'
   image: 'http://heuristnetwork.org/wp-content/uploads/2015/01/HeuristLogoNewLight1-300x65.png'
   text: 'Analyse and visualise your data collected in the field using the FAIMS Web Tools suite. Heurist is ready to use now and more tools are in the pipeline.'
 widget3:
   title: "FAIMS Repository"
-  url: 'http://fedarch.org/faims-repository'
+  url: 'http://octopress.fedarch.org/newSite/faims-repository'
   image: 'http://assets.tdar.org/images/r4/bg-logo.png'
   text: 'Preserve your data and make it available to other researchers. Powered by the proven tDAR platform, FAIMS Repository is the place to archive, protect and share your data.'
 
@@ -36,8 +36,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: mailto:enquiries@fedarch.org
-  text: Contact us if you want a module ›
+  url: "/contact/"
+  text: "Contact us for help in data collection ›"
   style: alert
 permalink: /index.html
 ---
@@ -61,7 +61,7 @@ The Field Acquired Information Management Systems Project (FAIMS project) is an 
 Data is automatically synced and backed up, offline and on-site. If you have an Internet connection, you can also sync to the cloud. The FAIMS Mobile Platform records a full history of all data collected and any changes made. It can be tailored to work with any workflow, ontology or standard. Contact us for a demonstration and for more information about how the FAIMS Mobile Platform can make your fieldwork easier. 
 
 
-[Find out more about FAIMS Mobile Platform >>](/faims-mobile-platform)
+[Find out more about FAIMS Mobile Platform >>]({{site.url}}/faims-mobile-platform)
 
 * * *
 
@@ -74,7 +74,7 @@ Data is automatically synced and backed up, offline and on-site. If you have an 
 Heurist is the first tool available in this suite. Heurist is an online database for managing, analysing and interpreting digital research objects. Generate maps to spatially visualise your data and network diagrams to understand relationships in your datasets.
 
 
-[Get started with FAIMS Web Tools >>](/faims-web-tools)
+[Get started with FAIMS Web Tools >>]({{site.url}}/faims-web-tools)
 
 * * *
 
@@ -87,7 +87,7 @@ Heurist is the first tool available in this suite. Heurist is an online database
 
 Based on tDAR, the FAIMS Repository provides a place for researchers to archive their data and maintain confidentiality and privacy of datasets while research is still being carried out with the data. Data can be made public to open it up for access by other researchers.
 
-[Get started with FAIMS Repository >>](/faims-repository)
+[Get started with FAIMS Repository >>]({{site.url}}/faims-repository)
 
 * * *
 
