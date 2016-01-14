@@ -37,7 +37,7 @@ widget3:
 #
 callforaction:
   url: "/contact/"
-  text: "Contact us for help in data collection ›"
+  text: "Contact us! ›"
   style: alert
 permalink: /index.html
 ---
