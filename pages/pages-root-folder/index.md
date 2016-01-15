@@ -103,7 +103,7 @@ Based on tDAR, the FAIMS Repository provides a place for researchers to archive 
 
 * * *
 
-Partners:
+# Partners:
 
 * [Macquarie University](http://anchist.mq.edu.au)
 * [University of Queensland](http://uq.edu.au)  
