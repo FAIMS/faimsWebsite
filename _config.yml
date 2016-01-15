@@ -10,8 +10,6 @@
 # Title of your website
 title: "FAIMS Project"
 
-destination: $HOME/faims.github.io/
-
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: "Creating eResearch tools for Field Researchers, Humanities, and the Sciences"
 
