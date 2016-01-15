@@ -2,14 +2,12 @@
 
 echo "Deploying"
 
-cd $HOME/faims.github.io
-git pull
-
 cd $HOME/faimsWebsite
 git pull
 jekyll clean
 jekyll build
 
 cd $HOME/faims.github.io
-git commit -a -m "automatic commit $(date)"
+git add -Au *
+git commit -a -m "automatic commit $(date)" --allow-empty 
 git push
