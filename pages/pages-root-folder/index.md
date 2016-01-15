@@ -10,7 +10,7 @@ header:
   caption: "Image: Data collection with the FAIMS Mobile App in the Blue Mountains with Georgia Burnett and Penny Crook. CC-BY Shawn Ross 2014"
 widget1:
   title: "FAIMS Mobile Platform"
-  url: 'http://octopress.fedarch.org/newSite/faims-mobile-platform'
+  url: 'http://faims.github.io/faims-mobile-platform'
   image: '/images/FAIMS-CYMK-FULL-VECTOR.png'
   text: 'Collect information digitally in the field using the FAIMS Mobile Platform. Use an Android mobile device running the FAIMS app and sync data to an on-site server for doing fully offline GIS.'
 widget2:
@@ -20,7 +20,7 @@ widget2:
   text: 'Analyse and visualise your data collected in the field using the FAIMS Web Tools suite. Heurist is ready to use now and more tools are in the pipeline.'
 widget3:
   title: "FAIMS Repository"
-  url: 'http://octopress.fedarch.org/newSite/faims-repository'
+  url: 'http://faims.github.io/faims-repository'
   image: 'http://assets.tdar.org/images/r4/bg-logo.png'
   text: 'Preserve your data and make it available to other researchers. Powered by the proven tDAR platform, FAIMS Repository is the place to archive, protect and share your data.'
 
@@ -103,24 +103,17 @@ Based on tDAR, the FAIMS Repository provides a place for researchers to archive 
 
 * * *
 
+Partners:
 
-
-# Partners
-
-* Australian Research Council
-* Macquarie University
-* University of New South Wales
-* University of Queensland
-* University of Sydney
-* LaTrobe University
-* Southern Cross University
-* Flinders University
-
-# Collaborators
-
-* NeCTAR 
-* Open Context
-* OCHRE Data Service of the Oriental Institute
-* tDAR
-* Intersect Australia
-* Archaeology Data Service
+* [Macquarie University](http://anchist.mq.edu.au)
+* [University of Queensland](http://uq.edu.au)  
+* [Universty of New South Wales](http://unsw.edu.au)
+* [LaTrobe University](http://latrobe.edu.au)
+* [University of Sydney](http://usyd.edu.au)  
+* [Flinders University](http://flinders.edu.au)  
+* [Southern Cross University](http://scu.edu.au)  
+* [Open Context](http://opencontext.org)
+* [Digital Antiquity](http://digitalantiquity.org)
+* [Archaeology Data Service (UK)](http://archaeologydataservice.ac.uk/)
+* [Funded by the Australian Research Council (LE140100151)](http://www.arc.gov.au/2015-linkage-projects)
+* [Funded by the National eResearch Collaboration Tools and Resources (eResearch Tools) scheme (RT043)](http://nectar.org.au)
