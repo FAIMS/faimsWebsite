@@ -1,13 +1,11 @@
 - menu_name: "Partner Organisations"
 
-- name: "Australian Research Council"
-  url: http://www.arc.gov.au/2015-linkage-projects
-  class: "network-entypo"
-  title: "Project Funded by support from the Australian Research Council"
-
 - name: "Macquarie University"
   url: "http://anchist.mq.edu.au"
 
+- name: "University of Queensland"
+  url: "http://uq.edu.au"
+  
 - name: "Universty of New South Wales"
   url: "http://unsw.edu.au"
 
@@ -16,9 +14,27 @@
 
 - name: "University of Sydney"
   url: "http://usyd.edu.au"
+  
+- name: "Flinders University"
+  url: "http://flinders.edu.au"
+  
+- name: "Southern Cross University"
+  url: "http://scu.edu.au"
+  
+- name: "Open Context"
+  url: "http://opencontext.org"
 
-- name: "Intersect Australia"
-  url: "http://intersect.org.au"
+- name: "Digital Antiquity"
+  url: "http://digitalantiquity.org"
+
+- name: "Archaeology Data Service (UK)"
+  url: "http://archaeologydataservice.ac.uk/"
+
+- name: "Australian Research Council"
+  url: http://www.arc.gov.au/2015-linkage-projects
+  class: "network-entypo"
+  title: "Funded by the Australian Research Council (LE140100151)"
 
 - name: "NeCTAR"  
   url: "http://nectar.org.au"
+  title: "Funded by the National eResearch Collaboration Tools and Resources (eResearch Tools) scheme (RT043)"
