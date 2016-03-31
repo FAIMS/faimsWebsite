@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="faimsLogo.svg"
-   inkscape:export-filename="/home/brian/faimsLogo.png"
+   inkscape:export-filename="/home/brian/faimsWebsite/assets/img/logo.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -57,7 +57,7 @@
      transform="translate(0,-972.36218)">
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#1b3e93;fill-opacity:1;stroke:none;font-family:Latin Modern Roman;-inkscape-font-specification:Latin Modern Roman"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#f68e1e;fill-opacity:1;stroke:none;font-family:Latin Modern Roman;-inkscape-font-specification:Latin Modern Roman"
        x="-1.155"
        y="997.42218"
        id="text2985"
@@ -66,15 +66,15 @@
          id="tspan2987"
          x="-1.155"
          y="997.42218"
-         style="font-size:35px;line-height:100%;fill:#1b3e93;fill-opacity:1;font-family:Latin Modern Roman;-inkscape-font-specification:Latin Modern Roman">Field Acquired Information</tspan><tspan
+         style="font-size:35px;line-height:100%;fill:#f68e1e;fill-opacity:1;font-family:Latin Modern Roman;-inkscape-font-specification:Latin Modern Roman">Field Acquired Information</tspan><tspan
          sodipodi:role="line"
          x="-1.155"
          y="1032.4221"
          id="tspan2989"
-         style="font-size:35px;line-height:100%;fill:#1b3e93;fill-opacity:1;font-family:Latin Modern Roman;-inkscape-font-specification:Latin Modern Roman">Management Systems Project</tspan></text>
+         style="font-size:35px;line-height:100%;fill:#f68e1e;fill-opacity:1;font-family:Latin Modern Roman;-inkscape-font-specification:Latin Modern Roman">Management Systems Project</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1b3e93;fill-opacity:1;stroke:none;font-family:Latin Modern Roman;-inkscape-font-specification:Latin Modern Roman"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f68e1e;fill-opacity:1;stroke:none;font-family:Latin Modern Roman;-inkscape-font-specification:Latin Modern Roman"
        x="361.68039"
        y="1049.5201"
        id="text2991"
@@ -83,10 +83,10 @@
          id="tspan2993"
          x="361.68039"
          y="1049.5201"
-         style="font-size:12px;fill:#1b3e93;fill-opacity:1;font-family:Latin Modern Roman;-inkscape-font-specification:Latin Modern Roman">Creating eResearch tools for field researchers.</tspan></text>
+         style="font-size:12px;fill:#f68e1e;fill-opacity:1;font-family:Latin Modern Roman;-inkscape-font-specification:Latin Modern Roman">Creating eResearch tools for field researchers.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1b3e93;fill-opacity:1;stroke:none;font-family:Latin Modern Roman;-inkscape-font-specification:Latin Modern Roman"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f68e1e;fill-opacity:1;stroke:none;font-family:Latin Modern Roman;-inkscape-font-specification:Latin Modern Roman"
        x="-126.42857"
        y="-287.85715"
        id="text2995"
