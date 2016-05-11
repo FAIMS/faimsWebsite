@@ -15,11 +15,11 @@ Deliverable #3A -  Status, goals and outlook (a report prepared for [Australia
 
 Deliverable #3B - Arbitrary Offline Data Capture on all of your Androids (published in Across Space and Time. Selected Papers from the 41st Computer Applications and Quantitative Methods in Archaeology Conference (Perth, WA, 25-28 March 2013))
 
-Deliverable #4 - [Stocktaking Workshop Report](http://www.fedarch.org/wordpress/mission/project-reports/faims_del4/)
+Deliverable #4 - [Stocktaking Workshop Report](https://www.fedarch.org/resources/FAIMS%2304%20Workshop%20Agreed%20Standards.pdf)
 
-Deliverable #5 - [Software Development Plan for 2013 ](http://www.fedarch.org/wordpress/curious-about-whats-coming-in-the-new-year/faims_deliverable5/)
+Deliverable #5 - [Software Development Plan for 2013](https://www.fedarch.org/resources/FAIMS%2305%20-%20Development%20Plan%20Narrative.docx)
 
-Deliverable #6 - [Schedule for 2013](http://www.fedarch.org/wordpress/mission/project-reports/faims6_workplan/)
+Deliverable #6 - [Schedule for 2013](https://www.fedarch.org/resources/FAIMS%2306%20-%20Workplan.pdf)
 
 Deliverable #7 - Internal Mobile Tool Prototype Pilot Release #1 (software)
 
@@ -39,22 +39,22 @@ Deliverable #11A -  Data Editing Web Application Pilot Release (software)
 
 Deliverable #11B -  Repository Pilot Release #2 (software)
 
-Deliverable #12C - [Assessment Report on the Data Editing Web Application Pilot Release](wp-content/uploads//2012/12/FAIMS_12C.pdf)
+Deliverable #12C - [Assessment Report on the Data Editing Web Application Pilot Release](https://www.fedarch.org/resources/FAIMS%2312C_Assessment.docx)
 
-Deliverable #12D -  [Assessment Report on the Repository Pilot Release #2](wp-content/uploads//2012/12/FAIMS_12D.pdf)
+Deliverable #12D -  [Assessment Report on the Repository Pilot Release #2](https://www.fedarch.org/resources/FAIMS%2312D%20-%20Assessment.docx)
 
-Deliverable #13 - Mobile Application Beta Release [(software)](http://wiki.fedarch.org:8090/display/FAIMS/App+install+Guide)
+Deliverable #13 - Mobile Application Beta Release (software)
 
 Deliverable #14 - Data Warehousing (cancelled)
 
-Deliverable #15 - [Assessment Report on the Mobile Application Beta Release](wp-content/uploads//2012/12/FAIMS15.pdf)
+Deliverable #15 - [Assessment Report on the Mobile Application Beta Release](https://www.fedarch.org/resources/FAIMS%2315%20-%20Assessment.docx)
 
-Deliverable #16 - Repository "limited internal" Release (http://repo.fedarch.org/)
+Deliverable #16 - Repository "limited internal" Release (cancelled)
 
 Deliverable #17 - Mobile Application Production Release (available on Google Play under "FAIMS app")
 
 Deliverable #18 - Data Editing Web Application Production Release (software available on www.heuristnetwork.org)
 
-Deliverable #19 - [Software Documentation package](wp-content/uploads//2014/06/19.pdf) for all the final releases #16, 17 and 18
+Deliverable #19 - [Software Documentation package and Final Report](https://www.fedarch.org/resources/FAIMS%2319%20-%20Final%20Report.pdf) for all the final releases #16, 17 and 18
 
-Deliverable #20 - Final Report (upcoming)
+

@@ -13,22 +13,14 @@ permalink: /research/
 
 <a name="posters"/>
 
-## Pamphlets
-
-* [Introduction](https://www.fedarch.org/resources/introPamphlet.pdf) (Apr-2015)
-* [Introducing Data Collection on Android](https://www.fedarch.org/resources/mobilePamphlet.pdf) (Apr-2015)
-* [The Repository](http://www.fedarch.org/wordpress/wp-content/uploads//2013/03/imposeRepoPamphlet.pdf) (Oct-2013)
-* [Relational and Nonrelational Program Independent Schemas](http://www.fedarch.org/wordpress/wp-content/uploads//2013/03/imposeBrianPamphlet.pdf) (Oct-2013)
-* [Cheat Sheet Handouts](https://www.fedarch.org/resources/handouts.pdf) (Apr-2015)
-* [Demo Features](https://www.fedarch.org/resources/demoFeatures.pdf) (Apr-2015)
 
 
 ## Posters
 
-* [New E-Research Tools for Archaeologists](http://fedarch.org/pdf/ShawnPoster.pdf) (Oct-2013)
-* [GIS On Android](http://www.fedarch.org/wordpress/wp-content/uploads//2013/03/AdelaPoster.pdf) (Oct-2013)
-* [Relational and Non-relational program independent Schemas](http://www.fedarch.org/wordpress/wp-content/uploads//2013/03/BrianPoster.pdf) (Oct-2013)
-* [Standards: An analysis of diversity in Australian Government standards ](http://www.fedarch.org/wordpress/wp-content/uploads//2013/07/CAAPoster_StandardsLR.pdf) (Oct-2013)
+* [New E-Research Tools for Archaeologists](http://fedarch.org/resources/ShawnPoster.pdf) (Oct-2013)
+* [GIS On Android](http://www.fedarch.org/resources/gisOnAndroidPoster.pdf) (Oct-2013)
+* [Relational and Non-relational program independent Schemas](http://www.fedarch.org/resources/databasePoster.pdf) (Oct-2013)
+* [Standards: An analysis of diversity in Australian Government standards ](http://www.fedarch.org/resources/CAAPoster_StandardsLR.pdf) (Oct-2013)
 
 
 <a name="research"/>

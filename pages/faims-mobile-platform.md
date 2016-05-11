@@ -4,7 +4,7 @@ show_meta: false
 layout: page
 slug: faims-mobile-platform
 title: Field Data Collection Platform
-permalink: /faims-mobile-platform/
+permalink: /faims-mobile/
 header:
   image_fullwidth: truck.jpg
   caption: CSIRO researcher Alistair White using the FAIMS module for geochemical sampling as part of the Capricorn Distal Footprints Project. (C) CSIRO, Alistair White 2015.
@@ -45,7 +45,7 @@ Download the FAIMS mobile app from the Google Play store using the link below an
 
 * [Getting Started guide](https://faimsproject.atlassian.net/wiki/display/MobileUser/Getting+Started)
 
-![Google Play Store: FAIMS]({{ site.urlimg }}en_app_rgb_wo_60.png)
+[![Google Play Store: FAIMS]({{ site.urlimg }}en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=au.org.intersect.faims.android)
 
 * * *
 

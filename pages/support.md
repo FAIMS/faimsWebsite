@@ -12,33 +12,20 @@ permalink: /support/
 
 <a name="2"/>
 
-# Getting started
-
-## FAIMS Mobile Platform
-
-* [Getting Started Guide](https://faimsproject.atlassian.net/wiki/display/MobileUser/Getting+Started)
+## Getting started with FAIMS Mobile
 
 * [Cheatsheets](https://www.fedarch.org/resources/handouts.pdf) (Apr-2015)
+
+* [User Guide](https://faimsproject.atlassian.net/wiki/display/MobileUser/Getting+Started)
 
 * [Demo Module Features](https://www.fedarch.org/resources/demoFeatures.pdf) (Apr-2015)
 
 * [User to Developer Documentation](https://docs.google.com/document/d/1BQ_AZQQwEm2pxMyQ5wDLjOdEsO2ixmJaCwEyc9jsEOs/edit?usp=sharing) (Google Drive)
 
-## FAIMS Web Tools
-
-Access the Heurist instance for FAIMS using the following link:
-
-* [http://heurist.fedarch.org/heurist/](http://heurist.fedarch.org/heurist/)
-
-## FAIMS Repository
-
-Access the FAIMS Repository using the following link:
-
-* [http://repo.fedarch.org/](http://repo.fedarch.org/)
+<a name="1"/>
 
 * * *
 
-<a name="1"/>
 
 # Frequently Asked Questions
 
@@ -46,7 +33,7 @@ Here are some questions from our users and collaborators.
 
 ## Who can use FAIMS?
 
-Anyone can use the FAIMS platform. Archaeologists, geologists, environmental scientist needing applications for offline digital data field collection are particularly welcome! We are developing open source and there is no cost to use and distribute the software.
+Anyone can use the FAIMS platform. Archaeologists, geologists, environmental scientist needing applications for offline digital data field collection are particularly welcome! We are developing open source and there is no cost to use and distriubplate the software.
 
 ## How skilled do I have to be to use it properly?
 
@@ -56,33 +43,15 @@ If you want to produce your own recording sheets, you'll need to be confident in
 
 ## I want to see a demo of FAIMS!
 
-This is in fact a three-fold question that I will answer in three pieces.
-
 You can trial the FAIMS Mobile platform on your own, by downloading the application off of Google Play (it only works on Android) and then downloading sample modules from our Demo Library and trying them out. For full instructions on the process, see our [User Guide](https://faimsproject.atlassian.net/wiki/display/MobileUser/Get+to+know+FAIMS+with+the+Demo+Library).
-
-You can review the features of Heurist, the basis for our data editing and data publishing web application, at its webpage [http://heuristnetwork.org](http://heuristscholar.org). In the course of 2013-14 we have built bridges between Heurist and FAIMS mobile application to ensure safe data ingest, and journey to digital repository.
-
-The features of the FAIMS Repository can be currently explored at the homepage of its native implementation, the Digital Archaeological Record, developed by Arizona State University, cf. [www.tDAR.org](http://www.tdar.org). We are building an Australian implementation of the tDAR and will be mirroring their code and functionality.
 
 ## What are the technical requirements of the system?
 
-You need an Android device running Android 4.1+ with rear-facing camera, an Access Point, and a computer capable of running (or virtualising) Linux.
+You need an Android device running Android 4.4+ with rear-facing camera, an Access Point, and a computer capable of running (or virtualising) Linux.
 
 ## Will it work on an iPad?
 
 No, it is native Android.
-
-## How much would it cost us to get the FAIMS infrastructure?
-
-All three components of FAIMS infrastructure are open source and free. Anyone with sufficient technical skills can download the code, install and use the software.
-
-The different FAIMS components (see above), however, have different requirements on the skills and the hardware required, which will result in varying costs of infrastructure adoption.
-
-If you are interested in having a specific component of our system tailored to your needs ( e.g. mobile application customised, or data deposited in the repository), please contact our staff to get a quote.
-
-Before talking to our staff, please, prepare a brief overview of your project, your data structure and your needs. The quote takes into account the complexity of your workflow and the structure and complexity of your data.
-
-If you are interested in copying the entire infrastructure, please contact our technical staff to acquire a quote on the technical guidance for installation.
 
 ## I need a mobile application for my new project.  How much will it cost if I need help?
 
@@ -92,51 +61,46 @@ On a simple interface and using our templates, a one-day consultation will help 
 
 If you have a complex workflow and deeply structured and complicated data, you may need to make a series of appointments with our technical advisers.  You will discuss your data structure and your workflow with them and decide on the best way of tailoring the app to your needs.  Our application is generalized and designed to be versatile. Customisation to any kind of project will require anywhere between 1--10 days, depending on the complexity of your data and field recording workflow.  Call us today to get a quote!
 
-## I want to deposit my data in the FAIMS repository. What does this process involve?
+## Is technical support provided by the FAIMS project?
 
-If you are interested in contributing data from any other field of Australian archaeology, or you are an Australian archaeologist working overseas, you will not be able to start contributing data until 30 September when repository is publicly released. In the meantime, we are keen to work with sample datasets from a range of fields, so please contact [repository@fedarch.org](mailto:repository@fedarch.org) if you have suitable material.
+[Yes.](http://support.fedarch.org)
 
-Once the repository is online, the process will involve: creating an account and agreeing to the terms and condition of use; clicking 'New Project' and entering as much metadata as you can about your Project; then uploading and describing some extra metadata for documents, datasets, images and sensory data as you possibly can. See the user documentation pages on [tDAR](https://docs.tdar.org/) to get an idea of what's involved. It's designed to be intuitive for archaeologists and no special skills are required. There are a number of features (like project inheritance and bulk uploads) to make data entry as easy as possible.
+If you need specialised technical assistance for customisation of any FAIMS component, the cost will depend on the scale and scope of your project and dataset(s). At the moment, we have been quoting a ballpark figure of $5,000 - 15,000 (AUD) for ARC projects who need a customised mobile application for data collection and assistance with automated ingest of final datasets into a federated repository of your choice. This number will vary largely depending on the nature, volume and complexity of your data and its maintenance needs.
 
-The second stage in publishing your project records is ontology creation and mapping. This will be the basis for intersite comparisons using tDAR's [Data Integration](https://dev.tdar.org/confluence/display/TDAR/Data+Integration) tool.
+## I have other questions!
 
-If you do not have the time to prepare your site archive or ontology maps, we can do this for you for a fee. Please [contact us](mailto:enquiries@fedarch.org) to discuss the nature of your dataset. We will need information on the structure of your dataset, the completeness of the metadata, the geographic and thematic coherence, internal consistency, formats of data used, volume and complexity of the data.
+Ask us on [support](http://support.fedarch.org) or look at our [User Guide](https://faimsproject.atlassian.net/wiki/display/MobileUser)
 
-From 2015, there will be charges for depositing data to cover the ongoing costs of the repository. A schedule of fees will be prepared in 2014.
-
-## Is technical support provided by the FAIMS project?  At what cost?
-
-Yes, low level technical support is provided to all FAIMS users.  Our developers will continue to maintain and debug all components of FAIMS during 2014. We are currently investigating organisational models which would guarantee the support and development of the FAIMS tools for decades to come. An announcement of the direction we will pursue will be made well before the closure of the project in 2013.
-
-If you need specialised technical assistance for customisation of any FAIMS component, the cost will depend on the scale and scope of your project and dataset(s). At the moment, we have been quoting a ballpark figure of $5,000 -10,000 (AUD) for ARC projects who need a customised mobile application for data collection and assistance with automated ingest of final datasets into the repository. This number will vary largely depending on the nature, volume and complexity of your data and its maintenance needs.
-
-
+<a name="3"/>
 
 * * *
 
-<a name="3"/>
 
 # Documentation
 
 Use the following links to find FAIMS-specific documentation:
 
-* [FAIMS Mobile Platform User Guide (for users)](https://faimsproject.atlassian.net/wiki/display/MobileUser/Introduction)
+* [Cheatsheets](https://www.fedarch.org/resources/handouts.pdf) (Apr-2015)
+
+* [FAIMS Mobile Platform User Guide](https://faimsproject.atlassian.net/wiki/display/MobileUser/Introduction)
+
+* [User to Developer Documentation](https://docs.google.com/document/d/1BQ_AZQQwEm2pxMyQ5wDLjOdEsO2ixmJaCwEyc9jsEOs/edit?usp=sharing) (Google Drive)
 
 * [FAIMS Mobile Platform Developer Wiki](https://faimsproject.atlassian.net/wiki/display/FAIMS/Mobile+Platform+Home)
 
-* [FAIMS-Heurist Lifecycle Wiki](https://faimsproject.atlassian.net/wiki/display/HEURIST/Building+FAIMS+modules+from+scratch+with+Heurist%3A+a+how-to+guide)
-
 * [FAIMS Knowledge Base](https://faimsproject.atlassian.net/wiki/display/Support/FAIMS+Support+Knowledge+Base)
 
-Access documentation for Heurist using the following link:
+<a name="Pamphlets"/>
 
-* [Heurist Help](http://heuristnetwork.org/documentation/)
-
-The FAIMS Repository is powered by tDAR. Access documentation for tDAR using the following link:
-
-* [tDAR Documentation Home](https://docs.tdar.org/)
+* * *
 
 
+# Informational Pamphlets
+
+* [Introduction](https://www.fedarch.org/resources/introPamphlet.pdf) (Apr-2015)
+* [Introducing Data Collection on Android](https://www.fedarch.org/resources/mobilePamphlet.pdf) (Apr-2015)
+* [Relational and Nonrelational Program Independent Schemas](http://www.fedarch.org/resources/databasePamphlet.pdf) (Oct-2013)
+* [Demo Features](https://www.fedarch.org/resources/demoFeatures.pdf) (Apr-2015)
 
 * * *
 

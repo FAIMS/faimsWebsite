@@ -15,7 +15,7 @@ The primary FAIMS team can be individually contacted by email:
 
 * Project Director: Dr Shawn Ross, Associate Professor, Dept. of Ancient History, Macquarie University, [shawn@fedarch.org](mailto:shawn@fedarch.org)
 * Development Coordinator, Macquarie: Dr Adela Sobotkova, Research Fellow, Dept. of Ancient History, Macquarie University, [adela@fedarch.org](mailto:adela@fedarch.org)
-* Development Coordinator, La Trobe: Dr Penny Crook, Research Fellow, School of Historical and European Studies, La Trobe University, [penny@fedarch.org](mailto:penny@fedarch.org)
+* Development Coordinator, Macquarie: Ms Petra Janouchova, Dept. of Ancient History, Charles University. [petra@fedarch.org](mailto:petra@fedarch.org)
 * Technical Director, Macquarie: Dr Brian Ballsun-Stanton, Research Fellow, Dept. of Ancient History, Macquarie University, [brian@fedarch.org](mailto:brian@fedarch.org)
 
 # Mailing address

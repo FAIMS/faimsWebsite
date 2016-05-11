@@ -1,22 +1,6 @@
 #
 #   Navigation to the left › side: left
 #
-- title: Home
-  url: "/#About"
-  side: left
-  dropdown:
-  - title: "FAIMS Mobile Platform"
-    url: "/#Mobile"
-  - title: "FAIMS Web Tools"
-    url: "/#WebTools"
-  - title: "FAIMS Repository"
-    url: "/#Repo"
-  - title: "Contact Us"
-    url: "/#Contact"
-
-- title: "Get Started!"
-  url: "/support/#2"
-  side: left
 
 - title: "About"
   url: "/about"
@@ -27,17 +11,28 @@
   - title: "Our Team"
     url: "/about/#Team"
 
-
-- title: "Our Tools"
-  url: "/faims-mobile-platform"
+- title: Home
+  url: "/#About"
   side: left
-  dropdown: 
+  dropdown:
   - title: "FAIMS Mobile Platform"
-    url: "/faims-mobile-platform"
-  - title: "FAIMS Web Tools"
-    url: "/faims-web-tools"
-  - title: "FAIMS Repository"
-    url: "/faims-repository"
+    url: "/#Mobile"
+  - title: "Online Services"
+    url: "/#Services"
+  - title: "Federated Data Services"
+    url: "/#Federated"
+  - title: "Contact Us"
+    url: "/contact"
+
+- title: "FAIMS Mobile"
+  url: "/faims-mobile"
+  side: left
+
+- title: "Get Started!"
+  url: "/support/#2"
+  side: left
+
+
 
 - title: "Support"
   url: "http://support.fedarch.org"
@@ -49,6 +44,8 @@
     url: "/support/#2"
   - title: "Documentation"
     url: "/support/#3"
+  - title: "Pamphlets"
+    url: "/support/#Pamphlets"
   - title: "Get Help"
     url: "http://support.fedarch.org"
 
@@ -56,7 +53,9 @@
   url: "/research"
   side: left
   dropdown:
-  - title: "Posters and Pamphlets"
+  - title: "Publications"
+    url: "/research/#publications"
+  - title: "Posters"
     url: "/research/#posters"
   - title: "Research and Reports"
     url: "/research/#research"
@@ -77,6 +76,10 @@
 #
 #   Navigation to the right › side: right
 #
+
+
+
+
 - title: "Info"
   url: "/info/"
   side: right
