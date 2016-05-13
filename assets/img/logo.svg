@@ -52,6 +52,38 @@
          operator="over"
          result="composite2" />
     </filter>
+    <filter
+       id="filter3019"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3021"
+         flood-opacity="0.75"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3023"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3025"
+         in="composite"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset3027"
+         dx="2"
+         dy="2"
+         result="offset" />
+      <feComposite
+         id="feComposite3029"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -61,14 +93,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="122.45196"
-     inkscape:cy="-88.412167"
+     inkscape:cx="379.06023"
+     inkscape:cy="104.19244"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1056"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
@@ -90,22 +122,21 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-size:35.14526749000000194px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Tw Cen MT;-inkscape-font-specification:Tw Cen MT;filter:url(#filter3304)"
-       x="9.4376755"
-       y="31.143393"
-       id="text3005"
-       sodipodi:linespacing="100%"><tspan
+       style="font-size:31.63222313px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter3019);font-family:Tw Cen MT;-inkscape-font-specification:Tw Cen MT"
+       x="-0.94896698"
+       y="30.78026"
+       id="text2997"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3007"
-         x="9.4376755"
-         y="31.143393"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:1px;word-spacing:5px;writing-mode:lr-tb;font-family:Volkhov;-inkscape-font-specification:Volkhov Bold;fill:#ffffff;"
-         dx="0">Field Acquired Information </tspan><tspan
+         id="tspan2999"
+         x="-0.94896698"
+         y="30.78026"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Volkhov;-inkscape-font-specification:Volkhov">Field Acquired Information</tspan><tspan
          sodipodi:role="line"
-         x="9.4376755"
-         y="66.288658"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:1px;word-spacing:0px;writing-mode:lr-tb;font-family:Volkhov;-inkscape-font-specification:Volkhov Bold;fill:#ffffff;"
-         id="tspan3013">Management Systems Project</tspan></text>
+         x="-0.94896698"
+         y="70.320541"
+         id="tspan3001"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Volkhov;-inkscape-font-specification:Volkhov">Management Systems Project</tspan></text>
   </g>
   <g
      inkscape:label="Main"
