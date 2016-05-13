@@ -61,14 +61,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="248.16625"
+     inkscape:cx="122.45196"
      inkscape:cy="-88.412167"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1056"
-     inkscape:window-x="0"
+     inkscape:window-x="1920"
      inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
@@ -79,7 +79,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -99,12 +99,12 @@
          id="tspan3007"
          x="9.4376755"
          y="31.143393"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:1px;word-spacing:5px;writing-mode:lr-tb;stroke:#ffffff;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Volkhov;-inkscape-font-specification:Volkhov Bold;fill:#ffffff"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:1px;word-spacing:5px;writing-mode:lr-tb;font-family:Volkhov;-inkscape-font-specification:Volkhov Bold;fill:#ffffff;"
          dx="0">Field Acquired Information </tspan><tspan
          sodipodi:role="line"
          x="9.4376755"
          y="66.288658"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:1px;word-spacing:0px;writing-mode:lr-tb;stroke:#ffffff;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Volkhov;-inkscape-font-specification:Volkhov Bold;fill:#ffffff"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:1px;word-spacing:0px;writing-mode:lr-tb;font-family:Volkhov;-inkscape-font-specification:Volkhov Bold;fill:#ffffff;"
          id="tspan3013">Management Systems Project</tspan></text>
   </g>
   <g
