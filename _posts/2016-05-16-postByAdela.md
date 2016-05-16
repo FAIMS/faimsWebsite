@@ -2,6 +2,7 @@
 author: adela
 comments: true
 layout: post
+date: 2016-05-16 19:25:26+00:00
 slug: a test post by Adela
 title: 'Adela Says Hi'
 categories:
