@@ -18,4 +18,4 @@ So, just to make a sample commit, I'm testing to see if our [webhook](https://gi
 
 Basically, if I commit things, git tells a tiny daemon on the server to pull this repository. The Jekyll listener then remakes the html, and pushes the blog post. Like magic. Secure, secure magic.  
 
-Of course, the first commit I did didn't work, so I'm trying again.
+Of course, the first commit I did didn't work, so I'm trying again. And a third time, this time with a shell script.
