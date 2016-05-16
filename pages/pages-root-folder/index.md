@@ -6,7 +6,7 @@
 #
 layout: page-fullwidth
 header:
-  image_fullwidth: bm-8.png
+  image_fullwidth: blueMountainTitlewithMask.png
   caption: "Image: Data collection with the FAIMS Mobile App in the Blue Mountains with Georgia Burnett and Penny Crook. CC-BY Shawn Ross 2014"
 #widget1:
 #  title: "FAIMS Mobile"

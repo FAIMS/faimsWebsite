@@ -1,12 +1,15 @@
 ---
 layout: page
-title: "Info"
+title: "Information"
 subheadline: "About the FAIMS Project"
 teaser: ""
+header:
+  image_fullwidth: context.jpg
+  caption: "Image: Data collection with the FAIMS Mobile App in the Blue Mountains with Georgia Burnett and Penny Crook. CC-BY Shawn Ross 2014"
 permalink: /info/
 ---
 
-# What is FAIMS?
+## What is FAIMS?
 
 The Field Acquired Information Management Systems Project (FAIMS project) is an eResearch initiative developed at UNSW, Australia and currently housed at the Department of Ancient History at Macquarie University. Led by two archaeologists, a historian and a digital humanist and aided by casual programming staff, the FAIMS team has delivered 25 field recording systems over its lifetime (2012-present) to various field disciplines from archaeology, ecology, to geochemistry. We have a history of excellence in requirements elicitation, testing, delivering, and maintaining research-capable digital recording modules. 
 

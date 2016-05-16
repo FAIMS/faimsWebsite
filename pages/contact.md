@@ -4,6 +4,9 @@ title: "Contact"
 meta_title: "Contact Us"
 subheadline: ""
 teaser: ""
+header:
+  image_fullwidth: bm-16.png
+  caption: "Image: Data collection with the FAIMS Mobile App in the Blue Mountains with Georgia Burnett and Penny Crook. CC-BY Shawn Ross 2014"
 permalink: "/contact/"
 ---
 
