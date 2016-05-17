@@ -6,4 +6,4 @@ echo "WORKING"
 
 cd $HOME/faimsWebsite
 git pull
-jekyll build
+/home/fedarch/.rbenv/shims/jekyll build
