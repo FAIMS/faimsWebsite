@@ -6,9 +6,7 @@ layout: page
 title: "Editing... from github"
 teaser: "I'm seeing if the webhook thingo works..."
 categories:
-  - news
-tags:
-  - technical
+  - News
 #
 # Styling
 #
