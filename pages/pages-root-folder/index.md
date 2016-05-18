@@ -95,6 +95,7 @@ homepage: true
 <ul class="small-block-grid-3 medium-block-grid-3 large-block-grid-5" style="text-align:center;vertical-align:center;">
 <li><a style="border:none" href="http://www.chiefscientist.nsw.gov.au/investing-in-science"><img src="/images/DI%20colour.jpg" alt="NSW Department of Industry"></a></li>
 <li><a style="border:none" href="http://purl.org/au-research/grants/arc/LE140100151"><img src="http://www.arc.gov.au/sites/all/themes/arc/logo.png" alt="Australian Research Coucnil"><p>LE140100151</p></a></li>
+<li><a style="border:none" href="http://nectar.org.au"><img src="https://nectar.org.au/wp-content/uploads/2015/10/nectardirectorate-logo.png" alt="Funded by the National eResearch Collaboration Tools and Resources (eResearch Tools) scheme (RT043)"><p>RT043</p></a></li>
 <li><a style="border:none"  href="http://anchist.mq.edu.au"><img src="https://www.mq.edu.au/mq_templates/global/images/2015/logo.png" alt="Macquarie University"></a></li>
 <li><a style="border:none" href="http://uq.edu.au"><img src="http://staff.itee.uq.edu.au/kevinz/UQ-logo.jpg" alt="University of Queensland"></a></li>
 <li><a style="border:none" href="https://www.unsw.edu.au/"><img src="https://www.unsw.edu.au/sites/default/files/UNSW.png" alt="Macquarie University"></a></li>
@@ -105,7 +106,6 @@ homepage: true
 <li><a style="border:none" href="http://opencontext.org"><img src="/images/oc.png" alt="Open Context"></a></li>
 <li><a style="border:none" href="http://digitalantiquity.org"><img src="http://assets.tdar.org/images/r4/bg-logo.png" alt="Digital Antiquity"></a></li>
 <li><a style="border:none" href="http://archaeologydataservice.ac.uk/"><img src="http://archaeologydataservice.ac.uk/images/ads_footer_logo.gif" alt="Archaeology Data Service (UK)"></a></li>
-<li><a style="border:none" href="http://nectar.org.au"><img src="https://nectar.org.au/wp-content/uploads/2015/10/nectardirectorate-logo.png" alt="Funded by the National eResearch Collaboration Tools and Resources (eResearch Tools) scheme (RT043)"><p>RT043</p></a></li>
 
 </ul>
 
