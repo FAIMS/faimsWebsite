@@ -92,7 +92,8 @@ homepage: true
 
 ## FAIMS Partners:
 
-<ul class="small-block-grid-2 medium-block-grid-2 large-block-grid-4" style="text-align:center;vertical-align:center;">
+<ul class="small-block-grid-3 medium-block-grid-3 large-block-grid-5" style="text-align:center;vertical-align:center;">
+<li><a style="border:none" href="http://purl.org/au-research/grants/arc/LE140100151"><img src="/images/DI%20colour.jpg" alt="NSW Department of Industry"></a></li>
 <li><a style="border:none" href="http://purl.org/au-research/grants/arc/LE140100151"><img src="http://www.arc.gov.au/sites/all/themes/arc/logo.png" alt="Australian Research Coucnil"><p>LE140100151</p></a></li>
 <li><a style="border:none"  href="http://anchist.mq.edu.au"><img src="https://www.mq.edu.au/mq_templates/global/images/2015/logo.png" alt="Macquarie University"></a></li>
 <li><a style="border:none" href="http://uq.edu.au"><img src="http://staff.itee.uq.edu.au/kevinz/UQ-logo.jpg" alt="University of Queensland"></a></li>
