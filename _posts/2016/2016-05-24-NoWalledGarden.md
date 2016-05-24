@@ -4,13 +4,13 @@ layout: post
 # Content
 #
 subheadline: "Discussion on Digital Archaeology Commons"
-title: "FAIMS is not a walled garden: A Response to Ben!"
-teaser: "What exactly is FAIMS Mobile and where it stands among digital data capture tools?..responding to a recent post on DAC"
+title: "FAIMS is not a walled garden: A Response to Ben"
+teaser: "What exactly is FAIMS Mobile and where it stands among digital data capture tools? FAIMS is responding to a recent post on DAC"
 categories:
   - Reflections
 author: Adela
 image:
-    title: https://c4.staticflickr.com/5/4112/5171713979_56cca81d55_o.jpg
+    title: AbstractGarden.jpg
     caption: "Sonya Bobb: Abstract Art, Dubai"
     caption_url: https://www.flickr.com/photos/virtualbcm/5171713979
 #
