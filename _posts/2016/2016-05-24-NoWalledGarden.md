@@ -10,7 +10,7 @@ categories:
   - Reflections
 author: Adela
 header:
-	image_fullwidth: AbstractGarden.jpg
+    image_fullwidth: AbstractGarden.jpg
     caption: "Sonya Bobb: Abstract Art, Dubai"
     caption_url: https://www.flickr.com/photos/virtualbcm/5171713979
 #
