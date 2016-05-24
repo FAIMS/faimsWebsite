@@ -68,7 +68,8 @@ Penny Crook is a Research Fellow at the School of Historical and European Studie
 * _Technical Director_
 * _Research Associate, Dept of Ancient History, Macquarie University_
 
-Brian Ballsun-Stanton (Ph.D. University of New South Wales, 2012) is currently a Research Associate at Macquarie University in Sydney, Australia. Dr. Ballsun-Stanton's research interests include exploring how people interact with and understand the nature of data; and an investigation into the mechanics of ludic-narrative interactions in games. Dr. Ballsun-Stanton is the Technical Manager and Data Architect for the FAIMS Project, leading development of its offline-capable mobile data recording application and server.
+Brian Ballsun-Stanton (Ph.D. University of New South Wales, 2012) is currently a Research Associate at Macquarie University in Sydney, Australia. His research interests include exploring how people interact with and understand the nature of data and an investigation into the mechanics of ludic-narrative interactions in games. He is the Technical Director and Data Architect for the Field Acquired Information Management Systems (FAIMS) Project.
+
 
 [Brian's Publications](https://mq.academia.edu/BrianBallsunStanton)
 
