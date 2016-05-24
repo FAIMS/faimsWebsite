@@ -11,7 +11,7 @@ categories:
 author: Adela
 image:
     title: https://c4.staticflickr.com/5/4112/5171713979_56cca81d55_o.jpg
-    caption: Sonya Bobb: Abstract Art, Dubai
+    caption: "Sonya Bobb: Abstract Art, Dubai"
     caption_url: https://www.flickr.com/photos/virtualbcm/5171713979
 #
 # Styling
