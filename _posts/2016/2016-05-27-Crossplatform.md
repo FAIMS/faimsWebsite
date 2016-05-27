@@ -20,7 +20,7 @@ header:
 
 > *Why build one when you can build two at twice the price?* 
 >
-> -- [(Prof. Hadden in Contact (1997)](https://www.youtube.com/watch?v=Et4sMJP9FmM) 
+> -- [Prof. Hadden in Contact (1997)](https://www.youtube.com/watch?v=Et4sMJP9FmM) 
 
 It's a shame we at FAIMS can't follow the first rule of government spending.
 
