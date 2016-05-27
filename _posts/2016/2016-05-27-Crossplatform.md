@@ -4,7 +4,7 @@ layout: post
 # Content
 #
 subheadline: "Exploring the decisions behind FAIMS architecture"
-title: "Choosing the right mobile application platform; Android, iOS or cross-platform?"
+title: "Choosing the right mobile application platform; Android, iOS, or cross-platform?"
 teaser: "We at FAIMS team get often asked:'Why Android? Is this due to some ideological attachment to Google?' Not quite. Our reasons were more complex and much more practical than that."
 categories:
   - Reflections
