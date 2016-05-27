@@ -18,7 +18,7 @@ header:
 #
 ---
 
-> *Why build one when you can build two at twice the price? 
+> *Why build one when you can build two at twice the price?* 
 >
 > -- [(Prof. Hadden in Contact (1997)](https://www.youtube.com/watch?v=Et4sMJP9FmM) 
 
