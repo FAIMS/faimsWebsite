@@ -18,8 +18,9 @@ header:
 #
 ---
 
-Why build one when you can build two at twice the price? *(Prof. Hadden in [Contact (1997)](https://www.youtube.com/watch?v=Et4sMJP9FmM))* -- It's a shame we can't follow the first rule of 
-government spending.
+> *Why build one when you can build two at twice the price? (Prof. Hadden in [Contact (1997)](https://www.youtube.com/watch?v=Et4sMJP9FmM))* 
+
+It's a shame we at FAIMS can't follow the first rule of government spending.
 
 In this post I would again like to use a piece of [Ben Carter's 29 January 2016 post](http://commons.digitalarchaeology.msu.edu/digitaldatacollection/2016/01/29/new-version-of-a-robust-open-flexible-and-offline-digital-data-collection-in-the-field/) 
 as a jumping off point to discuss basic mobile app architecture. What I mean by this is the choice to build something in native Android, native iOS. something like Adobe phoneGap, or Titanium Appcelerator, 
