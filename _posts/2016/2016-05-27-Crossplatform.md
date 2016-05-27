@@ -9,9 +9,9 @@ teaser: "We at FAIMS team get often asked:'Why Android? Is this due to some ideo
 categories:
   - Reflections
 author: Adela
-image:
-    title: Platform.jpg
-    caption: "U1 München Westfriedhof by Martin Falbisoner - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=23724665"
+header:
+    image_fullwidth: Platform.jpg
+    caption: "Martin Falbisoner: U1 München Westfriedhof"
     caption_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Westfriedhof_zentral.JPG/1200px-Westfriedhof_zentral.JPG"
 #
 # Styling
