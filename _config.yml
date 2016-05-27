@@ -133,7 +133,7 @@ defaults:
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
 # google_author:             ""
-# google_site_verification:  ""
+google_site_verification:  "5B-8nVUE8kLQPqBEKgPipvcaQMgXYVm3T3_50vKrFK"
 # bing_webmastertools_id:    ""
 # alexa_verify_id:           ""
 
@@ -218,7 +218,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-# google_analytics_tracking_id: 
+google_analytics_tracking_id: UA-33640207-1
 
 
 
