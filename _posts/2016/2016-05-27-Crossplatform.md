@@ -17,7 +17,7 @@ header:
 # Styling
 #
 ---
-In this post I would again like to use a piece of [Ben Carter's 29 January 2016 post](http://commons.digitalarchaeology.msu.edu/digitaldatacollection/2016/01/29/new-version-of-a-robust-open-flexible-and-offline-digital-data-collection-in-the-field/) as a jumping off point to discuss basic mobile app architecture. What I mean by this is the choice to build something in native Android, native iOS. something like Adobe phoneGap, or Titanium Appcelerator, or pure [html5](https://en.wikipedia.org/wiki/HTML5). 
+In this post I would again like to use a piece of [Ben Carter's 29 January 2016 post](http://commons.digitalarchaeology.msu.edu/digitaldatacollection/2016/01/29/new-version-of-a-robust-open-flexible-and-offline-digital-data-collection-in-the-field/) as a jumping off point to discuss basic mobile app architecture. What I mean by this is the choice to build something in native Android, native iOS. something like Adobe phoneGap, or Titanium Appcelerator, or pure [HTML5](https://en.wikipedia.org/wiki/HTML5). 
 
 Ben recommends HTML5. Which development "stack" (programming languages and technologies) to use is a decision that needs to be taken with care, as it has serious implications on many aspects of development, performance, and usability. We are asked frequently why we chose Android and whether this was due to an ideological attachment to Google. Our reasons were more complex and, in fact, much more practical than that.
 
