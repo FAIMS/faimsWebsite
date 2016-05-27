@@ -9,8 +9,8 @@ teaser: "What exactly is FAIMS Mobile and where it stands among digital data cap
 categories:
   - Reflections
 author: Adela
-image:
-    title: Platform.jpg
+header:
+    image_fullwidth: Platform.jpg
     caption: "Martin Falbisoner: U1 München Westfriedhof"
     caption_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Westfriedhof_zentral.JPG/1200px-Westfriedhof_zentral.JPG"
 #
