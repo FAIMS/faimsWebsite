@@ -1,13 +1,14 @@
 <aside>
 	<div class="panel radius">
-		<h3>Sidebar</h3>
-		<p>
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-			Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-		</p>
+		<h3>Categories</h3>
+		{% for category in site.categories %}
+		    <a href="/category/{{ category[0] }}/" style="text-decoration: none;">{% if category[0] == 'aws' %}{{ category[0] | upcase }}{% else %}{{ category[0] | capitalize }}{% endif %}</a><br />
+		{% endfor %}
+		<p />
+		<h4>Tags</h4>
+		{% for tag in page.tags %}
+		    <a href="/tags/{{ tag }}/">{{ tag }}</a>
+		{% endfor %}
 	</div>
-
-  <img class="b30" src="http://dummyimage.com/303x16:9/334D5C/EFC94C.png&amp;text=Placeholder" alt="">
 
 </aside>

@@ -15,11 +15,76 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="logo.svg"
-   inkscape:export-filename="/home/brian/faimsWebsite/assets/img/logo.png"
+   inkscape:export-filename="/home/mq20151400/faimsWebsite/assets/img/logo.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
-     id="defs4" />
+     id="defs4">
+    <filter
+       id="filter3304"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3306"
+         flood-opacity="0.75"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3308"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3310"
+         in="composite"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset3312"
+         dx="2"
+         dy="2"
+         result="offset" />
+      <feComposite
+         id="feComposite3314"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter3019"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3021"
+         flood-opacity="0.75"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3023"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3025"
+         in="composite"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset3027"
+         dx="2"
+         dy="2"
+         result="offset" />
+      <feComposite
+         id="feComposite3029"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -28,13 +93,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="269.34032"
-     inkscape:cy="116.05748"
+     inkscape:cx="379.06023"
+     inkscape:cy="104.19244"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1600"
-     inkscape:window-height="876"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1" />
@@ -46,7 +111,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,66 +122,21 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola"
-       x="-126.42857"
-       y="-287.85715"
-       id="text2995-0"
-       sodipodi:linespacing="125%"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
+       style="font-size:31.63222313px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter3019);font-family:Tw Cen MT;-inkscape-font-specification:Tw Cen MT"
+       x="-0.94896698"
+       y="30.78026"
+       id="text2997"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan2997-4"
-         x="-126.42857"
-         y="-287.85715" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola"
-       x="-126.42857"
-       y="-287.85715"
-       id="text2995-0-8"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/brian/faimsWebsite/assets/img/text2995-0.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
+         id="tspan2999"
+         x="-0.94896698"
+         y="30.78026"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Volkhov;-inkscape-font-specification:Volkhov">Field Acquired Information</tspan><tspan
          sodipodi:role="line"
-         id="tspan2997-4-8"
-         x="-126.42857"
-         y="-287.85715" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola"
-       x="-126.42857"
-       y="-287.85715"
-       id="text2995-0-5"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/brian/faimsWebsite/assets/img/text2995-0.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         id="tspan2997-4-89"
-         x="-126.42857"
-         y="-287.85715" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40.64287567px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:85.00000238%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola"
-       x="-0.97238088"
-       y="32.57476"
-       id="text2985-3"
-       sodipodi:linespacing="85.000002%"
-       transform="scale(0.99061304,1.0094759)"
-       inkscape:export-filename="/home/brian/faimsWebsite/assets/img/text2995-0.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         id="tspan2987-1"
-         x="-0.97238088"
-         y="32.57476"
-         style="font-size:44.19913101px;line-height:85.00000238%;letter-spacing:1.38999999px;word-spacing:7px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola">Field Acquired Information</tspan><tspan
-         sodipodi:role="line"
-         x="-0.97238088"
-         y="70.14402"
-         id="tspan2989-8"
-         style="font-size:44.19913101px;line-height:85.00000238%;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola">Management Systems Project</tspan></text>
+         x="-0.94896698"
+         y="70.320541"
+         id="tspan3001"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Volkhov;-inkscape-font-specification:Volkhov">Management Systems Project</tspan></text>
   </g>
   <g
      inkscape:label="Main"
@@ -127,19 +147,19 @@
     <text
        xml:space="preserve"
        style="font-size:40.64287567px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:85.00000238%;letter-spacing:0px;word-spacing:0px;fill:#f68e1e;fill-opacity:1;stroke:none;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola"
-       x="-0.97238088"
-       y="995.80945"
+       x="7.6802697"
+       y="696.50281"
        id="text2985"
        sodipodi:linespacing="85.000002%"
        transform="scale(0.99061304,1.0094759)"><tspan
          sodipodi:role="line"
          id="tspan2987"
-         x="-0.97238088"
-         y="995.80945"
+         x="7.6802697"
+         y="696.50281"
          style="font-size:44.19913101px;line-height:85.00000238%;letter-spacing:1.38999999px;word-spacing:7px;fill:#ffffff;fill-opacity:1;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola">Field Acquired Information</tspan><tspan
          sodipodi:role="line"
-         x="-0.97238088"
-         y="1033.3787"
+         x="7.6802697"
+         y="734.07202"
          id="tspan2989"
          style="font-size:44.19913101px;line-height:85.00000238%;fill:#ffffff;fill-opacity:1;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola">Management Systems Project</tspan></text>
     <text
@@ -153,6 +173,6 @@
          sodipodi:role="line"
          id="tspan2997"
          x="-126.42857"
-         y="-287.85715"></tspan></text>
+         y="-287.85715" /></text>
   </g>
 </svg>
