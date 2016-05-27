@@ -9,8 +9,8 @@ teaser: "What exactly is FAIMS Mobile and where it stands among digital data cap
 categories:
   - Reflections
 author: Adela
-image:
-    title: AbstractGarden.jpg
+header:
+    image_fullwidth: AbstractGarden.jpg
     caption: "Sonya Bobb: Abstract Art, Dubai"
     caption_url: https://www.flickr.com/photos/virtualbcm/5171713979
 #
@@ -23,9 +23,9 @@ Dear Ben and fellow DAC members,
 
 We at FAIMS have not been active on the blog, because we worked on a major grant application and overdue publications. We are now returning into the game, because we want to get the community feedback on the next upgrade of FAIMS, and because we were inspired by Ben Carter's post.
 
-We will try to respond to several points that Ben Carter made in a series of posts.  This first one will focus on a misunderstanding of FAIMS evident in Ben Carter's statement of : "I don’t want to create a single suite of tools that must be used together- that can be limiting as well (if you want this, I recommend you check out FAIMS. Flexibility is the name of the game."
+We will try to respond to several points that Ben Carter made in a series of posts.  This first one will focus on a misunderstanding of FAIMS evident in Ben Carter's statement of : "I don't want to create a single suite of tools that must be used together- that can be limiting as well (if you want this, I recommend you check out FAIMS. Flexibility is the name of the game."
 
-Ben suggests that FAIMS project offers a single suite of tools that is like a walled garden, where you either buy into the whole suite or nothing at all. The opposite is the reality. FAIMS has been and is building discreet tools for specific field research data tasks, that work together with other data services. FAIMS users are free to pick whatever suits their needs. FAIMS makes it possible, but does not mandate, that archaeologists use an entire data lifecycle. And so, you can use FAIMS Mobile to collect your data and either export it to your desktop software for further processing, or export it to Open Context or tDAR or your favorite MS Access db or other regional register for publication, sharing, or follow up work. None of these steps are required in any way, FAIMS project just makes them technically possible through the FAIMS ecosystem.
+Ben suggests that FAIMS project offers a single suite of tools that is like a walled garden, where you either buy into the whole suite or nothing at all. The opposite is the reality. FAIMS has been and is building discrete tools for specific field research data tasks, that work together with other data services. FAIMS users are free to pick whatever suits their needs. FAIMS makes it possible, but does not mandate, that archaeologists use an entire data lifecycle. And so, you can use FAIMS Mobile to collect your data and either export it to your desktop software for further processing, or export it to Open Context or tDAR or your favorite MS Access db or other regional register for publication, sharing, or follow up work. None of these steps are required in any way, FAIMS project just makes them technically possible through the FAIMS ecosystem.
 
 The FAIMS Mobile platform for offline data collection (the flagship product of the FAIMS project and one part of the ecosystem) is entirely customisable. Imagine a bucket of functionality that you can pick from: want spatial data? Get a mapping screen and figure out your projection. Need dropdowns or picture dictionaries? Pick those and populate them with illustrating images. Don't care about recording video? Drop it. The FAIMS Mobile is flexible and can do as little or as much as anyone needs. 
 
