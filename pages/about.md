@@ -32,7 +32,7 @@ This project is led by Macquarie University in collaboration with ten Australian
 ### Dr Shawn Ross
 
 * _Project Director_
-* _Assistant Professor, Department of Modern History, Politics and International Relations, Macquarie University_
+* _Associate Professor, Department of Modern History, Politics and International Relations, Macquarie University_
 * _Deputy Director, Big History Institute, Macquarie University_
 
 Shawn Ross (Ph.D. University of Washington, 2001) is currently an Associate Professor of History and Archaeology and Deputy Director of the Big History Institute at Macquarie University in Sydney, Australia. A/Prof Rossʼs research interests include the history and archaeology of pre-Classical Greece, oral tradition as history (especially Homer and Hesiod), the archaeology of the Balkans (especially Thrace), Greece in its wider Mediterranean and Balkan context, and the application of information technology to the humanities. Since 2009, the focus of A/Prof Rossʼs work has shifted to fundamental archaeological research in Bulgaria. He is a Research Associate at the American Research Center in Sofia, Bulgaria, and supervises the Tundzha Regional Archaeological Project ([http://www.tundzha.org](http://www.tundzha.org)), a large-scale archaeological survey and palaeoenvironmental study in central and southeast Bulgaria. Since 2012 A/Prof Ross has directed the Federated Archaeological Information Management Systems project aimed at developing data capture, management, and archiving resources for archaeologists. He is also involved with archaeology work at the site of Troizen in the Argolid. Previously, A/Prof Ross worked at the University of New South Wales (Sydney, Australia) and William Paterson University (Wayne, New Jersey).
