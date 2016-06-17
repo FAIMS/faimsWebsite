@@ -8,7 +8,7 @@ title: "A discussion of the technology which makes this blog possible"
 teaser: "Why we moved away from PHP and wordpress and on to static site generation."
 categories:
   - Reflections
-author: Brian
+author: denubis
 header:
     image_fullwidth: Dr_Jekyll_and_Mr_Hyde_poster.jpg
     caption: "Image from wikipedia - Chicago : National Prtg. & Engr. Co. Modifications by Papa Lima Whiskey, 1880"
