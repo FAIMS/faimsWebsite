@@ -1,9 +1,9 @@
 #!/bin/bash
 
-echo $0 $1
-echo "WORKING"
+source /home/fedarch/.bashrc
 
+cd /home/fedarch/faimsWebsite; 
+git pull; > /tmp/hook.log
+/home/fedarch/.rbenv/shims/jekyll build &>> /tmp/hook.log
 
-cd $HOME/faimsWebsite
-git pull
-/home/fedarch/.rbenv/shims/jekyll build
+python ~/logToSlack/hook.sh /tmp/hook.log
