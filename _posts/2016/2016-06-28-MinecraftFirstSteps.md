@@ -36,13 +36,13 @@ gallery:
 ---
 By: Raelee and Ashley
 
-Minecrafting, though enormous fun, also has it's place in academia. Our team has recently decided to use minecraft to recreate the stratification of ancient towns. Teams of students will use Minecraft to build three settlements, one on top of the other. Then, a team of higher level students will "excavate" the remains. 
+Minecrafting, though enormous fun, also has its place in academia. Our team has recently decided to use Minecraft to recreate ancient towns, simulate their decline, and archaeologically explore their stratigraphy. Teams of students will use Minecraft to build three settlements, one on top of the other. Then, a team of higher level students will "excavate" the remains. 
 
-As we are now in our testing phase, we decided to take a small settlement from Çatalhöyük and recreate it. Were created the interiors and exteriors of two adjacent houses using materials could be found modded into the game (i.e mud brick and thatch), we had to perform some substitutions (i.e gray wool to represent rudimentary paintings). 
+As we are now in our testing phase, we decided to take a small section of Çatalhöyük and recreate it. Were created the interiors and exteriors of two adjacent houses using materials could be found modded into the game (i.e mud brick and thatch), we had to perform some substitutions (i.e gray wool to represent rudimentary paintings). 
 
-After successfully building up the two structures from scratch, our next test was to experiment with the destruction engine in minecraft. We modelled effects of abandonment and an explosive circular burst, one evidently more historically accurate than the other. 
+After successfully building up the two structures from scratch, our next test was to experiment with the destruction engine in Minecraft. We modelled the effects of abandonment, and an explosive circular burst, one evidently more historically accurate than the other. 
 
-Looking forward, we're hoping to expand the scale of future tests builds and fine tune structures to match the evolution of Mycenaean architecture.
+Looking forward, we're hoping to expand the scale of future test builds, and fine tune structures to match the evolution of Mycenaean architecture.
 
 {% include gallery %}
 
