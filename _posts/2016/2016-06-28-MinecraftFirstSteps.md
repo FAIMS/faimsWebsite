@@ -13,21 +13,21 @@ header:
     image_fullwidth: minecraft/2016-06-27_19.38.00.png
     caption: "Image from our experiment in minecraft. Bricks are from biomes o' plenty. Thatch from Botania. Background structures from completely unrelated experiments."
 gallery:
-  - image_url: minecraft/2016-06-27_19.37.50.png
-  - image_url: minecraft/2016-06-27_19.37.53.png    
-  - image_url: minecraft/2016-06-27_19.37.57.png      
-  - image_url: minecraft/2016-06-27_19.38.00.png        
-  - image_url: minecraft/2016-06-27_19.38.04.png          
-  - image_url: minecraft/2016-06-27_19.38.08.png          
-  - image_url: minecraft/2016-06-27_19.38.11.png    
-  - image_url: minecraft/2016-06-27_19.38.15.png                
-  - image_url: minecraft/2016-06-27_19.39.20.png          
+  - image_url: minecraft/2016-06-27_19_37_50.png
+  - image_url: minecraft/2016-06-27_19_37_53.png    
+  - image_url: minecraft/2016-06-27_19_37_57.png      
+  - image_url: minecraft/2016-06-27_19_38_00.png        
+  - image_url: minecraft/2016-06-27_19_38_04.png          
+  - image_url: minecraft/2016-06-27_19_38_08.png          
+  - image_url: minecraft/2016-06-27_19_38_11.png    
+  - image_url: minecraft/2016-06-27_19_38_15.png                
+  - image_url: minecraft/2016-06-27_19_39_20.png          
     caption: looking at the circular destruction from an explosive burst. 
-  - image_url: minecraft/2016-06-27_19.40.41.png              
+  - image_url: minecraft/2016-06-27_19_40_41.png              
     caption: weathering using the worldEdit smoothing tool. 
-  - image_url: minecraft/2016-06-27_19.43.32.png              
+  - image_url: minecraft/2016-06-27_19_43_32.png              
     caption: And covering everything with a slightly different kind of loamy dirt. 
-  - image_url: minecraft/2016-06-27_19.44.16.png              
+  - image_url: minecraft/2016-06-27_19_44_16.png              
 
 
 #
