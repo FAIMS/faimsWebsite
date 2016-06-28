@@ -10,7 +10,7 @@ categories:
   - Reflections
 author: volunteers
 header:
-    image_fullwidth: minecraft/2016-06-27_19.38.00.png
+    image_fullwidth: minecraft/2016-06-27_19_38_00.png
     caption: "Image from our experiment in minecraft. Bricks are from biomes o' plenty. Thatch from Botania. Background structures from completely unrelated experiments."
 gallery:
   - image_url: minecraft/2016-06-27_19_37_50.png
