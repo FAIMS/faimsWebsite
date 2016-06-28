@@ -27,3 +27,7 @@ penny:
 Adela:
   name: "Adela Sobotkova"
   siterole: "author"
+
+volunteers:
+  name: "FAIMS Volunteers"
+  siterole: "author"
