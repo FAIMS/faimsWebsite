@@ -74,7 +74,7 @@ Brian Ballsun-Stanton (Ph.D. University of New South Wales, 2012) is currently a
 [Brian's Publications](https://mq.academia.edu/BrianBallsunStanton)
 
 
-![Portrait_Petra]({{ site.urlimg }}Profile_Petra.png)
+![Portrait_Petra]({{ site.urlimg }}Portrait_Petra.png)
 
 ### Petra Janouchova
 
