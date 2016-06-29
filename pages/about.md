@@ -81,7 +81,7 @@ Brian Ballsun-Stanton (Ph.D. University of New South Wales, 2012) is currently a
 * _Client Manager_
 * _PhD Student of Ancient History at Charles University in Prague & International Student at Macquarie University_
 
-Petra is a epigrapher, which means that she reads Ancient Greek mail (mostly that written on stone). She is writing her PhD in Prague on Graeco-Thracian interaction and cultural exchange (this is an extremely interesting subject concerning SE European history). She has done her Masters in Classical Archaeology and Ancient Greek in Prague. She has come to Australia to work with the FAIMS team and to broaden her horizons. Petra likes an archaeological fieldwork and she enjoys advising other projects how to collect data in a digital form. She has used FAIMS DYI approach to customize and deploy her own module to collect Greek and Latin inscriptions strewn about in the field as well as modern urban environment.
+Petra is a epigrapher, which means that she reads Ancient Greek mail (mostly that written on stone). She is writing her PhD in Prague on Graeco-Thracian interaction and cultural exchange (this is an extremely interesting subject concerning SE European history). She has done her Masters in Classical Archaeology and Ancient Greek in Prague. She has come to Australia to work with the FAIMS team and to broaden her horizons. Petra likes an archaeological fieldwork and she enjoys advising other projects how to collect data in a digital form. She has used FAIMS DIY approach to customize and deploy her own module to collect Greek and Latin inscriptions strewn about in the field as well as modern urban environment.
 
 
 [Petra's Publications](https://cuni.academia.edu/PetraJanouchova)
