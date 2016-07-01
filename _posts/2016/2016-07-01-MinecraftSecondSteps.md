@@ -29,7 +29,7 @@ And they're fantastic -- and limited. Minecraft has a wonderful history of mimes
 
 {% tweet 697692895038586880 %} 
 
-This "recreation" provides a wonderful visualisation platform. This recreation also provides a great 3-4 hour event for rapid public engagement. The [#archaeogaming](https://twitter.com/search?q=%23archaeogaming&src=typd) community and [The Value Project](https://twitter.com/value_project) discussions of gaming in archaeology also kept this intention alive.
+This "recreation" provides a wonderful visualisation platform. This recreation also provides a great 3-4 hour event for rapid public engagement. 
 
 What nagged at me, however, was the fact that archaeology wasn't being *done* inside minecraft. As a philosopher and an IT person and completely not an archaeologist -- I would have wanted to learn some of the reasons for techniques and language via a "sandpit" like minecraft, rather than endless discussions around a whiteboard about form implementation. 
 
@@ -64,6 +64,9 @@ Thus, this project is *significantly* more entailed than the typical and far mor
 With the prior post showing that historical mimesis is possible, I now have to finalise the mod pack and get archaeologists to provide the necessary visual illustrations and inventories for step one above. Tweet me (@denubisx) with comments or ideas!
 
 ## Other, better, archaeogaming
+
+* The [#archaeogaming](https://twitter.com/search?q=%23archaeogaming&src=typd) community 
+* [The Value Project](https://twitter.com/value_project) discussions of gaming in archaeology also kept this intention alive.
 
 @clmorgan has noted some other resources for minecraft and archaeogaming:
 
