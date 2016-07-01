@@ -21,7 +21,7 @@ header:
 
 ## What I'm not planning on doing, and some other awesome projects
 
-I think, in many ways, this post needs to start out with what I'm not planning. Much have what has kept this intention in the back of my mind are the [posts](http://yornight.com/2014/activities/our-city/archaeology-and-minecraft/) and [tweets by Colleen Morgan](https://twitter.com/clmorgan) where Dr. Morgan has (with sufficient regularity) tweeted events like:
+I think, in many ways, this post needs to start out with what I'm not planning. Much has what has kept this intention to develop a minecraft archaeology pedagogy in the back of my mind are the [posts](http://yornight.com/2014/activities/our-city/archaeology-and-minecraft/) and [tweets by Colleen Morgan](https://twitter.com/clmorgan) where Dr. Morgan has (with sufficient regularity) tweeted events like:
 
 {% tweet 647383901653082112 %}
 
@@ -29,7 +29,9 @@ And they're fantastic -- and limited. Minecraft has a wonderful history of mimes
 
 {% tweet 697692895038586880 %} 
 
-This "recreation" provides a wonderful visualisation platform. This recreation also provides a great 3-4 hour event for rapid public engagement. What nagged at me, however, was the fact that archaeology wasn't being *done* inside minecraft. As a philosopher and an IT person and completely not an archaeologist -- I would have wanted to learn some of the reasons for techniques and language via a "sandpit" like minecraft, rather than endless discussions around a whiteboard about form implementation. 
+This "recreation" provides a wonderful visualisation platform. This recreation also provides a great 3-4 hour event for rapid public engagement. The [#archaeogaming](https://twitter.com/search?q=%23archaeogaming&src=typd) community and [The Value Project](https://twitter.com/value_project) discussions of gaming in archaeology also kept this intention alive.
+
+What nagged at me, however, was the fact that archaeology wasn't being *done* inside minecraft. As a philosopher and an IT person and completely not an archaeologist -- I would have wanted to learn some of the reasons for techniques and language via a "sandpit" like minecraft, rather than endless discussions around a whiteboard about form implementation. 
 
 ## The Yogscast
 
@@ -61,4 +63,8 @@ Thus, this project is *significantly* more entailed than the typical and far mor
 
 With the prior post showing that historical mimesis is possible, I now have to finalise the mod pack and get archaeologists to provide the necessary visual illustrations and inventories for step one above. Tweet me (@denubisx) with comments or ideas!
 
+## Other, better, archaeogaming
 
+@clmorgan has noted some other resources for minecraft and archaeogaming:
+
+{% tweet 748778848829923328 %}
