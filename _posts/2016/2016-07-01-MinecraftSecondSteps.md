@@ -21,7 +21,7 @@ header:
 
 ## What I'm not planning on doing, and some other awesome projects
 
-I think, in many ways, this post needs to start out with what I'm not planning. Much has what has kept this intention to develop a minecraft archaeology pedagogy in the back of my mind are the [posts](http://yornight.com/2014/activities/our-city/archaeology-and-minecraft/) and [tweets by Colleen Morgan](https://twitter.com/clmorgan) where Dr. Morgan has (with sufficient regularity) tweeted events like:
+I think, in many ways, this post needs to start out with what I'm not planning. Much of what has kept this intention to develop a minecraft archaeology pedagogy in the back of my mind are the [posts](http://yornight.com/2014/activities/our-city/archaeology-and-minecraft/) and [tweets by Colleen Morgan](https://twitter.com/clmorgan) where Dr. Morgan has (with sufficient regularity) tweeted events like:
 
 {% tweet 647383901653082112 %}
 
