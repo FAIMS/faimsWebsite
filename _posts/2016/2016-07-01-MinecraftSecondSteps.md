@@ -23,7 +23,7 @@ header:
 
 I think, in many ways, this post needs to start out with what I'm not planning. Much have what has kept this intention in the back of my mind are the [posts](http://yornight.com/2014/activities/our-city/archaeology-and-minecraft/) and [tweets by Colleen Morgan](https://twitter.com/clmorgan) where Dr. Morgan has (with sufficient regularity) tweeted events like:
 
-{% tweet https://twitter.com/clmorgan/status/647383901653082112 %}
+{% tweet 647383901653082112 %}
 
 
 
