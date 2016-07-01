@@ -68,8 +68,8 @@ With the prior post showing that historical mimesis is possible, I now have to f
 
 ## Other, better, archaeogaming
 
-* The [#archaeogaming](https://twitter.com/search?q=%23archaeogaming&src=typd) community 
-* [The Value Project](https://twitter.com/value_project) discussions of gaming in archaeology also kept this intention alive.
+* The [#archaeogaming](https://twitter.com/search?q=%23archaeogaming&src=typd) community. 
+* [The Value Project](https://twitter.com/value_project).
 
 @clmorgan has noted some other resources for minecraft and archaeogaming:
 
