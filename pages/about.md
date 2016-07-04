@@ -88,7 +88,7 @@ Petra is a epigrapher, which means that she reads Ancient Greek mail (mostly tha
 
 
 
-![Christian]({{ site.urlimg }}Christian.jpg)
+![Christian]({{ site.urlimg }}Christian.png)
 
 ### Christian Nassif-Haynes
 
@@ -99,7 +99,7 @@ Christian is finishing his BE in Software Engineering at Macquarie University. H
 
 
 
-![Georgia]({{ site.urlimg }}Georgia.jpg)
+![Georgia]({{ site.urlimg }}Georgia.png)
 
 ### Georgia Burnett
 
@@ -111,7 +111,7 @@ In addition to her work with FAIMS, Georgia collaborates with academics and assi
 
 
 
-![Raelee]({{ site.urlimg }}Raelee.jpg)
+![Raelee]({{ site.urlimg }}Raelee.png)
 
 ### Raelee-Jordan Lancaster 
 
@@ -122,7 +122,7 @@ Raelee is currently in her last year of Undergraduate degree in a Bachelor of An
 
 
 
-![Ashley]({{ site.urlimg }}Ashley.jpg)
+![Ashley]({{ site.urlimg }}Ashley.png)
 
 ### Ashley Wong
 
