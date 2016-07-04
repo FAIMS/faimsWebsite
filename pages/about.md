@@ -116,9 +116,9 @@ In addition to her work with FAIMS, Georgia collaborates with academics and assi
 
 ![Raelee]({{ site.urlimg }}Raelee.png)
 
-### Raelee-Jordan Lancaster 
+### Raelee Lancaster 
 
-* _Indigenous Cadet_
+* _Research Assistant_
 * _Macquarie University_
 
 Raelee is currently in her last year of Undergraduate degree in a Bachelor of Ancient History and she came to FAIMS as an Indigenous Cadet wanting to learn more about different methods of archaeological research and data collection. Raelee is interested primarily in ancient history and archaeology, especially the Roman Republican era. She also enjoys writing and research, while in her spare time you will often find her in the library or some hipster cafe in Newtown. About her experience with FAIMS Raelee says "I have really enjoyed the time I've spent with FAIMS so far and am excited to learn and grow as my cadetship progresses."
