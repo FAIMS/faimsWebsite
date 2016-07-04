@@ -86,3 +86,51 @@ Petra is a epigrapher, which means that she reads Ancient Greek mail (mostly tha
 
 [Petra's Publications](https://cuni.academia.edu/PetraJanouchova)
 
+
+
+![Christian]({{ site.urlimg }}Christian.jpg)
+
+### Christian Nassif-Haynes
+
+* _Junior developer_
+* _Macquarie University_
+
+Christian is finishing his BE in Software Engineering at Macquarie University. He has joined the FAIMS team in 2015 and has built tools to automate and simplify the production of FAIMS modules. Christian continues to develop FAIMS modules, finessing his automation code to accommodate even the most unique client requirements, all the while drinking neon-colored cordial and eating cookies. 
+
+
+
+![Georgia]({{ site.urlimg }}Georgia.jpg)
+
+### Georgia Burnett
+
+* _Researcher_
+* _Macquarie University_
+
+Georgia is a PhD student in Ancient History at Macquarie University. Her PhD explores the space of domain specific ontologies, exploring the potential, and assessing feasibility of standardized vocabularies in archaeology. She is researching the amenability of FAIMS schemata to automated ontology mapping, which, in the long term, should facilitate semantic data interoperability and cross-regional analyses. In short, she is looking at how archaeologists can use programmable tools and inter-disciplinary approaches to better describe and manage their data in order to incentivize sharing and collaboration. 
+In addition to her work with FAIMS, Georgia collaborates with academics and assists them with data cleaning, management, and visualisation.  
+
+
+
+![Raelee]({{ site.urlimg }}Raelee.jpg)
+
+### Raelee-Jordan Lancaster 
+
+* _Indigenous Cadet_
+* _Macquarie University_
+
+Raelee is currently in her last year of Undergraduate degree in a Bachelor of Ancient History and she came to FAIMS as an Indigenous Cadet wanting to learn more about different methods of archaeological research and data collection. Raelee is interested primarily in ancient history and archaeology, especially the Roman Republican era. She also enjoys writing and research, while in her spare time you will often find her in the library or some hipster cafe in Newtown. About her experience with FAIMS Raelee says "I have really enjoyed the time I've spent with FAIMS so far and am excited to learn and grow as my cadetship progresses."
+
+
+
+![Ashley]({{ site.urlimg }}Ashley.jpg)
+
+### Ashley Wong
+
+* _Student volunteer at FAIMS_
+* _High school student_
+
+Ashley is a Year 11 student with a deep interest in languages and ancient history! She is currently self-studying Russian and the programming language Python. In her own words "Volunteering at FAIMS has given me insight into the world of archaeology and has opened doors in the world of technology and programming that I never expected to find."
+
+
+
+
