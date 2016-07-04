@@ -88,6 +88,7 @@ Petra is a epigrapher, which means that she reads Ancient Greek mail (mostly tha
 
 
 
+
 ![Christian]({{ site.urlimg }}Christian.png)
 
 ### Christian Nassif-Haynes
@@ -96,6 +97,7 @@ Petra is a epigrapher, which means that she reads Ancient Greek mail (mostly tha
 * _Macquarie University_
 
 Christian is finishing his BE in Software Engineering at Macquarie University. He has joined the FAIMS team in 2015 and has built tools to automate and simplify the production of FAIMS modules. Christian continues to develop FAIMS modules, finessing his automation code to accommodate even the most unique client requirements, all the while drinking neon-colored cordial and eating cookies. 
+
 
 
 
@@ -111,6 +113,7 @@ In addition to her work with FAIMS, Georgia collaborates with academics and assi
 
 
 
+
 ![Raelee]({{ site.urlimg }}Raelee.png)
 
 ### Raelee-Jordan Lancaster 
@@ -119,6 +122,7 @@ In addition to her work with FAIMS, Georgia collaborates with academics and assi
 * _Macquarie University_
 
 Raelee is currently in her last year of Undergraduate degree in a Bachelor of Ancient History and she came to FAIMS as an Indigenous Cadet wanting to learn more about different methods of archaeological research and data collection. Raelee is interested primarily in ancient history and archaeology, especially the Roman Republican era. She also enjoys writing and research, while in her spare time you will often find her in the library or some hipster cafe in Newtown. About her experience with FAIMS Raelee says "I have really enjoyed the time I've spent with FAIMS so far and am excited to learn and grow as my cadetship progresses."
+
 
 
 
