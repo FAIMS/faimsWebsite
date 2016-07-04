@@ -152,11 +152,13 @@ The Web-based portal includes a search, browse and retrieval interface that comb
 
 ## Federated Data Services
 
-Federated services include Heurist and tDAR, with Open Context and OCHRE 'coming soon'
+Federated services include Heurist, the FAIMS Repository, and tDAR, with Open Context and OCHRE 'coming soon'
 
 [Heurist](http://heuristnetwork.org) is the first tool available in this suite. Heurist is an online database for managing, analysing and interpreting digital research objects. Generate maps to spatially visualise your data and network diagrams to understand relationships in your datasets.
 
-[The Digital Archaeological Record](http://www.tdar.org/) (tDAR) is an international digital repository for the digital records of archaeological investigations. tDAR's use, development, and maintenance are governed by Digital Antiquity, an organization dedicated to ensuring the long-term preservation of irreplaceable archaeological data and to broadening the access to these data. 
+The FAIMS Repository is merging with [The Digital Archaeological Record](http://www.tdar.org/) (tDAR) and will soon appear as the 'FAIMS Collection'. For more information about the current migration to tDAR as well as the history of the FAIMS repository, see our announcement on [repo.fedarch.org](http://repo.fedarch.org).
+
+[The Digital Archaeological Record](http://www.tdar.org/)is an international digital repository for the digital records of archaeological investigations. tDAR's use, development, and maintenance are governed by Digital Antiquity, an organization dedicated to ensuring the long-term preservation of irreplaceable archaeological data and to broadening the access to these data. 
 
 
 
