@@ -46,7 +46,7 @@ Shawn Ross (Ph.D. University of Washington, 2001) is currently an Associate Prof
 * _Development Coordinator (Macquarie)_
 * _Research Fellow, Department of Ancient History, Macquarie University_
 
-Adela Sobotkova ( PhD in Classical Art and Archaeology at the University of Michigan 2012) is currently a Research Fellow at the School of Ancient History, Macquarie University in Sydney, Australia. Dr Sobotkova's research interests include the social complexity of Balkan and Black Sea indigenous communities during late prehistory, the methods of surface survey, and the application of spatial analysis and remote sensing to archaeology. Dr Sobotkova co-supervises the [Tundzha Regional Archaeology Project (TRAP)](http://citiesindust.org), a diachronic landscape archaeology project in Bulgaria, and serves as the Domain Expert for the Field Acquired Information Management Systems (FAIMS) Project.
+Adela Sobotkova (Ph.D. in Classical Art and Archaeology at the University of Michigan 2012) is currently a Research Fellow at the School of Ancient History, Macquarie University in Sydney, Australia. Dr Sobotkova's research interests include the social complexity of Balkan and Black Sea indigenous communities during late prehistory, the methods of surface survey, and the application of spatial analysis and remote sensing to archaeology. Dr Sobotkova co-supervises the [Tundzha Regional Archaeology Project (TRAP)](http://citiesindust.org), a diachronic landscape archaeology project in Bulgaria, and serves as the Domain Expert for the Field Acquired Information Management Systems (FAIMS) Project.
 
 [Adela's Publications >>](https://mq.academia.edu/AdelaSobotkova)
 
@@ -121,7 +121,7 @@ In addition to her work with FAIMS, Georgia collaborates with academics and assi
 * _Research Assistant_
 * _Macquarie University_
 
-Raelee is currently in her last year of Undergraduate degree in a Bachelor of Ancient History and she came to FAIMS as an Indigenous Cadet wanting to learn more about different methods of archaeological research and data collection. Raelee is interested primarily in ancient history and archaeology, especially the Roman Republican era. She also enjoys writing and research, while in her spare time you will often find her in the library or some hipster cafe in Newtown. About her experience with FAIMS Raelee says "I have really enjoyed the time I've spent with FAIMS so far and am excited to learn and grow as my cadetship progresses."
+Raelee is currently in her last year of Undergraduate degree in a Bachelor of Ancient History and she came to FAIMS as an Indigenous Cadet wanting to learn more about different methods of archaeological research and data collection. Raelee is interested primarily in ancient history and archaeology, especially the Roman Republican era. She also enjoys writing and research, while in her spare time you will often find her in the library or some hipster cafe in Newtown. About her experience with FAIMS Raelee says: "I have really enjoyed the time I've spent with FAIMS so far and am excited to learn and grow as my cadetship progresses."
 
 
 
@@ -133,7 +133,7 @@ Raelee is currently in her last year of Undergraduate degree in a Bachelor of An
 * _Student volunteer at FAIMS_
 * _High school student_
 
-Ashley is a Year 11 student with a deep interest in languages and ancient history! She is currently self-studying Russian and the programming language Python. In her own words "Volunteering at FAIMS has given me insight into the world of archaeology and has opened doors in the world of technology and programming that I never expected to find."
+Ashley is a Year 11 student with a deep interest in languages and ancient history. She is currently self-studying Russian and the programming language Python. In her own words: "Volunteering at FAIMS has given me insight into the world of archaeology and has opened doors in the world of technology and programming that I never expected to find."
 
 
 
