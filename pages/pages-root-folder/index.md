@@ -79,8 +79,7 @@ homepage: true
 
 ## What our users say:
 
-> The system worked well and saved me a lot of work in the evenings, compiling and formatting the data from multiple devices! And the students doing the data entry really liked working with the tablets and embedded glossaries... -Dr. Nicola Stern [Human responses to long-term landscape and
-climate change in the Willandra Lakes World Heritage Area](http://www.visitmungo.com.au/research)
+> The system worked well and saved me a lot of work in the evenings, compiling and formatting the data from multiple devices! And the students doing the data entry really liked working with the tablets and embedded glossaries... -Dr. Nicola Stern, Project Director for [Human responses to long-term landscape and climate change in the Willandra Lakes World Heritage Area](http://www.visitmungo.com.au/research)
 
 > ... the tablet app worked very well in the field and I would be keen to continue using it for subsequent sampling. -Dr Rose Turnbull, [NZ Geochemistry](http://www.gns.cri.nz/)
 
