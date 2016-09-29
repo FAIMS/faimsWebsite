@@ -19,7 +19,7 @@ header:
 #
 ---
 
-An interdisciplinary research team of Brown undergraduate students led by Assistant Professor of Anthropology Parker VanValkenburgh developed a bilingual module for pottery analysis using [the FAIMS User to Developer Documentation](https://docs.google.com/document/d/1BQ_AZQQwEm2pxMyQ5wDLjOdEsO2ixmJaCwEyc9jsEOs/edit#heading=h.dbh4lx2txrcy).
+An interdisciplinary research team of Brown University undergraduate students led by Assistant Professor of Anthropology Parker VanValkenburgh developed a bilingual module for pottery analysis using [the FAIMS User to Developer Documentation](https://docs.google.com/document/d/1BQ_AZQQwEm2pxMyQ5wDLjOdEsO2ixmJaCwEyc9jsEOs/edit#heading=h.dbh4lx2txrcy).
 
 Quoting recent [interview](https://news.brown.edu/articles/2016/09/tablet) with the project director Parker VanValkenburgh, the overall experience with the module deployment seems to be very positive: 
 "After an intensive three-week period collaborating on the software, they created the Proyecto Arqueológico Zaña Colonial (PAZC) Ceramics module that, deployed in the lab in Lima, "increased efficiency of data entry by an average of about 20 percent," VanValkenburgh said, and was found by the larger research team "to be universally more engaging than the conventional system we’d been using.""
