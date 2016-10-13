@@ -3,12 +3,12 @@ layout: post
 #
 # Content
 #
-subheadline: "Re-blogging the wisdom"
-title: "Why we cannot be never truly done with FAIMS?"
+subheadline: "Passing on the internet wisdom"
+title: "When are we going to be done with FAIMS?"
 teaser: "The sisyphean task of every open source project"
 categories:
   - News
-author: Petra
+author: Petra and Adela
 header:
     image_fullwidth: Sisyphos.jpg
     caption: " Altkönigstift, Park, Skulptur Sisyphos, by Karsten Ratzke (Own work) [CC0], via Wikimedia Commons" 
@@ -19,7 +19,8 @@ header:
 #
 ---
 
-If you are ever wondered when the FAIMS project will be truly "finished", we recommend you to spare the frustration and read this excellent [blog post "Evolving Your Open Source Project Infrastructure: There's No Such Thing As Done"](https://www.linux.com/blog/evolving-your-open-source-project-infrastructure-theres-no-such-thing-done) summarizing the joys and pains of developing an open source infrastucture. 
+If you are ever wondered when the FAIMS project will be truly "finished", read here : A recent [blog post "Evolving Your Open Source Project Infrastructure: There's No Such Thing As Done"](https://www.linux.com/blog/evolving-your-open-source-project-infrastructure-theres-no-such-thing-done) clarifies the never ending challenges and joys of developing an open source infrastucture. 
 
-With all the rapid Android development and the speed of technology changing every day, we are constantly moving, evolving, polishing the code and rolling the heavy stone up the hill.
-Do you share mutual feelings or is your open source experience completely different? We are thrilled to discuss it with you further.
+With all the rapid Android development and the speed of technology changing every day, we have to constantly adjust, evolve and grow, both in terms of the code as well as in our client outreach. So, it's like rolling the stone up the hill.
+We are still wondering whether this is good or bad :)
+Let us know what part of your job makes you feel like you'll never be done? 
