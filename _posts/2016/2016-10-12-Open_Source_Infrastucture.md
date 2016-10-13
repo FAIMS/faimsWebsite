@@ -10,8 +10,8 @@ categories:
   - News
 author: Petra and Adela
 header:
-    image_fullwidth: Sisyphos.jpg
-    caption: " Altkönigstift, Park, Skulptur Sisyphos, by Karsten Ratzke (Own work) [CC0], via Wikimedia Commons" 
+    image_fullwidth: Sisyphos.JPG
+    caption: "Altkönigstift, Park, Skulptur Sisyphos, by Karsten Ratzke (Own work) [CC0], via Wikimedia Commons" 
     caption_url: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Altk%C3%B6nigstift%2C_Park%2C_Skulptur_Sisyphos.JPG"
 
 #
