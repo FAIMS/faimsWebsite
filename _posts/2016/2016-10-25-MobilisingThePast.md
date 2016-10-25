@@ -22,7 +22,11 @@ header:
 
 Adela, Shawn, Andy, Jessica, Parker, and myself are proud to announce our chapter in [Mobilizing the Past](https://thedigitalpress.org/mobilizing-the-past-for-a-digital-future/) is out!
 
-# Measure Twice, Cut Once: Cooperative Deployment of a Generalized, Archaeology-Specific Field Data Collection System
+
+<hr/>
+
+
+**Measure Twice, Cut Once: Cooperative Deployment of a Generalized, Archaeology-Specific Field Data Collection System**
 
 By: Adela Sobotkova, Shawn A. Ross, Brian Ballsun-Stanton, Andrew Fairbairn, Jessica Thompson, and Parker VanValkenburgh
 
