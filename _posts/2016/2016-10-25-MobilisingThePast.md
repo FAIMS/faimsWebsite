@@ -37,3 +37,7 @@ Abstract:
 [Read it now!](/documents/3_2_sobotkova.pdf)
 
 Project code, wireframes, and full case studies are available [from Mukurtu](https://mobilizingthepast.mukurtu.net/collection/32-measure-twice-cut-once-cooperative-deployment-generalized-archaeology-specific-field)
+
+Citation:
+
+> Sobotkova, Adela, Shawn A. Ross, Brian Ballsun-Stanton, Andrew Fairbairn, Jessica Thompson, and Parker VanValkenburgh. 2016. "Measure Twice, Cut Once: Cooperative Deployment of a Generalized, Archaeology-Specific Field Data Collection System." In Mobilizing the Past for a Digital Future: The Potential of Digital Archaeology, edited by Erin Walcek Averett, Jody Michael Gordon, and Derek B. Counts, 337--72. Grand Forks, ND: The Digital Press at the University of North Dakota. https://digitalpressatund.files.wordpress.com/2016/09/3_2_sobotkova.pdf.
