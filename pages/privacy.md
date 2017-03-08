@@ -14,7 +14,7 @@ FAIMS Mobile App Privacy Policy
 
 Policy Version 1.0.0 (8-Mar-2017)
 
-Parent document: (http://www.mq.edu.au/privacy)
+Parent document: [http://www.mq.edu.au/privacy](http://www.mq.edu.au/privacy)
 
 # 1	PURPOSE
 
@@ -167,7 +167,7 @@ External sites that are linked to or from the University website are not under o
 
 ## Updates to this Policy
 
-This Policy will be reviewed from time to time to take into account new laws and technologies, changes to our operations and business environment. The most current version of this Policy can be accessed from [https://www.fedarch.org/privacy] or can be provided to you on request.
+This Policy will be reviewed from time to time to take into account new laws and technologies, changes to our operations and business environment. The most current version of this Policy can be accessed from [https://www.fedarch.org/privacy](https://www.fedarch.org/privacy) or can be provided to you on request.
 
 We encourage you to check this page from time to time for any changes.
 
