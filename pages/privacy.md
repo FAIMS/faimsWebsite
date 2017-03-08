@@ -6,7 +6,7 @@ teaser: ""
 header:
   image_fullwidth: context.jpg
   caption: "Image: Data collection with the FAIMS Mobile App in the Blue Mountains with Georgia Burnett and Penny Crook. CC-BY Shawn Ross 2014"
-permalink: /privacy
+permalink: /privacy/
 ---
 
 FAIMS Mobile App Privacy Policy
