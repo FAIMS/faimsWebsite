@@ -10,6 +10,8 @@
     url: "/about/#About"
   - title: "Our Team"
     url: "/about/#Team"
+  - title: "Privacy Policy"
+    url: "/privacy"
 
 - title: Home
   url: "/#About"
@@ -27,6 +29,11 @@
 - title: "FAIMS Mobile"
   url: "/faims-mobile"
   side: left
+  dropdown:
+  - title: "FAIMS Mobile"
+    url: "/faims-mobile"
+  - title: "Privacy Policy"
+    url: "/privacy"
 
 - title: "Get Started!"
   url: "/support/#2"
