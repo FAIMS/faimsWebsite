@@ -14,7 +14,7 @@ FAIMS Mobile App Privacy Policy
 
 Policy Version 1.0.0 (8-Mar-2017)
 
-Parent document: [http://www.mq.edu.au/privacy]
+Parent document: (http://www.mq.edu.au/privacy)
 
 # 1	PURPOSE
 
@@ -46,6 +46,7 @@ Commonly defined terms are located in the University [Glossary](http://www.mq.ed
 **Information**: personal or health information (or both as the context requires). 
 
 **Health information** as defined in HRIPA is:
+
 a. "personal information that is information or an opinion about:
     1. the physical or mental health or a disability (at any time) of an individual; or 
     1. an individual's express wishes about the future provision of health services to him or her, or
@@ -56,6 +57,7 @@ d. other personal information that is genetic information about an individual ar
 e. healthcare identifiers
 
 Personal information as defined in PPIPA is:
+
 *"information or an opinion (including information or an opinion forming part of a database and whether or not recorded in a material form) about an individual whose identity is apparent or can reasonably be ascertained from the information or opinion. Personal information includes such things as an individual's fingerprints, retina prints, body samples or genetic characteristics".*
 It does not include (this list is not exhaustive):
 * information about an individual who has been dead for more than 30 years,
@@ -130,11 +132,12 @@ The University will not collect any Personal Information about users of our webs
 
 ## Click Stream Data
 When you visit and browse the University web site, our website host may collect information for statistical, reporting and maintenance purposes. The information collected by our website host is used to administer and improve the performance of our website and will not be used to identify you. The information may include:
-the IP address of your computer;
-the date, time and duration of the visit to the site
-the pages accessed and documents downloaded
-the previous site visited, and
-the type of browser used.
+
+* the IP address of your computer;
+* the date, time and duration of the visit to the site
+* the pages accessed and documents downloaded
+* the previous site visited, and
+* the type of browser used.
 
 ## Cookies
 
@@ -178,7 +181,9 @@ Management of complaints is in accordance with the University's Privacy Manageme
 # 7	RELEVANT LEGISLATION
 
 Privacy and Personal Information Protection Act 1998 (NSW)
+
 Health Records and Information Privacy Act 2002 (NSW)
+
 Government Information (Public Access) Act 2009 (NSW)
 
 
