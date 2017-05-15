@@ -31,7 +31,7 @@ This project is led by Macquarie University in collaboration with ten Australian
 
 ### Dr Shawn Ross
 
-* _Project Director_
+* _Project Co-Director_
 * _Associate Professor, Department of Modern History, Politics and International Relations, Ancient History Department, Macquarie University_
 * _Deputy Director, Big History Institute, Macquarie University_
 
@@ -43,20 +43,20 @@ Shawn Ross (Ph.D. University of Washington, 2001) is currently an Associate Prof
 
 ### Dr Adela Sobotkova
 
-* _Development Coordinator (Macquarie)_
+* _Project Co-Director_
 * _Research Fellow, Department of Ancient History, Macquarie University_
 
-Adela Sobotkova (Ph.D. in Classical Art and Archaeology at the University of Michigan 2012) is currently a Research Fellow at the School of Ancient History, Macquarie University in Sydney, Australia. Dr Sobotkova's research interests include the social complexity of Balkan and Black Sea indigenous communities during late prehistory, the methods of surface survey, and the application of spatial analysis and remote sensing to archaeology. Dr Sobotkova co-supervises the [Tundzha Regional Archaeology Project (TRAP)](http://citiesindust.org), a diachronic landscape archaeology project in Bulgaria, and serves as the Domain Expert for the Field Acquired Information Management Systems (FAIMS) Project.
+Adela Sobotkova (Ph.D. in Classical Art and Archaeology at the University of Michigan 2012) is currently a Research Fellow at the Department of Ancient History, Macquarie University, Sydney, Australia. Dr Sobotkova's research interests include the social complexity of Balkan and Black Sea indigenous communities, the methods of large-scale regional fieldwork, and the application of spatial analysis and remote sensing to archaeology. Dr Sobotkova co-supervises the [Tundzha Regional Archaeology Project (TRAP)](http://citiesindust.org), a diachronic landscape archaeology project in Bulgaria, and serves as the Domain Expert for the Field Acquired Information Management Systems (FAIMS) Project.
 
 [Adela's Publications >>](https://mq.academia.edu/AdelaSobotkova)
 
 ![Portrait_penny]({{ site.urlimg }}Portrait_penny.jpg)
 
 ### Dr Penny Crook
-* _Development Coordinator (La Trobe)_
-* _Research Fellow, School of Historical and European Studies, La Trobe University_
+* _Project Contributor (La Trobe)_
+* _DECRA Fellow, School of Historical and European Studies, La Trobe University_
 
-Penny Crook is a Research Fellow at the School of Historical and European Studies, La Trobe University. Dr Penny Crook is a historical archaeologist, consultant and is currently the FAIMS Research Fellow in the Archaeology Program at La Trobe University. She specialises in urban assemblage analysis and material-culture studies. She designed two customised relational databases to store archaeological and historical data derived from the ARC Linkage-funded 'Exploring the Archaeology of the Modern City' project. She has collaborated with Victorian eResearch Strategic Initiative (VeRSI) and the La Trobe eResearch Office on the Australian Historical Archaeological Database (AHAD), funded by the Australian National Data Service (ANDS). She has published several papers and reports on urban archaeology, consumption studies, artefact cataloguing and database design.
+Penny Crook is a DECRA Fellow at the School of Historical and European Studies, La Trobe University. Dr Penny Crook is a historical archaeologist, consultant and is currently the FAIMS Research Fellow in the Archaeology Program at La Trobe University. She specialises in urban assemblage analysis and material-culture studies. She designed two customised relational databases to store archaeological and historical data derived from the ARC Linkage-funded 'Exploring the Archaeology of the Modern City' project. She has collaborated with Victorian eResearch Strategic Initiative (VeRSI) and the La Trobe eResearch Office on the Australian Historical Archaeological Database (AHAD), funded by the Australian National Data Service (ANDS). She has published several papers and reports on urban archaeology, consumption studies, artefact cataloguing and database design.
 
 [Penny's Publications >>](https://latrobe.academia.edu/PennyCrook)
 
@@ -81,7 +81,7 @@ Brian Ballsun-Stanton (Ph.D. University of New South Wales, 2012) is currently a
 * _Client Manager_
 * _PhD Student of Ancient History at Charles University in Prague & International Student at Macquarie University_
 
-Petra is a epigrapher, which means that she reads Ancient Greek mail (mostly that written on stone). She is writing her PhD in Prague on Graeco-Thracian interaction and cultural exchange (this is an extremely interesting subject concerning SE European history). She has done her Masters in Classical Archaeology and Ancient Greek in Prague. She has come to Australia to work with the FAIMS team and to broaden her horizons. Petra likes an archaeological fieldwork and she enjoys advising other projects how to collect data in a digital form. She has used the FAIMS DIY approach to customize and deploy her own module to collect Greek and Latin inscriptions strewn about in the field as well as modern urban environment.
+Petra is a epigrapher, which means that she reads Ancient Greek mail (mostly that written on stone). She is finishing her PhD on Graeco-Thracian interaction and cultural exchange, which is an extremely interesting subject concerning SE European history. She has done her Masters in Classical Archaeology and Ancient Greek at the Charles University in Prague. She has come to Australia to work with the FAIMS team and to broaden her horizons. Petra likes to do archaeological fieldwork and she enjoys helping other projects how to collect data in digital form. She has used the FAIMS DIY approach to customize and deploy her own module to collect data on Greek and Latin inscriptions that she encounters during her travels.
 
 
 [Petra's Publications](https://cuni.academia.edu/PetraJanouchova)
