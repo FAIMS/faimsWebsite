@@ -87,7 +87,7 @@ Petra is a epigrapher, which means that she reads Ancient Greek mail (mostly tha
 [Petra's Publications](https://cuni.academia.edu/PetraJanouchova)
 
 
-![Portrait_Robert]({{ site.urlimg }}Robert.png)
+![Portrait_Robert]({{ site.urlimg }}Portrait_Robert.gif)
 
 ### Robert Haubt
 
