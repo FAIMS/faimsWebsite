@@ -98,7 +98,7 @@ Robert is an interdisciplinary researcher in Digital Humanities with particular 
 He founded the Global Rock Art Database project (www.rockartdatabase.com) in 2012, a project that currently links over 250 rock art projects from across the world. Robert joined Macquarie University in 2016 as part of an e-Research initiative and assisted with the development of an e-Research roadmap at the Faculty of Arts and joined the FAIMS project in the role of Access Coordinator in 2017.
 
 
-[Robert's Global Rock Art Database](http://www.rockartdatabase.com)
+[Robert's Global Rock Art Database](http://rockartdatabase.com/)
 
 
 
