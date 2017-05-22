@@ -45,7 +45,7 @@ Download the FAIMS mobile app from the Google Play store using the link below an
 
 * [Getting Started guide](https://faimsproject.atlassian.net/wiki/display/MobileUser/Getting+Started)
 
-[![Google Play Store: FAIMS]({{ site.urlimg }}en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=au.org.intersect.faims.android)
+[![Google Play Store: FAIMS]({{ site.urlimg }}en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=au.edu.faims.mq.fieldresearch2)
 
 * * *
 
