@@ -12,9 +12,9 @@
   url: "https://faimsproject.atlassian.net/wiki"
   title: "FAIMS Wiki"
 
-- name: "Install FAIMS 2.0"
-  url: "https://play.google.com/store/apps/details?id=au.org.intersect.faims.android"
-  title: "Install FAIMS on your Android 4.4+"
+- name: "Install FAIMS 2.5"
+  url: "https://play.google.com/store/apps/details?id=au.edu.faims.mq.fieldresearch2"
+  title: "Install FAIMS on your Android 6+"
 
 #- name: "Atom"
 #  url: "/atom.xml"
