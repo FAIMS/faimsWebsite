@@ -31,3 +31,8 @@ Adela:
 volunteers:
   name: "FAIMS Volunteers"
   siterole: "author"
+
+robert:
+  name: "Robert Haubt"
+  siterole: "author" 
+  email: robert@fedarch.org 
