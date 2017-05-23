@@ -22,9 +22,9 @@ header:
 
 # A new team member for FAIMS!
 
-[!Robert](Portrait_Robert.gif)
+![Robert](Portrait_Robert.gif)
 
 Robert is here to help you with your data management needs. He has joined FAIMS for the year to help with data curation needs and outreach.
 
-E-mail him at [mailto:robert@fedarch.org]
+E-mail him at [robert@fedarch.org](mailto:robert@fedarch.org)
 
