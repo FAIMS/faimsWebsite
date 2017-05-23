@@ -74,7 +74,7 @@ Brian Ballsun-Stanton (Ph.D. University of New South Wales, 2012) is currently a
 [Brian's Publications](https://mq.academia.edu/BrianBallsunStanton)
 
 
-![Portrait_Petra]({{ site.urlimg }}Portrait_Petra.png)
+![Portrait_Petra]({{ site.urlimg }}Portrait_Petra.gif)
 
 ### Petra Janouchova
 
@@ -87,7 +87,7 @@ Petra is a epigrapher, which means that she reads Ancient Greek mail and tombsto
 [Petra's Publications](https://cuni.academia.edu/PetraJanouchova)
 
 
-![Portrait_Robert]({{ site.urlimg }}Portrait_Robert.gif)
+![Portrait_Robert]({{ site.urlimg }}Robert.gif)
 
 ### Robert Haubt
 
