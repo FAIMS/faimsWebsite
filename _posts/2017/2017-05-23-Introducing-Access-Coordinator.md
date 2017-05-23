@@ -22,7 +22,7 @@ header:
 
 # A new team member for FAIMS!
 
-![Robert](Portrait_Robert.gif)
+![Robert](Robert.gif)
 
 Robert is here to help you with your data management needs. He has joined FAIMS for the year to help with data curation needs and outreach.
 
