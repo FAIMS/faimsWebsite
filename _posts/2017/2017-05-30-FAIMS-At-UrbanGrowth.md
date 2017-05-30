@@ -4,7 +4,7 @@ layout: page
 # Content
 #
 subheadline: "FAIMS Out&About"
-title: "FAIMS promotes Macquarie University Archaeology Program at the Discover North Parramatta Open Day"
+title: "FAIMS and Macquarie University talk Archaeology at the Discover North Parramatta Open Day"
 teaser: "FAIMS at Discover North Parramatta Open Day"
 categories:
   - News
