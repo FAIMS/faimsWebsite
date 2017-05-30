@@ -10,7 +10,7 @@ categories:
   - News
 author: robert
 header:
-    image_fullwidth: 2017-05-30-Urban-Growth-OpenDay.jpg
+    image_fullwidth: 2017-05-30-UrbanGrowth-OpenDay.jpg
     caption: "Image by Petra Janouchova, FAIMS project" 
     
 
