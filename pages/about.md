@@ -89,16 +89,16 @@ Petra is a epigrapher, which means that she reads Ancient Greek mail and tombsto
 
 ![Portrait_Robert]({{ site.urlimg }}Robert.gif)
 
-### Robert Haubt
+### Dr Robert Haubt
 
 * _Access Coordinator / Outreach Manager_
 * _Research Fellow, Department of Ancient History, Macquarie University_
 
-Robert is an interdisciplinary researcher in Digital Humanities with particular interest in collaborative approaches, semantic Web, ontology and information visualization in cultural heritage applications. His research explores scaleable and sustainable technologies for the collection, management and dissemination of digital information with particular interest in GIS, remote sensing and photogrammetry. 
-He founded the Global Rock Art Database project (www.rockartdatabase.com) in 2012, a project that currently links over 250 rock art projects from across the world. Robert joined Macquarie University in 2016 as part of an e-Research initiative and assisted with the development of an e-Research roadmap at the Faculty of Arts and joined the FAIMS project in the role of Access Coordinator in 2017.
+Robert Haubt (Ph.D. Griffith University, 2016) is an interdisciplinary researcher in Digital Humanities with particular interest in collaborative approaches, semantic Web, ontology and information visualization in cultural heritage applications. His research explores scalable and sustainable technologies for the collection, management and dissemination of digital information with particular interest in GIS, remote sensing and photogrammetry. 
+He founded the [Global Rock Art Database](www.rockartdatabase.com) project in 2012, a project that currently links over 250 rock art projects from across the world. Robert joined Macquarie University in 2016 as part of an e-Research initiative and assisted with the development of an e-Research roadmap at the Faculty of Arts and joined the FAIMS project in the role of Access Coordinator in 2017.
 
 
-[Robert's Global Rock Art Database](http://rockartdatabase.com/)
+[Robert's publications](https://mq.academia.edu/RobertHaubt)
 
 
 
