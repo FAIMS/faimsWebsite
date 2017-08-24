@@ -27,6 +27,6 @@ FAIMS mobile integrates the printer with a click of a button, connecting the app
 
 We would like to thank [Gamma Solutions Pty. Ltd.](https://www.gammasolutions.com/) at Macquarie Park for providing a test printer to our development team, to make the integration possible.
 
-{% include youtubePlayer.html id=Wx0vSblD_bM %}
+{% include youtubePlayer.html id=page.Wx0vSblD_bM %}
 
 If you would like to know more about how you can print your own labels and barcodes from FAIMS mobile or have other external devices that you would like to integrate, contact our friendly team of experts at [enquires@fedarch.org](mailto:enquires@fedarch.org).
