@@ -11,7 +11,7 @@ categories:
 author: robert
 header:
     image_fullwidth: 2017-09-22-Kioloa-II.jpg
-    caption: "Image by Petra Janouchova, FAIMS project" 
+    caption: "CAA Australasia 2017 Spring Institute, CAA" 
     
 
 
