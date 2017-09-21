@@ -30,6 +30,6 @@ More information on the CAA Australasia event can be found here [CAA Australasia
 
 We would like to thank Dr. Ian Johnson from the University of Sydney for organising this event.
 
-![ANU Coastal Campus, Kioloa, NSW]({{ site.url }}/images/2017-09-22-Kioloa-I.jpg)(2017-09-22-Kioloa-I.jpg)
+![ANU Coastal Campus, Kioloa, NSW]({{ site.url }}/images/2017-09-22-Kioloa-I.jpg) ANU Coastal Campus, Kioloa, NSW
 
-![Drone Workshop with Dr.Yann Tristan; FAIMS workshop with A/Prof. Shawn Ross]({{ site.url }}/images/2017-09-22-Kioloa-I.jpg)(2017-09-22-Kioloa-III.png)
+![Drone Workshop with Dr.Yann Tristan; FAIMS workshop with A/Prof. Shawn Ross]({{ site.url }}/images/2017-09-22-Kioloa-III.png) Drone Workshop with Dr.Yann Tristan; FAIMS workshop with A/Prof. Shawn Ross
