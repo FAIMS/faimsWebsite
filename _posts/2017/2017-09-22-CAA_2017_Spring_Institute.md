@@ -30,6 +30,6 @@ The event was held at the Australian National University’s Kioloa Coastal Camp
 
 ![Drone Workshop with Dr.Yann Tristan; FAIMS workshop with A/Prof. Shawn Ross]({{ site.url }}/images/2017-09-22-Kioloa-III.png) Drone Workshop with Dr.Yann Tristan; FAIMS workshop with A/Prof. Shawn Ross
 
-More information on the CAA Australasia event can be found here [CAA Australasia 2017 Spring Institute] (http://au.caa-international.org/spring-institute/).
+More information on the CAA Australasia event can be found here [CAA Australasia 2017 Spring Institute](http://au.caa-international.org/spring-institute/).
 
 We would like to thank Dr. Ian Johnson from the University of Sydney for organising this event.
