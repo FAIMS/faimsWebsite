@@ -10,7 +10,7 @@ categories:
   - News
 author: robert
 header:
-    image_fullwidth: 2017-05-31-FAIMS-mobile-can-now-print-labels.jpg
+    image_fullwidth: 2017-09-22-Kioloa-II.jpg
     caption: "Image by Petra Janouchova, FAIMS project" 
     
 
