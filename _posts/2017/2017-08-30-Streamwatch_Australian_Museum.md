@@ -10,7 +10,7 @@ categories:
   - News
 author: robert
 header:
-    image_fullwidth: 2017-05-31-FAIMS-mobile-can-now-print-labels.jpg
+    image_fullwidth: 2017-08-30-streamwatch.jpg
     caption: "Streamwatch, FAIMS project" 
     
 
