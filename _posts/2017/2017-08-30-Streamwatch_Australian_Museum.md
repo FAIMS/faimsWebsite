@@ -22,7 +22,7 @@ header:
 
 <hr/>
 
-Last month FAIMS had a chance to sit down with Gregory McDonald from Streamwatch at the Australian Museum to talk about using FAIMS Mobile for their citizen science project.
+In June FAIMS had a chance to sit down with Gregory McDonald from Streamwatch at the Australian Museum to talk about using FAIMS Mobile for their citizen science project.
 
 Streamwatch is a citizen science water quality monitoring program that empowers community groups to monitor and protect the health of local waterways.
 
