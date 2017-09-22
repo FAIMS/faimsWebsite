@@ -22,8 +22,10 @@ header:
 
 <hr/>
 
-FAIMS mobile can now print QR codes and labels while you are in the field using the handheld [Zebra QLn420](https://www.zebra.com/ap/en/support-downloads/printers/mobile/qln420.html) printer.
+FAIMS mobile can now print QR codes and labels while you are in the field using the handheld [Zebra QLn420](https://www.zebra.com/ap/en/support-downloads/printers/mobile/qln420.html) printer and [Zebra P4T](https://www.zebra.com/us/en/products/printers/mobile/p4t.html).
 FAIMS mobile integrates the printer with a click of a button, connecting the app to the Zebra QLn420 via bluetooth.
+
+To further enhance you label printing experience we work with extra long-life thermal labels/wax ribbons, a future looking setup for collections that are looking to keep their samples for the long-term.
 
 We would like to thank [Gamma Solutions Pty. Ltd.](https://www.gammasolutions.com/) at Macquarie Park for providing a test printer to our development team, to make the integration possible.
 
