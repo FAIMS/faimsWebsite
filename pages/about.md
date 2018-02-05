@@ -76,30 +76,17 @@ Brian Ballsun-Stanton (Ph.D. University of New South Wales, 2012) is currently a
 
 ![Portrait_Petra]({{ site.urlimg }}Portrait_Petra.gif)
 
-### Petra Janouchova
+### Dr Petra Janouchova
 
 * _Access Coordinator / Client Manager_
-* _Research Associate, Department of Ancient History at Macquarie University & PhD Student of Ancient History at Charles University in Prague_
-
-Petra is a epigrapher, which means that she reads Ancient Greek mail and tombstones written more than 2000 years ago. She is finishing her PhD on Graeco-Thracian interaction, cultural exchange, and information dissemination in the SE Balkans during Antiquity. She has done her Masters in Classical Archaeology and Ancient Greek at the Charles University in Prague and she has come to Australia in 2016 to work with the FAIMS team and to broaden her horizons. Petra likes to do archaeological fieldwork and she enjoys helping other projects to design their data collection strategies. She has used the FAIMS DIY approach to customize and deploy her own module to collect data on Greek and Latin inscriptions that she encounters during her travels.
-
-
-[Petra's Publications](https://cuni.academia.edu/PetraJanouchova)
+* _Research Fellow, Department of Ancient History at Macquarie University & PhD Student of Ancient History at Charles University in Prague_
+* <a href="https://orcid.org/0000-0002-6349-0540" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-6349-0540</a>
 
 
-![Portrait_Robert]({{ site.urlimg }}Robert.gif)
-
-### Dr Robert Haubt
-
-* _Access Coordinator / Outreach Manager_
-* _Research Fellow, Department of Ancient History, Macquarie University_
-
-Robert Haubt (Ph.D. Griffith University, 2016) is an interdisciplinary researcher in Digital Humanities with particular interest in collaborative approaches, semantic Web, ontology and information visualization in cultural heritage applications. His research explores scalable and sustainable technologies for the collection, management and dissemination of digital information with particular interest in GIS, remote sensing and photogrammetry. 
-He founded the [Global Rock Art Database](http://www.rockartdatabase.com) project in 2012, a project that currently links over 250 rock art projects from across the world. Robert joined Macquarie University in 2016 as part of an e-Research initiative and assisted with the development of an e-Research roadmap at the Faculty of Arts and joined the FAIMS project in the role of Access Coordinator in 2017.
+Petra is an epigrapher, which means that she reads Ancient Greek mail and tombstones written more than 2000 years ago. She has done her PhD on Graeco-Thracian interaction, cultural exchange, and information dissemination in the SE Balkans during Antiquity. She has done her Masters in Classical Archaeology and Ancient Greek at the Charles University in Prague and she has come to Australia in 2016 to work with the FAIMS team and to broaden her horizons. Petra likes to do archaeological fieldwork and she enjoys helping other projects to design their data collection strategies. She has used the FAIMS DIY approach to customize and deploy her own module to collect data on Greek and Latin inscriptions that she encounters during her travels.
 
 
-[Robert's publications](https://mq.academia.edu/RobertHaubt)
-
+[Petra's Project](https://osf.io/fjnw5/)
 
 
 ![Christian]({{ site.urlimg }}Christian.png)
