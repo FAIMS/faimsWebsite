@@ -79,8 +79,8 @@ Brian Ballsun-Stanton (Ph.D. University of New South Wales, 2012) is currently a
 ### Dr Petra Janouchova
 
 * _Access Coordinator / Client Manager_
-* _Research Fellow, Department of Ancient History at Macquarie University & PhD Student of Ancient History at Charles University in Prague_
-* <a href="https://orcid.org/0000-0002-6349-0540" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-6349-0540</a>
+* _Research Fellow, Department of Ancient History at Macquarie University_
+<a href="https://orcid.org/0000-0002-6349-0540" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-6349-0540</a>
 
 
 Petra is an epigrapher, which means that she reads Ancient Greek mail and tombstones written more than 2000 years ago. She has done her PhD on Graeco-Thracian interaction, cultural exchange, and information dissemination in the SE Balkans during Antiquity. She has done her Masters in Classical Archaeology and Ancient Greek at the Charles University in Prague and she has come to Australia in 2016 to work with the FAIMS team and to broaden her horizons. Petra likes to do archaeological fieldwork and she enjoys helping other projects to design their data collection strategies. She has used the FAIMS DIY approach to customize and deploy her own module to collect data on Greek and Latin inscriptions that she encounters during her travels.
