@@ -80,6 +80,7 @@ Brian Ballsun-Stanton (Ph.D. University of New South Wales, 2012) is currently a
 
 * _Access Coordinator / Client Manager_
 * _Research Fellow, Department of Ancient History at Macquarie University_
+
 <a href="https://orcid.org/0000-0002-6349-0540" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-6349-0540</a>
 
 
