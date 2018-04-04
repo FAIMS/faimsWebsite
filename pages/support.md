@@ -80,7 +80,7 @@ Ask us on [support](http://support.fedarch.org) or look at our [User Guide](http
 
 Use the following links to find FAIMS-specific documentation:
 
-* [Cheatsheets](https://www.fedarch.org/resources/handouts.pdf) (Apr-2015)
+* [Cheatsheets](https://www.fedarch.org/resources/handouts.pdf) (Apr-2018)
 
 * [FAIMS Mobile Platform User Guide](https://faimsproject.atlassian.net/wiki/display/MobileUser/Introduction)
 
@@ -97,8 +97,8 @@ Use the following links to find FAIMS-specific documentation:
 
 # Informational Pamphlets
 
-* [Introduction](https://www.fedarch.org/resources/introPamphlet.pdf) (Apr-2015)
-* [Introducing Data Collection on Android](https://www.fedarch.org/resources/mobilePamphlet.pdf) (Apr-2015)
+* [Introduction](https://www.fedarch.org/resources/introPamphlet.pdf) (Apr-2018)
+* [Introducing Data Collection on Android](https://www.fedarch.org/resources/mobilePamphlet.pdf) (Apr-2018)
 * [Relational and Nonrelational Program Independent Schemas](http://www.fedarch.org/resources/databasePamphlet.pdf) (Oct-2013)
 * [Demo Features](https://www.fedarch.org/resources/demoFeatures.pdf) (Apr-2015)
 
