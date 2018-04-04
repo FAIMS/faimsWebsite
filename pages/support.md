@@ -3,7 +3,7 @@ author: denubis
 layout: page
 header:
   image_fullwidth: FAIMSapp.JPG
-  caption: FAIMS 1.3 map screen taken at Zagroa by Adela Sobotkova. CC-BY 2013.
+  caption: FAIMS 1.3 map screen taken at Zagora by Adela Sobotkova. CC-BY 2013.
 slug: support
 title: FAIMS Support Options
 show_meta: false
@@ -33,7 +33,7 @@ Here are some questions from our users and collaborators.
 
 ## Who can use FAIMS?
 
-Anyone can use the FAIMS platform. Archaeologists, geologists, environmental scientist needing applications for offline digital data field collection are particularly welcome! We are developing open source and there is no cost to use and distriubplate the software.
+Anyone can use the FAIMS platform. Archaeologists, geologists, environmental scientist needing applications for offline digital data field collection are particularly welcome! We are developing open source and there is no cost to use and distribute the software.
 
 ## How skilled do I have to be to use it properly?
 
@@ -47,7 +47,7 @@ You can trial the FAIMS Mobile platform on your own, by downloading the applicat
 
 ## What are the technical requirements of the system?
 
-You need an Android device running Android 4.4+ with rear-facing camera, an Access Point, and a computer capable of running (or virtualising) Linux.
+You need an Android device running Android 6.+ with rear-facing camera, an Access Point, and a computer capable of running (or virtualising) Linux.
 
 ## Will it work on an iPad?
 
