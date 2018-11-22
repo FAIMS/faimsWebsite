@@ -41,11 +41,20 @@ Features include:
 
 # Get started!
 
-Download the FAIMS mobile app from the Google Play store using the link below and trial our demonstration modules. Use the Getting Started guide to learn about the FAIMS mobile platform:
+Download the FAIMS mobile app from the FAIMS website and trial our demonstration modules. Use the Getting Started guide to learn about the FAIMS mobile platform:
 
 * [Getting Started guide](https://faimsproject.atlassian.net/wiki/display/MobileUser/Getting+Started)
 
-[![Google Play Store: FAIMS]({{ site.urlimg }}en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=au.edu.faims.mq.fieldresearch2)
+* [![Download FAIMS APK](http://www.fedarch.org/apk/faims-android-latest.apk)
+* Click on the downloaded APK file and install it on your device.
+* Go to Settings>Security and scroll to Device Administration  Check "Unknown sources"
+* Navigate to your downloads and run the APK you downloaded to install FAIMS.
+* Then return to Settings>Security>Device Administration and uncheck "Unknown sources"
+* Open the FAIMS Mobile app, click the 'Connect to Demo server' button on the bottom left.
+* You should now see a scrolling list of the available 'modules'. Modules are FAIMS digital recording forms that can be tailored to specific projects and unique research workflows.
+* Click on any module and download it to your device (may take minutes).
+* Press the 'Load the module' button and explore the module! 
+
 
 * * *
 

@@ -14,7 +14,7 @@ permalink: /support/
 
 ## Getting started with FAIMS Mobile
 
-* [Cheatsheets](https://www.fedarch.org/resources/handouts.pdf) (Jul-2017)
+* [Cheatsheets](https://www.fedarch.org/resources/handouts.pdf) (Nov-2018)
 
 * [User Guide](https://faimsproject.atlassian.net/wiki/display/MobileUser/Getting+Started)
 
@@ -80,7 +80,7 @@ Ask us on [support](http://support.fedarch.org) or look at our [User Guide](http
 
 Use the following links to find FAIMS-specific documentation:
 
-* [Cheatsheets](https://www.fedarch.org/resources/handouts.pdf) (Apr-2018)
+* [Cheatsheets](https://www.fedarch.org/resources/handouts.pdf) (Nov-2018)
 
 * [FAIMS Mobile Platform User Guide](https://faimsproject.atlassian.net/wiki/display/MobileUser/Introduction)
 
