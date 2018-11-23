@@ -45,7 +45,7 @@ Download the FAIMS mobile app from the FAIMS website and trial our demonstration
 
 * [Getting Started guide](https://faimsproject.atlassian.net/wiki/display/MobileUser/Getting+Started)
 
-* [![Download FAIMS APK](http://www.fedarch.org/apk/faims-android-latest.apk)
+* [Download FAIMS APK](http://www.fedarch.org/apk/faims-android-latest.apk)
 * Click on the downloaded APK file and install it on your device.
 * Go to Settings>Security and scroll to Device Administration  Check "Unknown sources"
 * Navigate to your downloads and run the APK you downloaded to install FAIMS.
