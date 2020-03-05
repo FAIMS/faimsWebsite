@@ -14,7 +14,7 @@ encoding: utf-8
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: "Creating eResearch tools for Field Researchers, Humanities, and the Sciences"
 
-destination: /var/www/fedarch.org/
+destination: docs
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: "FAIMS provides tools for the collection of born-digital field data through to archiving for any research discipline, workflow, ontology, and standard."
 
