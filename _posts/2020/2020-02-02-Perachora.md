@@ -4,14 +4,14 @@ layout: page
 # Content
 #
 subheadline: "Notes from the Field!"
-title: "Perachora project puts grid-survey module to test"
+title: "Perachora project puts FAIMS Mobile to test"
 teaser: "Macquarie University team of archaeologists use FAIMS to record the environs of Heraion sanctuary in Greece"
 categories:
   - News
 author: adela
 header:
-    image_fullwidth: PPAP_Chrono4kblue.png
-    caption: "From left to right: students Delphine Edwards and Hannah Kelly, and archaeology lecturer Susan Lupack. Image by Adela Sobotkova, under CC-BY-SA 2013. " 
+    image_fullwidth: PerachoraSurveyModule.jpg
+    caption: "Grid-Survey module in action. Image by Adela Sobotkova, under CC-BY-SA 2013. " 
     
 
 
