@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2013-08-05 08:17:21+00:00
-layout: post
+layout: page
 slug: preparing-to-post-on-google-play
 title: Preparing to post on Google Play
 wordpress_id: 1008

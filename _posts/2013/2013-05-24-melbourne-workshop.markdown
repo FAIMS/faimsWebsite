@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2013-05-24 09:02:07+00:00
-layout: post
+layout: page
 slug: melbourne-workshop
 title: Melbourne workshop
 wordpress_id: 936

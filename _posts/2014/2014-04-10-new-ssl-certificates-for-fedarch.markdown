@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2014-04-10 03:36:16+00:00
-layout: post
+layout: page
 slug: new-ssl-certificates-for-fedarch
 title: New SSL Certificates for fedarch.org
 wordpress_id: 1282

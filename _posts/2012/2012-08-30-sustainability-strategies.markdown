@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2012-08-30 04:22:27+00:00
-layout: post
+layout: page
 slug: sustainability-strategies
 title: Sustainability Strategies
 wordpress_id: 288

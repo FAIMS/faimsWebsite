@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2013-02-02 00:49:07+00:00
-layout: post
+layout: page
 slug: first-internal-prototype
 title: 'First internal prototype '
 wordpress_id: 529

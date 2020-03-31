@@ -2,7 +2,7 @@
 author: penny
 comments: true
 date: 2015-02-16 00:20:52+00:00
-layout: post
+layout: page
 slug: need-help-with-last-minute-grant-applications
 title: Need help with last minute grant applications?
 wordpress_id: 1937

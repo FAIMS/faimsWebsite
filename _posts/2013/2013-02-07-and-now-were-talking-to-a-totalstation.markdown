@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2013-02-07 05:03:55+00:00
-layout: post
+layout: page
 slug: and-now-were-talking-to-a-totalstation
 title: And now we're talking to a totalstation...
 wordpress_id: 537

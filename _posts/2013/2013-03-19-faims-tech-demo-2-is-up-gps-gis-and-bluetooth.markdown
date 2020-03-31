@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2013-03-19 01:21:15+00:00
-layout: post
+layout: page
 slug: faims-tech-demo-2-is-up-gps-gis-and-bluetooth
 title: 'FAIMS Tech Demo #2 is up, GPS, GIS, and Bluetooth!'
 wordpress_id: 729

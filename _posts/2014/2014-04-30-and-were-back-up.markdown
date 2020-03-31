@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2014-04-30 03:40:39+00:00
-layout: post
+layout: page
 slug: and-were-back-up
 title: And we're back up.
 wordpress_id: 1297

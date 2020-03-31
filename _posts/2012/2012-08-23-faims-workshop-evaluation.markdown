@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2012-08-23 04:36:45+00:00
-layout: post
+layout: page
 slug: faims-workshop-evaluation
 title: FAIMS Workshop Evaluation
 wordpress_id: 208

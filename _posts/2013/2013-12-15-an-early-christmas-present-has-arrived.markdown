@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2013-12-15 09:26:33+00:00
-layout: post
+layout: page
 slug: an-early-christmas-present-has-arrived
 title: An early Christmas present has arrived...
 wordpress_id: 1179

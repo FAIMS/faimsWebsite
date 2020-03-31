@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2014-04-16 06:14:43+00:00
-layout: post
+layout: page
 slug: a-box-a-box-a-mysterious-box
 title: A box, a box, a mysterious box...
 wordpress_id: 1290

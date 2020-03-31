@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2013-06-13 11:56:57+00:00
-layout: post
+layout: page
 slug: a-little-bit-of-turbulence
 title: A little bit of turbulence...
 wordpress_id: 974

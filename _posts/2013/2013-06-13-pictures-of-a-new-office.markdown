@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2013-06-13 06:16:55+00:00
-layout: post
+layout: page
 slug: pictures-of-a-new-office
 title: Pictures of a New Office
 wordpress_id: 958

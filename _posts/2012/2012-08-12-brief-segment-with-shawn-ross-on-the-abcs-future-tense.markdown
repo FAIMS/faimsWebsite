@@ -2,7 +2,7 @@
 author: shawn
 comments: true
 date: 2012-08-12 01:35:03+00:00
-layout: post
+layout: page
 slug: brief-segment-with-shawn-ross-on-the-abcs-future-tense
 title: Brief segment with Shawn Ross on the ABC's "Future Tense"
 wordpress_id: 183

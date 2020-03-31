@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2014-01-10 03:20:38+00:00
-layout: post
+layout: page
 slug: starting-the-new-year
 title: Starting the new year...
 wordpress_id: 1186

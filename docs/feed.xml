@@ -9,6 +9,18 @@
 		<atom:link href="https://www.fedarch.org/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Perachora project puts FAIMS Mobile to test</title>
+				<link>https://www.fedarch.org/news/Perachora/</link>
+				<pubDate>Sun, 02 Feb 2020 00:00:00 +1100</pubDate>
+				<description>&lt;p&gt;Macquarie University team of archaeologists and students spent January in Greece surveying the ancient sanctuary of Hera and its environs using FAIMS Mobile platform. The Perachora Peninsula Archaeological Project led by Susan Lupack of Macquarie Univeristy in collaboration with Panagiota Kasimi, the Ephor of the Ephorate of Antiquities of Corinth, aims to map the standing features around the photogenic site and explore the past human activity in the peninsula throught the long-term. Joined by Shawn Ross and 15 students, and Adela Sobotkova and Petra Janouchova from Aarhus University, the team used two FAIMS modules to record surface artefacts densities and standing features, and photogrammetry to make digital models of the best preserved structures. With the help of (Feature recording module)[https://github.com/FAIMS/Perachora-2020], an on-the-spot assembled variation of (TRAP burial module)[https://github.com/FAIMS/burial], the students followed historical maps of the Heraion environs and recorded 108 standing walls, masonry structures, tombs, roads, cisterns and shafts. With the (grid-survey module) [https://github.com/FAIMS/trap-gridded-survey], they scrambled through forests, olive groves and scrubby scliffs at 5 m intervals to document 16 ha of terrain, documenting a total of 22,817 artefacts. 
+Each team used the k1 Shield Nvidia Android tablet with bluetooth GPS to document archaeological realities. The survey-grid module allowed them to document the density of 12 different classes of artefacts at 5 by 5 m spatial granularity, an ideal setup for systematic urban-level survey. All teams kept also a paper back up with handheld GPS and DSLR cameras to ensure redundancy.  The progress was slow due both to vegetation and high density of artefacts, but it was rewarded by gorgeous views, painted pottery, and the great pleasure of downloading clean and complete data at the end of the day. Thanks to the low-power FAIMS server kit and technical skills among the team, the sporadic electricity and nonexistent internet were no show-stoppers.
+All in all, Petra and Adela were thrilled as the modules exceeded their expectations. Students learnt that no bushes can stop them and grew stronger thanks to the steep learning curve (for their reflections see their (blog) [https://ancient-history-blog.mq.edu.au/PPAP-blog-final]). Even photogrammetry under Shawn’s direction, although plagued by technical challenges, produced fantastic results.
+We are ready for the next season!&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://www.fedarch.org/news/Perachora/</guid>
+			</item>
+		
+			<item>
 				<title>Printing Labels on the Go</title>
 				<link>https://www.fedarch.org/news/YesWeCan/</link>
 				<pubDate>Fri, 04 May 2018 00:00:00 +1000</pubDate>
@@ -100,7 +112,7 @@ FAIMS Mobile integrates the printer with a click of a button, connecting the app
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Wx0vSblD_bM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;If you would like to know more about how you can print your own labels and barcodes from FAIMS Mobile or have other external devices that you would like to integrate, contact our friendly team of experts at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#101;&amp;#110;&amp;#113;&amp;#117;&amp;#105;&amp;#114;&amp;#101;&amp;#115;&amp;#064;&amp;#102;&amp;#101;&amp;#100;&amp;#097;&amp;#114;&amp;#099;&amp;#104;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&quot;&gt;&amp;#101;&amp;#110;&amp;#113;&amp;#117;&amp;#105;&amp;#114;&amp;#101;&amp;#115;&amp;#064;&amp;#102;&amp;#101;&amp;#100;&amp;#097;&amp;#114;&amp;#099;&amp;#104;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you would like to know more about how you can print your own labels and barcodes from FAIMS Mobile or have other external devices that you would like to integrate, contact our friendly team of experts at &lt;a href=&quot;mailto:enquires@fedarch.org&quot;&gt;enquires@fedarch.org&lt;/a&gt;.&lt;/p&gt;
 </description>
 				<guid isPermaLink="true">https://www.fedarch.org/news/FAIMS-mobile-can-now-print-labels/</guid>
 			</item>
@@ -151,7 +163,7 @@ Thank you to everyone involved for a great day in Parramatta!&lt;/p&gt;
 			</item>
 		
 			<item>
-				<title>Introducing FAIMS&#39; new Access Coordinator!</title>
+				<title>Introducing FAIMS' new Access Coordinator!</title>
 				<link>https://www.fedarch.org/news/Introducing-Access-Coordinator/</link>
 				<pubDate>Tue, 23 May 2017 00:00:00 +1000</pubDate>
 				<description>&lt;h1 id=&quot;a-new-team-member-for-faims&quot;&gt;A new team member for FAIMS!&lt;/h1&gt;
@@ -160,41 +172,10 @@ Thank you to everyone involved for a great day in Parramatta!&lt;/p&gt;
 
 &lt;p&gt;Robert is here to help you with your data management needs. He has joined FAIMS for the year to help with data curation needs and outreach.&lt;/p&gt;
 
-&lt;p&gt;E-mail him at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#114;&amp;#111;&amp;#098;&amp;#101;&amp;#114;&amp;#116;&amp;#064;&amp;#102;&amp;#101;&amp;#100;&amp;#097;&amp;#114;&amp;#099;&amp;#104;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&quot;&gt;&amp;#114;&amp;#111;&amp;#098;&amp;#101;&amp;#114;&amp;#116;&amp;#064;&amp;#102;&amp;#101;&amp;#100;&amp;#097;&amp;#114;&amp;#099;&amp;#104;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;E-mail him at &lt;a href=&quot;mailto:robert@fedarch.org&quot;&gt;robert@fedarch.org&lt;/a&gt;&lt;/p&gt;
 
 </description>
 				<guid isPermaLink="true">https://www.fedarch.org/news/Introducing-Access-Coordinator/</guid>
-			</item>
-		
-			<item>
-				<title>Measure Twice, Cut Once: Cooperative Deployment of a Generalized, Archaeology Specific Field Data Collection System</title>
-				<link>https://www.fedarch.org/news/MobilisingThePast/</link>
-				<pubDate>Tue, 25 Oct 2016 00:00:00 +1100</pubDate>
-				<description>&lt;p&gt;Adela, Shawn, Andy, Jessica, Parker, and myself are proud to announce our chapter in &lt;a href=&quot;https://thedigitalpress.org/mobilizing-the-past-for-a-digital-future/&quot;&gt;Mobilizing the Past&lt;/a&gt; is out!&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Measure Twice, Cut Once: Cooperative Deployment of a Generalized, Archaeology-Specific Field Data Collection System&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;By: Adela Sobotkova, Shawn A. Ross, Brian Ballsun-Stanton, Andrew Fairbairn, Jessica Thompson, and Parker VanValkenburgh&lt;/p&gt;
-
-&lt;p&gt;Abstract:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The Federated Archaeological Information Management Systems (FAIMS) Project is an Australian, university-based initiative developing a generalized, open-source mobile data collection platform that can be customized for diverse archaeological activities. Three field directors report their experiences adapting FAIMS software to projects in Turkey, Malawi, and Peru, highlighting three themes: (1) the transition from paper to digital recording has upfront costs with backend pay-off, (2) the transition involves decisions and tradeoffs that archaeologists and technologists need to make together, and (3) digital recording has both short- and long-term benefits. In the short-term, project directors reported efficient acquisition of richer, more accurate, data. Longer-term, they anticipated that the availability of comprehensive, born-digital datasets would support rigorous demonstration of field intuitions and faster publication of more complete datasets. We argue that cooperative development involving archaeologists and technologists can produce high-quality, fit-for-purpose software, representing the best chance to embedding new technology in established projects.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;/documents/3_2_sobotkova.pdf&quot;&gt;Read it now!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Project code, wireframes, and full case studies are available &lt;a href=&quot;https://mobilizingthepast.mukurtu.net/collection/32-measure-twice-cut-once-cooperative-deployment-generalized-archaeology-specific-field&quot;&gt;from Mukurtu&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Citation:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Sobotkova, Adela, Shawn A. Ross, Brian Ballsun-Stanton, Andrew Fairbairn, Jessica Thompson, and Parker VanValkenburgh. 2016. “Measure Twice, Cut Once: Cooperative Deployment of a Generalized, Archaeology-Specific Field Data Collection System.” In Mobilizing the Past for a Digital Future: The Potential of Digital Archaeology, edited by Erin Walcek Averett, Jody Michael Gordon, and Derek B. Counts, 337–72. Grand Forks, ND: The Digital Press at the University of North Dakota. https://digitalpressatund.files.wordpress.com/2016/09/3_2_sobotkova.pdf.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-				<guid isPermaLink="true">https://www.fedarch.org/news/MobilisingThePast/</guid>
 			</item>
 		
 	</channel>

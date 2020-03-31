@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2013-11-11 03:43:19+00:00
-layout: post
+layout: page
 slug: hands-on-workshop-at-aaa-in-coffs-harbour
 title: Hands-on Workshop at AAA in Coff's Harbour!
 wordpress_id: 1146

@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2015-02-26 02:30:41+00:00
-layout: post
+layout: page
 slug: new-news-faims-at-mq-faims-in-a-car-faims-in-podcasts
 title: New News! FAIMS at MQ! FAIMS in a truck! FAIMS in podcasts...
 wordpress_id: 1980

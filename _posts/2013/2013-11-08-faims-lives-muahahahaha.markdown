@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2013-11-08 03:45:39+00:00
-layout: post
+layout: page
 slug: faims-lives-muahahahaha
 title: FAIMS LIVES! Muahahahaha!
 wordpress_id: 1142

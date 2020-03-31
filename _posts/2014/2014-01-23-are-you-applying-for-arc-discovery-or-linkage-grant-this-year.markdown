@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2014-01-23 02:33:48+00:00
-layout: post
+layout: page
 slug: are-you-applying-for-arc-discovery-or-linkage-grant-this-year
 title: 'Are you applying for ARC Discovery or Linkage grant this year? '
 wordpress_id: 1190

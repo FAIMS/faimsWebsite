@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2013-05-29 08:16:34+00:00
-layout: post
+layout: page
 slug: another-successful-acceptance-test
 title: Another successful acceptance test!
 wordpress_id: 943

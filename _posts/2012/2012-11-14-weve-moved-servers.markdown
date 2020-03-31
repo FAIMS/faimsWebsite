@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2012-11-14 03:34:36+00:00
-layout: post
+layout: page
 slug: weve-moved-servers
 title: We've Moved Servers
 wordpress_id: 375

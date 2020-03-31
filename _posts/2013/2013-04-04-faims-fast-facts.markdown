@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2013-04-04 02:14:54+00:00
-layout: post
+layout: page
 published: false
 slug: faims-fast-facts
 title: FAIMS Fast Facts

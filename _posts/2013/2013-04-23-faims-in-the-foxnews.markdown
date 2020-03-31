@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2013-04-23 16:40:53+00:00
-layout: post
+layout: page
 slug: faims-in-the-foxnews
 title: Want to be an armchair archaeologist?
 wordpress_id: 853

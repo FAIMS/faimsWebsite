@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2013-03-23 05:22:11+00:00
-layout: post
+layout: page
 slug: learning-opportunity-in-cultural-heritage-informatics
 title: Learning opportunity in Cultural Heritage informatics
 wordpress_id: 740

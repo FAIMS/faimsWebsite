@@ -2,7 +2,7 @@
 author: denubis
 comments: false
 date: 2012-12-22 02:55:36+00:00
-layout: post
+layout: page
 slug: a-postcard-for-faims
 title: A Postcard for FAIMS
 wordpress_id: 464

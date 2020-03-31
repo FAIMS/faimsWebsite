@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2013-04-15 01:27:27+00:00
-layout: post
+layout: page
 slug: e-mail-syndication
 title: E-mail Syndication
 wordpress_id: 845

@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2013-03-14 12:40:00+00:00
-layout: post
+layout: page
 published: false
 slug: a-new-video-is-up-a-faims-technical-talk-about-some-frequently-asked-questions
 title: 'A new video is up: A FAIMS Technical Talk about some frequently asked questions!'

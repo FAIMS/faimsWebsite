@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2013-11-07 05:14:53+00:00
-layout: post
+layout: page
 slug: what-does-a-23-thousand-bigram-word-cloud-look-like-an-honours-thesis
 title: What does a 23 thousand bigram word cloud look like? An honours thesis.
 wordpress_id: 1113

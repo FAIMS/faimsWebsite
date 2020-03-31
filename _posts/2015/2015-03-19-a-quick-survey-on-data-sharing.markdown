@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2015-03-19 23:45:21+00:00
-layout: post
+layout: page
 slug: a-quick-survey-on-data-sharing
 title: A quick survey on data sharing
 wordpress_id: 1988

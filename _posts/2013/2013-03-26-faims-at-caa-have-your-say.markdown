@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2013-03-26 00:24:07+00:00
-layout: post
+layout: page
 slug: faims-at-caa-have-your-say
 title: FAIMS at CAA - Have Your Say!
 wordpress_id: 755

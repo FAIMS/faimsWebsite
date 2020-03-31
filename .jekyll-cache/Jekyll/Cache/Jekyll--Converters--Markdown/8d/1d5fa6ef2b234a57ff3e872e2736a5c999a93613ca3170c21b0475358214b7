@@ -1,0 +1,10 @@
+I"Z<p>On Monday we brought our FAIMS developers together in our new office to discuss data exchange formats for the new FAIMS infrastructure.</p>
+
+<p>[caption id=”attachment_592” align=”alignleft” width=”300” caption=”Developers at a Round Table”]<a href="http://www.fedarch.org/wordpress/?attachment_id=592"><img src="http://www.fedarch.org/wordpress/wp-content/uploads//2013/02/DataSummit-300x225.jpg" alt="" /></a>[/caption]</p>
+
+<p>Discussion revolved around the data that will be travelling between the FAIMS mobile application, data visualization and analysis space (Heurist) and the FAIMS repository (an implementation of tDAR, developed at Arizona State University). This data will be likely passed around in raw format as a tarball of the SQLlite database and configuration files underlying the mobile application.</p>
+
+<p>For all other external repositories, databases, web apps and analytical spaces, just let us know what data format you need. In the words of our developers: “we can export as anything”.</p>
+
+<p>[caption id=”attachment_593” align=”aligncenter” width=”1242” caption=”Brian demonstrates data transmission”]<a href="http://www.fedarch.org/wordpress/?attachment_id=593"><img src="http://www.fedarch.org/wordpress/wp-content/uploads//2013/02/Brian-demonstrates-data-transmission.jpg" alt="" /></a>[/caption]</p>
+:ET

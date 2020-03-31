@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2013-02-07 01:26:14+00:00
-layout: post
+layout: page
 slug: faims-at-google-sudo
 title: FAIMS at Google SUDO
 wordpress_id: 535

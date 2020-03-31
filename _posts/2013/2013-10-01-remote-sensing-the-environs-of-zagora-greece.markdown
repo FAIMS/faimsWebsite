@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2013-10-01 16:58:09+00:00
-layout: post
+layout: page
 slug: remote-sensing-the-environs-of-zagora-greece
 title: Remote Sensing the environs of Zagora, Greece
 wordpress_id: 1062

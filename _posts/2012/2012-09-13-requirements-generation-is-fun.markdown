@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2012-09-13 05:17:06+00:00
-layout: post
+layout: page
 slug: requirements-generation-is-fun
 title: Requirements Generation is Fun
 wordpress_id: 337

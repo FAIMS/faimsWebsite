@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2014-11-24 00:17:47+00:00
-layout: post
+layout: page
 slug: pardon-our-dust
 title: Pardon our dust...
 wordpress_id: 1377

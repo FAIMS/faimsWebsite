@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2012-08-30 04:24:53+00:00
-layout: post
+layout: page
 slug: keynote-capacity-building-in-digital-archaeology
 title: 'Keynote: Capacity Building in (Digital) Archaeology  '
 wordpress_id: 293

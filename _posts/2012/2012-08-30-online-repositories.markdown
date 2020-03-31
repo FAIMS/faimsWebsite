@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2012-08-30 04:14:12+00:00
-layout: post
+layout: page
 slug: online-repositories
 title: Online Repositories
 wordpress_id: 280

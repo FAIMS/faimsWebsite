@@ -2,7 +2,7 @@
 author: penny
 comments: true
 date: 2012-08-20 03:13:27+00:00
-layout: post
+layout: page
 slug: thanks-to-workshop-participants
 title: Thanks to Workshop Participants
 wordpress_id: 196

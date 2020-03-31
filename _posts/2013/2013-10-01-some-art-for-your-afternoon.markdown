@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2013-10-01 07:30:22+00:00
-layout: post
+layout: page
 slug: some-art-for-your-afternoon
 title: Some word rock art for your afternoon.
 wordpress_id: 1056

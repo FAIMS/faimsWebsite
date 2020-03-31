@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2013-11-07 05:38:57+00:00
-layout: post
+layout: page
 slug: device-recommendations-for-the-faims-mobile-application
 title: Device recommendations for the FAIMS Mobile Application
 wordpress_id: 1130

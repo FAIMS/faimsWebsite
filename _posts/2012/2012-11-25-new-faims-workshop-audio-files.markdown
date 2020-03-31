@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2012-11-25 23:48:42+00:00
-layout: post
+layout: page
 slug: new-faims-workshop-audio-files
 title: 'NEW: FAIMS Workshop audio files'
 wordpress_id: 403

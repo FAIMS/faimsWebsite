@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2013-02-14 06:53:53+00:00
-layout: post
+layout: page
 slug: what-you-may-not-know-about-a-lief-grant-application
 title: What you may not know about a LIEF grant application
 wordpress_id: 544

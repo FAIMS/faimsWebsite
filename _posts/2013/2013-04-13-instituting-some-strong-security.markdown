@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2013-04-13 08:17:23+00:00
-layout: post
+layout: page
 slug: instituting-some-strong-security
 title: Instituting some Strong Security
 wordpress_id: 813

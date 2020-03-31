@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2013-04-25 10:34:53+00:00
-layout: post
+layout: page
 slug: can-i-have-your-data
 title: 'Can I have your data? '
 wordpress_id: 868

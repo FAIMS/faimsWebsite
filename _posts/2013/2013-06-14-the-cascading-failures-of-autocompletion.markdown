@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2013-06-14 03:04:40+00:00
-layout: post
+layout: page
 slug: the-cascading-failures-of-autocompletion
 title: The cascading failures of autocompletion
 wordpress_id: 980

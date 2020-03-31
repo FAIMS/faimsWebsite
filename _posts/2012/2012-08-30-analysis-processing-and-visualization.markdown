@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2012-08-30 04:23:18+00:00
-layout: post
+layout: page
 slug: analysis-processing-and-visualization
 title: Analysis, Processing, and Visualization
 wordpress_id: 290

@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2014-03-12 12:27:18+00:00
-layout: post
+layout: page
 slug: call-for-repository-testers
 title: Call for Repository Testers
 wordpress_id: 1246

@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2014-03-05 01:46:01+00:00
-layout: post
+layout: page
 slug: announcing-some-support-infrastructure
 title: Announcing some support infrastructure!
 wordpress_id: 1227

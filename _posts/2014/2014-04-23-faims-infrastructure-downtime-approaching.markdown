@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2014-04-23 07:40:43+00:00
-layout: post
+layout: page
 slug: faims-infrastructure-downtime-approaching
 title: FAIMS Infrastructure downtime approaching
 wordpress_id: 1294

@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2013-01-16 14:22:08+00:00
-layout: post
+layout: page
 slug: on-a-roll-a-sample-screenshot-from-our-app
 title: On a roll, a sample screenshot from our app!
 wordpress_id: 511

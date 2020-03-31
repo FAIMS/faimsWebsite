@@ -1,0 +1,14 @@
+I"�<p>Hey folks,</p>
+
+<p>According to <a href="http://support.rc.nectar.org.au/forum/viewtopic.php?f=21&amp;t=928&amp;sid=9698833540c0a9248b05722bbb994209">Nectar</a>:</p>
+
+<blockquote>A 24 hour outage is required to relocate and upgrade the cloud storage infrastructure at the University of Melbourne. Only instances in the melbourne-qh2 availability zone will be affected. The upgrade will bring further stability and increased performance to this availability zone.</blockquote>
+
+<p>Unfortunately, we’ll have a number of impacted machines: the FAIMS mobile app sandbox, this webserver, our wiki, testrepo, and authentication server will all be down.</p>
+
+<p>Downtime will span close of business on the <strong>28th to midday on the 30th</strong>.</p>
+
+<p>Critically, if we’re developing modules for you, <strong>you will not be able to get modules-in-progress from sandbox during this downtime.</strong></p>
+
+<p>Let us know if that’s a problem and we can find a workaround.</p>
+:ET

@@ -1,0 +1,48 @@
+I"�<p>One of the more interesting queries I worked on yesterday was this:</p>
+
+<p><code class="language-sql"></code></p>
+
+<p>SELECT uuid, aenttypename, attributename, coalesce(vocabname, measure, freetext) as responce, vocabid, attributeid</p>
+
+<p>FROM (SELECT uuid, attributeid, aenttypename</p>
+
+<p>FROM (SELECT aenttypeid, attributeid, aenttypename</p>
+
+<p>FROM idealaent join aenttype using (aenttypeid)</p>
+
+<p>WHERE isIdentifier = ‘true’)</p>
+
+<p>JOIN (SELECT uuid, aenttypeid</p>
+
+<p>FROM archentity</p>
+
+<p>WHERE deleted is null</p>
+
+<p>GROUP BY uuid</p>
+
+<p>HAVING max(aenttimestamp)</p>
+
+<p>LIMIT 3</p>
+
+<p>OFFSET 0) USING (aenttypeid)</p>
+
+<p>)</p>
+
+<p>JOIN aentvalue USING (uuid, attributeid)</p>
+
+<p>JOIN attributekey using (attributeid)</p>
+
+<p>LEFT OUTER JOIN vocabulary USING (vocabid, attributeid)</p>
+
+<p>GROUP BY uuid, attributeid</p>
+
+<p>HAVING max(valuetimestamp);</p>
+
+<p>&lt;/code&gt;</p>
+
+<p>We use it to make something like:</p>
+
+<p>[gallery link=”file”]</p>
+
+<p>Be tantalized.</p>
+:ET

@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2013-08-21 04:46:13+00:00
-layout: post
+layout: page
 slug: securing-the-site
 title: Securing the Site
 wordpress_id: 1044

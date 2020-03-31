@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2012-12-27 01:19:56+00:00
-layout: post
+layout: page
 slug: curious-about-whats-coming-in-the-new-year
 title: Curious about what's coming in the new year?
 wordpress_id: 477

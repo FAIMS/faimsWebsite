@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2013-03-24 23:42:00+00:00
-layout: post
+layout: page
 slug: caa-hands-on-workshop-today
 title: 'CAA Hands-On Workshop Today! '
 wordpress_id: 743

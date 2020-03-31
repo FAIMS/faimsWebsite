@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2014-05-07 05:38:33+00:00
-layout: post
+layout: page
 slug: having-a-scale-output-weight-over-bluetooth
 title: Having a scale output weight over bluetooth...
 wordpress_id: 1317

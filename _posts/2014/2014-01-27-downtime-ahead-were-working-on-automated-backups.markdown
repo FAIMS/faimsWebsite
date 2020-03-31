@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2014-01-27 23:53:41+00:00
-layout: post
+layout: page
 slug: downtime-ahead-were-working-on-automated-backups
 title: 'Downtime ahead: we''re working on automated backups'
 wordpress_id: 1213

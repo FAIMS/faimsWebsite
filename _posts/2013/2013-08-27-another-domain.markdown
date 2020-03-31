@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2013-08-27 05:27:30+00:00
-layout: post
+layout: page
 slug: another-domain
 title: Another domain.
 wordpress_id: 1047

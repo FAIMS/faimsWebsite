@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2013-10-01 05:04:49+00:00
-layout: post
+layout: page
 slug: a-review-of-the-faims-beta
 title: A review of the FAIMS Beta!
 wordpress_id: 1051

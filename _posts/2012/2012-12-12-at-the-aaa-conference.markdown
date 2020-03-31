@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2012-12-12 06:55:41+00:00
-layout: post
+layout: page
 slug: at-the-aaa-conference
 title: At the AAA Conference
 wordpress_id: 424
