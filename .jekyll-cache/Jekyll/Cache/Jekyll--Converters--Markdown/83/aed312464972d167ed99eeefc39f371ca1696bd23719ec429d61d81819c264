@@ -1,6 +1,0 @@
-I"<p>To all of you following along at home, it should appear as if nothing has changed. We’ve moved NeCTAR servers, however, and this should be our home for the foreseeable future.</p>
-
-<p>As the project goes, we’re well into elaboration on the mobile side of things. We’re hitting our database design to see if it can stand up to the strain of our estimated number of observations and their attributes (lots and rather more than lots), testing <a href="http://www.nutiteq.com">GIS engines</a> and <a href="http://www.gaia-gis.it/gaia-sins/">database extensions</a> and generally reducing the risk scope of our mobile requirements.</p>
-
-<p>Repository requirements are being elaborated and nailed down, too. Our current discussion is on the nature of DOIs and data importing.</p>
-:ET

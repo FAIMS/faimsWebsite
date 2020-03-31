@@ -1,8 +1,0 @@
-I"#<p>In response to the huge <a href="http://www.theverge.com/2013/4/13/4218846/massive-botnet-using-brute-force-attack-to-target-wordpress-sites">botnet attack on wordpress sites</a> I’ve spent today hardening the site.</p>
-
-<p>One of the crucial things I did was enable<a href="http://www.google.com/landing/2step/"> two-factor authentication</a> for all users using the Google Authenticator. Please, please, please, if you use google, an apple account, or dropbox for anything, go enable two-factor authentication! (And if you use hotmail or anything from microsoft, keep an eye out for their two-factor solution dropping soon).</p>
-
-<p>If you need help with setting up two-factor authentication, just contact me: it provides an incredible amount of protection against <a href="http://www.wired.com/gadgetlab/2012/08/apple-amazon-mat-honan-hacking/all/">stuff like this</a>.</p>
-
-<p>With all this hardening, if you notice anything funky with our pages, let me know. A number of the security fixes we’ve implemented may have broken a plugin or two.</p>
-:ET
