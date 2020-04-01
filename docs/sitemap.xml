@@ -5,24 +5,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/404.html</loc>
+	<loc>https://www.fedarch.org/404.html</loc>
 	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/category/Announcements/</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -35,24 +20,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/category/Links/</loc>
+	<loc>https://www.fedarch.org/category/Announcements/</loc>
 	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/category/Media/</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -65,24 +35,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/category/News/</loc>
+	<loc>https://www.fedarch.org/category/Links/</loc>
 	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/category/Participants/</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -95,24 +50,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/category/Reflections/</loc>
+	<loc>https://www.fedarch.org/category/Media/</loc>
 	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/category/Workshop%20Presentations/</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -125,9 +65,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/about/</loc>
+	<loc>https://www.fedarch.org/category/News/</loc>
 	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -140,9 +80,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/archive/</loc>
+	<loc>https://www.fedarch.org/category/Participants/</loc>
 	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -154,12 +94,55 @@
 	
 
 	
+	<url>
+	<loc>https://www.fedarch.org/category/Reflections/</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
 
 	
 	<url>
-	<loc>http://localhost:4000/atom.xml</loc>
+	<loc>https://www.fedarch.org/category/Workshop%20Presentations/</loc>
 	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/about/</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/blog/archive/</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -174,253 +157,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/contact/</loc>
+	<loc>https://www.fedarch.org/atom.xml</loc>
 	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/faims-mobile/</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/faims-repository/</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/faims-web-tools/</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/feed.xml</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/humans.txt</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/research/project-reports/</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/info/</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/category/news/</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/privacy/</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/redirect-page/</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/research/</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/robots.txt</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/search/</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/sitemap.xml</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -435,9 +174,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/support/</loc>
+	<loc>https://www.fedarch.org/contact/</loc>
 	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -450,7 +189,268 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/grant/</loc>
+	<loc>https://www.fedarch.org/faims-mobile/</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/faims-repository/</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/faims-web-tools/</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/feed.xml</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/humans.txt</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/blog/</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/research/project-reports/</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/info/</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/category/news/</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/privacy/</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/redirect-page/</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/research/</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/robots.txt</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/search/</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/sitemap.xml</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/support/</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/grant/</loc>
 	
 		<lastmod>2015-04-16T11:19:19+10:00</lastmod>
 	
@@ -465,24 +465,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/page2/</loc>
+	<loc>https://www.fedarch.org/blog/page2/</loc>
 	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/page3/</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -495,24 +480,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/page4/</loc>
+	<loc>https://www.fedarch.org/blog/page3/</loc>
 	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/page5/</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -525,24 +495,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/page6/</loc>
+	<loc>https://www.fedarch.org/blog/page4/</loc>
 	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/page7/</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -555,24 +510,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/page8/</loc>
+	<loc>https://www.fedarch.org/blog/page5/</loc>
 	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/page9/</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -585,24 +525,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/page10/</loc>
+	<loc>https://www.fedarch.org/blog/page6/</loc>
 	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/page11/</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -615,24 +540,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/page12/</loc>
+	<loc>https://www.fedarch.org/blog/page7/</loc>
 	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/page13/</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -645,24 +555,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/page14/</loc>
+	<loc>https://www.fedarch.org/blog/page8/</loc>
 	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/page15/</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -675,24 +570,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/page16/</loc>
+	<loc>https://www.fedarch.org/blog/page9/</loc>
 	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/page17/</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -705,24 +585,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/page18/</loc>
+	<loc>https://www.fedarch.org/blog/page10/</loc>
 	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/page19/</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -735,24 +600,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/page20/</loc>
+	<loc>https://www.fedarch.org/blog/page11/</loc>
 	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/page21/</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -765,24 +615,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/page22/</loc>
+	<loc>https://www.fedarch.org/blog/page12/</loc>
 	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/page23/</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -795,24 +630,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/page24/</loc>
+	<loc>https://www.fedarch.org/blog/page13/</loc>
 	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/page25/</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -825,24 +645,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/page26/</loc>
+	<loc>https://www.fedarch.org/blog/page14/</loc>
 	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/page27/</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -855,24 +660,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/page28/</loc>
+	<loc>https://www.fedarch.org/blog/page15/</loc>
 	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/page29/</loc>
-	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -885,9 +675,219 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/page30/</loc>
+	<loc>https://www.fedarch.org/blog/page16/</loc>
 	
-		<lastmod>2020-04-01T19:08:59+11:00</lastmod>
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/blog/page17/</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/blog/page18/</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/blog/page19/</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/blog/page20/</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/blog/page21/</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/blog/page22/</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/blog/page23/</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/blog/page24/</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/blog/page25/</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/blog/page26/</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/blog/page27/</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/blog/page28/</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/blog/page29/</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.fedarch.org/blog/page30/</loc>
+	
+		<lastmod>2020-04-01T19:26:14+11:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -907,7 +907,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/FAIMSfunded/</loc>
+	<loc>https://www.fedarch.org/news/FAIMSfunded/</loc>
 	
 		<lastmod>2020-03-31T00:00:00+11:00</lastmod>
 	
@@ -922,7 +922,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/Perachora/</loc>
+	<loc>https://www.fedarch.org/news/Perachora/</loc>
 	
 		<lastmod>2020-02-02T00:00:00+11:00</lastmod>
 	
@@ -937,7 +937,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/YesWeCan/</loc>
+	<loc>https://www.fedarch.org/news/YesWeCan/</loc>
 	
 		<lastmod>2018-05-04T00:00:00+10:00</lastmod>
 	
@@ -952,7 +952,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/BlueMountainsOne/</loc>
+	<loc>https://www.fedarch.org/news/BlueMountainsOne/</loc>
 	
 		<lastmod>2018-04-27T00:00:00+10:00</lastmod>
 	
@@ -967,7 +967,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/CAA_2017_Spring_Institute/</loc>
+	<loc>https://www.fedarch.org/news/CAA_2017_Spring_Institute/</loc>
 	
 		<lastmod>2017-09-22T00:00:00+10:00</lastmod>
 	
@@ -982,7 +982,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/Streamwatch_Australian_Museum/</loc>
+	<loc>https://www.fedarch.org/news/Streamwatch_Australian_Museum/</loc>
 	
 		<lastmod>2017-08-30T00:00:00+10:00</lastmod>
 	
@@ -997,7 +997,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/FAIMS_wins_ideation_challenge_for_data_capture_app/</loc>
+	<loc>https://www.fedarch.org/news/FAIMS_wins_ideation_challenge_for_data_capture_app/</loc>
 	
 		<lastmod>2017-08-30T00:00:00+10:00</lastmod>
 	
@@ -1012,7 +1012,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/FAIMS-mobile-can-now-print-labels/</loc>
+	<loc>https://www.fedarch.org/news/FAIMS-mobile-can-now-print-labels/</loc>
 	
 		<lastmod>2017-05-31T00:00:00+10:00</lastmod>
 	
@@ -1027,7 +1027,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/FAIMS-Seminar-at-CAS-UOW/</loc>
+	<loc>https://www.fedarch.org/news/FAIMS-Seminar-at-CAS-UOW/</loc>
 	
 		<lastmod>2017-05-31T00:00:00+10:00</lastmod>
 	
@@ -1042,7 +1042,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/FAIMS-At-UrbanGrowth/</loc>
+	<loc>https://www.fedarch.org/news/FAIMS-At-UrbanGrowth/</loc>
 	
 		<lastmod>2017-05-30T00:00:00+10:00</lastmod>
 	
@@ -1057,7 +1057,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/Introducing-Access-Coordinator/</loc>
+	<loc>https://www.fedarch.org/news/Introducing-Access-Coordinator/</loc>
 	
 		<lastmod>2017-05-23T00:00:00+10:00</lastmod>
 	
@@ -1072,7 +1072,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/MobilisingThePast/</loc>
+	<loc>https://www.fedarch.org/news/MobilisingThePast/</loc>
 	
 		<lastmod>2016-10-25T00:00:00+11:00</lastmod>
 	
@@ -1087,7 +1087,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/Open_Source_Infrastucture/</loc>
+	<loc>https://www.fedarch.org/news/Open_Source_Infrastucture/</loc>
 	
 		<lastmod>2016-10-12T00:00:00+11:00</lastmod>
 	
@@ -1102,7 +1102,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/DIY_deployment/</loc>
+	<loc>https://www.fedarch.org/news/DIY_deployment/</loc>
 	
 		<lastmod>2016-09-19T00:00:00+10:00</lastmod>
 	
@@ -1117,7 +1117,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/BlueMountainsExcavation/</loc>
+	<loc>https://www.fedarch.org/news/BlueMountainsExcavation/</loc>
 	
 		<lastmod>2016-09-19T00:00:00+10:00</lastmod>
 	
@@ -1132,7 +1132,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/Onprime/</loc>
+	<loc>https://www.fedarch.org/news/Onprime/</loc>
 	
 		<lastmod>2016-09-16T00:00:00+10:00</lastmod>
 	
@@ -1147,7 +1147,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/Tablet/</loc>
+	<loc>https://www.fedarch.org/news/Tablet/</loc>
 	
 		<lastmod>2016-09-02T00:00:00+10:00</lastmod>
 	
@@ -1162,7 +1162,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/announcements/RepoMoving/</loc>
+	<loc>https://www.fedarch.org/announcements/RepoMoving/</loc>
 	
 		<lastmod>2016-07-11T00:00:00+10:00</lastmod>
 	
@@ -1177,7 +1177,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/MeetFAIMS/</loc>
+	<loc>https://www.fedarch.org/news/MeetFAIMS/</loc>
 	
 		<lastmod>2016-07-11T00:00:00+10:00</lastmod>
 	
@@ -1192,7 +1192,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/reflections/MinecraftSecondSteps/</loc>
+	<loc>https://www.fedarch.org/reflections/MinecraftSecondSteps/</loc>
 	
 		<lastmod>2016-07-01T00:00:00+10:00</lastmod>
 	
@@ -1207,7 +1207,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/reflections/MinecraftFirstSteps/</loc>
+	<loc>https://www.fedarch.org/reflections/MinecraftFirstSteps/</loc>
 	
 		<lastmod>2016-06-28T00:00:00+10:00</lastmod>
 	
@@ -1222,7 +1222,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/2016Devices/</loc>
+	<loc>https://www.fedarch.org/news/2016Devices/</loc>
 	
 		<lastmod>2016-06-21T00:00:00+10:00</lastmod>
 	
@@ -1237,7 +1237,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/reflections/JekyllAndGithub/</loc>
+	<loc>https://www.fedarch.org/reflections/JekyllAndGithub/</loc>
 	
 		<lastmod>2016-06-17T00:00:00+10:00</lastmod>
 	
@@ -1252,7 +1252,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/RAAPisHere/</loc>
+	<loc>https://www.fedarch.org/news/RAAPisHere/</loc>
 	
 		<lastmod>2016-06-10T00:00:00+10:00</lastmod>
 	
@@ -1267,7 +1267,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/reflections/Crossplatform/</loc>
+	<loc>https://www.fedarch.org/reflections/Crossplatform/</loc>
 	
 		<lastmod>2016-05-27T00:00:00+10:00</lastmod>
 	
@@ -1282,7 +1282,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/reflections/NoWalledGarden/</loc>
+	<loc>https://www.fedarch.org/reflections/NoWalledGarden/</loc>
 	
 		<lastmod>2016-05-24T00:00:00+10:00</lastmod>
 	
@@ -1297,7 +1297,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/a-test-post-by-Adela/</loc>
+	<loc>https://www.fedarch.org/news/a-test-post-by-Adela/</loc>
 	
 		<lastmod>2016-05-17T05:25:26+10:00</lastmod>
 	
@@ -1312,7 +1312,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/postingFromGithub/</loc>
+	<loc>https://www.fedarch.org/news/postingFromGithub/</loc>
 	
 		<lastmod>2016-05-16T00:00:00+10:00</lastmod>
 	
@@ -1327,7 +1327,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/new-site/</loc>
+	<loc>https://www.fedarch.org/news/new-site/</loc>
 	
 		<lastmod>2016-05-10T00:00:00+10:00</lastmod>
 	
@@ -1342,7 +1342,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/find-us-at-the-saa/</loc>
+	<loc>https://www.fedarch.org/news/find-us-at-the-saa/</loc>
 	
 		<lastmod>2015-03-24T19:38:22+11:00</lastmod>
 	
@@ -1357,7 +1357,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/a-quick-survey-on-data-sharing/</loc>
+	<loc>https://www.fedarch.org/news/a-quick-survey-on-data-sharing/</loc>
 	
 		<lastmod>2015-03-20T10:45:21+11:00</lastmod>
 	
@@ -1372,7 +1372,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/new-news-faims-at-mq-faims-in-a-car-faims-in-podcasts/</loc>
+	<loc>https://www.fedarch.org/news/new-news-faims-at-mq-faims-in-a-car-faims-in-podcasts/</loc>
 	
 		<lastmod>2015-02-26T13:30:41+11:00</lastmod>
 	
@@ -1387,7 +1387,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/tune-in-to-mobilizing-the-past-for-a-digital-future-the-potential-of-digital-archaeology/</loc>
+	<loc>https://www.fedarch.org/news/tune-in-to-mobilizing-the-past-for-a-digital-future-the-potential-of-digital-archaeology/</loc>
 	
 		<lastmod>2015-02-24T10:31:40+11:00</lastmod>
 	
@@ -1402,7 +1402,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/need-help-with-last-minute-grant-applications/</loc>
+	<loc>https://www.fedarch.org/news/need-help-with-last-minute-grant-applications/</loc>
 	
 		<lastmod>2015-02-16T11:20:52+11:00</lastmod>
 	
@@ -1417,7 +1417,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/pardon-our-dust/</loc>
+	<loc>https://www.fedarch.org/news/pardon-our-dust/</loc>
 	
 		<lastmod>2014-11-24T11:17:47+11:00</lastmod>
 	
@@ -1432,7 +1432,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/faims-mentioned-in-intersect-monthly-newsletter/</loc>
+	<loc>https://www.fedarch.org/news/faims-mentioned-in-intersect-monthly-newsletter/</loc>
 	
 		<lastmod>2014-07-02T12:39:26+10:00</lastmod>
 	
@@ -1447,7 +1447,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/ariadne-project-surveys-european-archaeologists/</loc>
+	<loc>https://www.fedarch.org/news/ariadne-project-surveys-european-archaeologists/</loc>
 	
 		<lastmod>2014-07-02T11:04:13+10:00</lastmod>
 	
@@ -1462,7 +1462,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/tales-of-new-development/</loc>
+	<loc>https://www.fedarch.org/news/tales-of-new-development/</loc>
 	
 		<lastmod>2014-06-04T13:10:45+10:00</lastmod>
 	
@@ -1477,7 +1477,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/faimsuq-workshop-day-1-part-2/</loc>
+	<loc>https://www.fedarch.org/news/faimsuq-workshop-day-1-part-2/</loc>
 	
 		<lastmod>2014-06-04T10:56:53+10:00</lastmod>
 	
@@ -1492,7 +1492,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/watch-the-faims-workshop-at-uq-tomorrow/</loc>
+	<loc>https://www.fedarch.org/news/watch-the-faims-workshop-at-uq-tomorrow/</loc>
 	
 		<lastmod>2014-06-03T22:52:27+10:00</lastmod>
 	
@@ -1507,7 +1507,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/emergency-wiki-downtime-ahead/</loc>
+	<loc>https://www.fedarch.org/news/emergency-wiki-downtime-ahead/</loc>
 	
 		<lastmod>2014-05-23T10:25:50+10:00</lastmod>
 	
@@ -1522,7 +1522,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/more-awesomeness/</loc>
+	<loc>https://www.fedarch.org/news/more-awesomeness/</loc>
 	
 		<lastmod>2014-05-09T14:26:49+10:00</lastmod>
 	
@@ -1537,7 +1537,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/having-a-scale-output-weight-over-bluetooth/</loc>
+	<loc>https://www.fedarch.org/news/having-a-scale-output-weight-over-bluetooth/</loc>
 	
 		<lastmod>2014-05-07T15:38:33+10:00</lastmod>
 	
@@ -1552,7 +1552,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/and-were-back-up/</loc>
+	<loc>https://www.fedarch.org/news/and-were-back-up/</loc>
 	
 		<lastmod>2014-04-30T13:40:39+10:00</lastmod>
 	
@@ -1567,7 +1567,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/faims-infrastructure-downtime-approaching/</loc>
+	<loc>https://www.fedarch.org/news/faims-infrastructure-downtime-approaching/</loc>
 	
 		<lastmod>2014-04-23T17:40:43+10:00</lastmod>
 	
@@ -1582,7 +1582,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/a-box-a-box-a-mysterious-box/</loc>
+	<loc>https://www.fedarch.org/news/a-box-a-box-a-mysterious-box/</loc>
 	
 		<lastmod>2014-04-16T16:14:43+10:00</lastmod>
 	
@@ -1597,7 +1597,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/new-ssl-certificates-for-fedarch/</loc>
+	<loc>https://www.fedarch.org/news/new-ssl-certificates-for-fedarch/</loc>
 	
 		<lastmod>2014-04-10T13:36:16+10:00</lastmod>
 	
@@ -1612,7 +1612,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/call-for-repository-testers/</loc>
+	<loc>https://www.fedarch.org/news/call-for-repository-testers/</loc>
 	
 		<lastmod>2014-03-12T23:27:18+11:00</lastmod>
 	
@@ -1627,7 +1627,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/announcing-some-support-infrastructure/</loc>
+	<loc>https://www.fedarch.org/news/announcing-some-support-infrastructure/</loc>
 	
 		<lastmod>2014-03-05T12:46:01+11:00</lastmod>
 	
@@ -1642,7 +1642,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/a-really-big-shout-out-to-floobits/</loc>
+	<loc>https://www.fedarch.org/news/a-really-big-shout-out-to-floobits/</loc>
 	
 		<lastmod>2014-02-25T17:56:12+11:00</lastmod>
 	
@@ -1657,7 +1657,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/downtime-ahead-were-working-on-automated-backups/</loc>
+	<loc>https://www.fedarch.org/news/downtime-ahead-were-working-on-automated-backups/</loc>
 	
 		<lastmod>2014-01-28T10:53:41+11:00</lastmod>
 	
@@ -1672,7 +1672,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/are-you-applying-for-arc-discovery-or-linkage-grant-this-year/</loc>
+	<loc>https://www.fedarch.org/news/are-you-applying-for-arc-discovery-or-linkage-grant-this-year/</loc>
 	
 		<lastmod>2014-01-23T13:33:48+11:00</lastmod>
 	
@@ -1687,7 +1687,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/starting-the-new-year/</loc>
+	<loc>https://www.fedarch.org/news/starting-the-new-year/</loc>
 	
 		<lastmod>2014-01-10T14:20:38+11:00</lastmod>
 	
@@ -1702,7 +1702,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/an-early-christmas-present-has-arrived/</loc>
+	<loc>https://www.fedarch.org/news/an-early-christmas-present-has-arrived/</loc>
 	
 		<lastmod>2013-12-15T20:26:33+11:00</lastmod>
 	
@@ -1717,7 +1717,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/watch-the-launching-of-the-dinaa-project/</loc>
+	<loc>https://www.fedarch.org/news/watch-the-launching-of-the-dinaa-project/</loc>
 	
 		<lastmod>2013-12-09T13:40:01+11:00</lastmod>
 	
@@ -1732,7 +1732,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/aaa36/</loc>
+	<loc>https://www.fedarch.org/news/aaa36/</loc>
 	
 		<lastmod>2013-12-03T16:38:19+11:00</lastmod>
 	
@@ -1747,7 +1747,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/hands-on-workshop-at-aaa-in-coffs-harbour/</loc>
+	<loc>https://www.fedarch.org/news/hands-on-workshop-at-aaa-in-coffs-harbour/</loc>
 	
 		<lastmod>2013-11-11T14:43:19+11:00</lastmod>
 	
@@ -1762,7 +1762,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/faims-lives-muahahahaha/</loc>
+	<loc>https://www.fedarch.org/news/faims-lives-muahahahaha/</loc>
 	
 		<lastmod>2013-11-08T14:45:39+11:00</lastmod>
 	
@@ -1777,7 +1777,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/device-recommendations-for-the-faims-mobile-application/</loc>
+	<loc>https://www.fedarch.org/news/device-recommendations-for-the-faims-mobile-application/</loc>
 	
 		<lastmod>2013-11-07T16:38:57+11:00</lastmod>
 	
@@ -1792,7 +1792,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/on-the-culture-of-intertia/</loc>
+	<loc>https://www.fedarch.org/news/on-the-culture-of-intertia/</loc>
 	
 		<lastmod>2013-11-07T16:19:07+11:00</lastmod>
 	
@@ -1807,7 +1807,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/what-does-a-23-thousand-bigram-word-cloud-look-like-an-honours-thesis/</loc>
+	<loc>https://www.fedarch.org/news/what-does-a-23-thousand-bigram-word-cloud-look-like-an-honours-thesis/</loc>
 	
 		<lastmod>2013-11-07T16:14:53+11:00</lastmod>
 	
@@ -1822,7 +1822,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/faims-is-going-to-thatcamp-sydney/</loc>
+	<loc>https://www.fedarch.org/news/faims-is-going-to-thatcamp-sydney/</loc>
 	
 		<lastmod>2013-10-23T12:41:41+11:00</lastmod>
 	
@@ -1837,7 +1837,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/remote-sensing-the-environs-of-zagora-greece/</loc>
+	<loc>https://www.fedarch.org/news/remote-sensing-the-environs-of-zagora-greece/</loc>
 	
 		<lastmod>2013-10-02T02:58:09+10:00</lastmod>
 	
@@ -1852,7 +1852,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/some-art-for-your-afternoon/</loc>
+	<loc>https://www.fedarch.org/news/some-art-for-your-afternoon/</loc>
 	
 		<lastmod>2013-10-01T17:30:22+10:00</lastmod>
 	
@@ -1867,7 +1867,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/a-review-of-the-faims-beta/</loc>
+	<loc>https://www.fedarch.org/news/a-review-of-the-faims-beta/</loc>
 	
 		<lastmod>2013-10-01T15:04:49+10:00</lastmod>
 	
@@ -1882,7 +1882,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/another-domain/</loc>
+	<loc>https://www.fedarch.org/news/another-domain/</loc>
 	
 		<lastmod>2013-08-27T15:27:30+10:00</lastmod>
 	
@@ -1897,7 +1897,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/securing-the-site/</loc>
+	<loc>https://www.fedarch.org/news/securing-the-site/</loc>
 	
 		<lastmod>2013-08-21T14:46:13+10:00</lastmod>
 	
@@ -1912,7 +1912,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/on-a-new-server/</loc>
+	<loc>https://www.fedarch.org/news/on-a-new-server/</loc>
 	
 		<lastmod>2013-08-12T17:00:49+10:00</lastmod>
 	
@@ -1927,7 +1927,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/preparing-to-post-on-google-play/</loc>
+	<loc>https://www.fedarch.org/news/preparing-to-post-on-google-play/</loc>
 	
 		<lastmod>2013-08-05T18:17:21+10:00</lastmod>
 	
@@ -1942,7 +1942,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/faims-partner-in-the-white-house/</loc>
+	<loc>https://www.fedarch.org/news/faims-partner-in-the-white-house/</loc>
 	
 		<lastmod>2013-06-21T10:49:20+10:00</lastmod>
 	
@@ -1957,7 +1957,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/rendering-random-rasters-do-it-yourself/</loc>
+	<loc>https://www.fedarch.org/news/rendering-random-rasters-do-it-yourself/</loc>
 	
 		<lastmod>2013-06-21T10:15:13+10:00</lastmod>
 	
@@ -1972,7 +1972,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/the-cascading-failures-of-autocompletion/</loc>
+	<loc>https://www.fedarch.org/news/the-cascading-failures-of-autocompletion/</loc>
 	
 		<lastmod>2013-06-14T13:04:40+10:00</lastmod>
 	
@@ -1987,7 +1987,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/a-little-bit-of-turbulence/</loc>
+	<loc>https://www.fedarch.org/news/a-little-bit-of-turbulence/</loc>
 	
 		<lastmod>2013-06-13T21:56:57+10:00</lastmod>
 	
@@ -2002,7 +2002,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/pictures-of-a-new-office/</loc>
+	<loc>https://www.fedarch.org/news/pictures-of-a-new-office/</loc>
 	
 		<lastmod>2013-06-13T16:16:55+10:00</lastmod>
 	
@@ -2017,7 +2017,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/core-concepts-in-archaeology-what-is-your-opinion/</loc>
+	<loc>https://www.fedarch.org/news/core-concepts-in-archaeology-what-is-your-opinion/</loc>
 	
 		<lastmod>2013-06-13T16:04:27+10:00</lastmod>
 	
@@ -2032,7 +2032,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/another-successful-acceptance-test/</loc>
+	<loc>https://www.fedarch.org/news/another-successful-acceptance-test/</loc>
 	
 		<lastmod>2013-05-29T18:16:34+10:00</lastmod>
 	
@@ -2047,7 +2047,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/announcements/news/melbourne-workshop/</loc>
+	<loc>https://www.fedarch.org/announcements/news/melbourne-workshop/</loc>
 	
 		<lastmod>2013-05-24T19:02:07+10:00</lastmod>
 	
@@ -2062,7 +2062,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/a-lovely-walk-around-the-harbour/</loc>
+	<loc>https://www.fedarch.org/news/a-lovely-walk-around-the-harbour/</loc>
 	
 		<lastmod>2013-05-08T16:40:43+10:00</lastmod>
 	
@@ -2077,7 +2077,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/media/news/can-i-have-your-data/</loc>
+	<loc>https://www.fedarch.org/media/news/can-i-have-your-data/</loc>
 	
 		<lastmod>2013-04-25T20:34:53+10:00</lastmod>
 	
@@ -2092,7 +2092,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/media/news/faims-in-the-foxnews/</loc>
+	<loc>https://www.fedarch.org/media/news/faims-in-the-foxnews/</loc>
 	
 		<lastmod>2013-04-24T02:40:53+10:00</lastmod>
 	
@@ -2107,7 +2107,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/e-mail-syndication/</loc>
+	<loc>https://www.fedarch.org/news/e-mail-syndication/</loc>
 	
 		<lastmod>2013-04-15T11:27:27+10:00</lastmod>
 	
@@ -2122,7 +2122,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/for-our-more-technical-readers-links-to-our-repositories/</loc>
+	<loc>https://www.fedarch.org/news/for-our-more-technical-readers-links-to-our-repositories/</loc>
 	
 		<lastmod>2013-04-14T16:54:20+10:00</lastmod>
 	
@@ -2137,7 +2137,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/csv-parsing-a-question-to-our-community/</loc>
+	<loc>https://www.fedarch.org/news/csv-parsing-a-question-to-our-community/</loc>
 	
 		<lastmod>2013-04-13T22:56:32+10:00</lastmod>
 	
@@ -2152,7 +2152,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/instituting-some-strong-security/</loc>
+	<loc>https://www.fedarch.org/news/instituting-some-strong-security/</loc>
 	
 		<lastmod>2013-04-13T18:17:23+10:00</lastmod>
 	
@@ -2167,7 +2167,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/media/news/pushing-open-source-android/</loc>
+	<loc>https://www.fedarch.org/media/news/pushing-open-source-android/</loc>
 	
 		<lastmod>2013-04-10T14:11:15+10:00</lastmod>
 	
@@ -2182,7 +2182,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/colour-colour-everywhere-and-not-a-drop-to-see/</loc>
+	<loc>https://www.fedarch.org/news/colour-colour-everywhere-and-not-a-drop-to-see/</loc>
 	
 		<lastmod>2013-04-08T17:58:03+10:00</lastmod>
 	
@@ -2197,7 +2197,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/faims-at-saa-hawaii-drop-by/</loc>
+	<loc>https://www.fedarch.org/news/faims-at-saa-hawaii-drop-by/</loc>
 	
 		<lastmod>2013-04-06T05:46:15+11:00</lastmod>
 	
@@ -2212,7 +2212,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/some-fun-mod_rewriting/</loc>
+	<loc>https://www.fedarch.org/news/some-fun-mod_rewriting/</loc>
 	
 		<lastmod>2013-04-04T11:58:53+11:00</lastmod>
 	
@@ -2227,7 +2227,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/faims-at-caa-have-your-say/</loc>
+	<loc>https://www.fedarch.org/news/faims-at-caa-have-your-say/</loc>
 	
 		<lastmod>2013-03-26T11:24:07+11:00</lastmod>
 	
@@ -2242,7 +2242,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/caa-hands-on-workshop-today/</loc>
+	<loc>https://www.fedarch.org/news/caa-hands-on-workshop-today/</loc>
 	
 		<lastmod>2013-03-25T10:42:00+11:00</lastmod>
 	
@@ -2257,7 +2257,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/announcements/links/learning-opportunity-in-cultural-heritage-informatics/</loc>
+	<loc>https://www.fedarch.org/announcements/links/learning-opportunity-in-cultural-heritage-informatics/</loc>
 	
 		<lastmod>2013-03-23T16:22:11+11:00</lastmod>
 	
@@ -2272,7 +2272,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/almost-done/</loc>
+	<loc>https://www.fedarch.org/news/almost-done/</loc>
 	
 		<lastmod>2013-03-20T08:04:33+11:00</lastmod>
 	
@@ -2287,7 +2287,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/faims-tech-demo-2-is-up-gps-gis-and-bluetooth/</loc>
+	<loc>https://www.fedarch.org/news/faims-tech-demo-2-is-up-gps-gis-and-bluetooth/</loc>
 	
 		<lastmod>2013-03-19T12:21:15+11:00</lastmod>
 	
@@ -2302,7 +2302,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/announcements/news/come-join-us-at-caa-next-week/</loc>
+	<loc>https://www.fedarch.org/announcements/news/come-join-us-at-caa-next-week/</loc>
 	
 		<lastmod>2013-03-19T11:48:55+11:00</lastmod>
 	
@@ -2317,7 +2317,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/we-are-testing-new-prototypes/</loc>
+	<loc>https://www.fedarch.org/news/we-are-testing-new-prototypes/</loc>
 	
 		<lastmod>2013-03-13T21:05:31+11:00</lastmod>
 	
@@ -2332,7 +2332,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/screenshots-galore-of-testing-tests-for-testing/</loc>
+	<loc>https://www.fedarch.org/news/screenshots-galore-of-testing-tests-for-testing/</loc>
 	
 		<lastmod>2013-03-11T17:56:22+11:00</lastmod>
 	
@@ -2347,7 +2347,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/announcements/news/data-exchange-summit/</loc>
+	<loc>https://www.fedarch.org/announcements/news/data-exchange-summit/</loc>
 	
 		<lastmod>2013-02-27T11:53:31+11:00</lastmod>
 	
@@ -2362,7 +2362,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/announcements/news/reflections/faims-in-a-new-office/</loc>
+	<loc>https://www.fedarch.org/announcements/news/reflections/faims-in-a-new-office/</loc>
 	
 		<lastmod>2013-02-27T11:29:25+11:00</lastmod>
 	
@@ -2377,7 +2377,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/some-light-sql-to-finish-your-day/</loc>
+	<loc>https://www.fedarch.org/news/some-light-sql-to-finish-your-day/</loc>
 	
 		<lastmod>2013-02-19T19:07:23+11:00</lastmod>
 	
@@ -2392,7 +2392,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/announcements/what-you-may-not-know-about-a-lief-grant-application/</loc>
+	<loc>https://www.fedarch.org/announcements/what-you-may-not-know-about-a-lief-grant-application/</loc>
 	
 		<lastmod>2013-02-14T17:53:53+11:00</lastmod>
 	
@@ -2407,7 +2407,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/we-have-a-video-and-a-channel/</loc>
+	<loc>https://www.fedarch.org/news/we-have-a-video-and-a-channel/</loc>
 	
 		<lastmod>2013-02-14T17:00:04+11:00</lastmod>
 	
@@ -2422,7 +2422,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/and-now-were-talking-to-a-totalstation/</loc>
+	<loc>https://www.fedarch.org/news/and-now-were-talking-to-a-totalstation/</loc>
 	
 		<lastmod>2013-02-07T16:03:55+11:00</lastmod>
 	
@@ -2437,7 +2437,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/faims-at-google-sudo/</loc>
+	<loc>https://www.fedarch.org/news/faims-at-google-sudo/</loc>
 	
 		<lastmod>2013-02-07T12:26:14+11:00</lastmod>
 	
@@ -2452,7 +2452,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/when-certainty-is-not-certain/</loc>
+	<loc>https://www.fedarch.org/news/when-certainty-is-not-certain/</loc>
 	
 		<lastmod>2013-02-06T17:24:39+11:00</lastmod>
 	
@@ -2467,7 +2467,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/first-internal-prototype/</loc>
+	<loc>https://www.fedarch.org/news/first-internal-prototype/</loc>
 	
 		<lastmod>2013-02-02T11:49:07+11:00</lastmod>
 	
@@ -2482,7 +2482,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/on-a-roll-a-sample-screenshot-from-our-app/</loc>
+	<loc>https://www.fedarch.org/news/on-a-roll-a-sample-screenshot-from-our-app/</loc>
 	
 		<lastmod>2013-01-17T01:22:08+11:00</lastmod>
 	
@@ -2497,7 +2497,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/some-pictures-from-jordan/</loc>
+	<loc>https://www.fedarch.org/news/some-pictures-from-jordan/</loc>
 	
 		<lastmod>2013-01-16T22:19:28+11:00</lastmod>
 	
@@ -2512,7 +2512,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/announcements/news/curious-about-whats-coming-in-the-new-year/</loc>
+	<loc>https://www.fedarch.org/announcements/news/curious-about-whats-coming-in-the-new-year/</loc>
 	
 		<lastmod>2012-12-27T12:19:56+11:00</lastmod>
 	
@@ -2527,7 +2527,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/a-postcard-for-faims/</loc>
+	<loc>https://www.fedarch.org/news/a-postcard-for-faims/</loc>
 	
 		<lastmod>2012-12-22T13:55:36+11:00</lastmod>
 	
@@ -2542,7 +2542,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/first-sprint-demo/</loc>
+	<loc>https://www.fedarch.org/news/first-sprint-demo/</loc>
 	
 		<lastmod>2012-12-18T19:21:43+11:00</lastmod>
 	
@@ -2557,7 +2557,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/reflections/excavation-mock-up/</loc>
+	<loc>https://www.fedarch.org/news/reflections/excavation-mock-up/</loc>
 	
 		<lastmod>2012-12-15T14:31:33+11:00</lastmod>
 	
@@ -2572,7 +2572,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/stakeholder-catchup-alias-reflections-on-aaa/</loc>
+	<loc>https://www.fedarch.org/news/stakeholder-catchup-alias-reflections-on-aaa/</loc>
 	
 		<lastmod>2012-12-12T22:14:56+11:00</lastmod>
 	
@@ -2587,7 +2587,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/at-the-aaa-conference/</loc>
+	<loc>https://www.fedarch.org/news/at-the-aaa-conference/</loc>
 	
 		<lastmod>2012-12-12T17:55:41+11:00</lastmod>
 	
@@ -2602,7 +2602,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/at-the-nectar-conference/</loc>
+	<loc>https://www.fedarch.org/news/at-the-nectar-conference/</loc>
 	
 		<lastmod>2012-12-10T11:03:08+11:00</lastmod>
 	
@@ -2617,7 +2617,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/announcements/lets-get-inspired/</loc>
+	<loc>https://www.fedarch.org/announcements/lets-get-inspired/</loc>
 	
 		<lastmod>2012-11-28T11:17:08+11:00</lastmod>
 	
@@ -2632,7 +2632,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/reflections/current-database-thoughts/</loc>
+	<loc>https://www.fedarch.org/reflections/current-database-thoughts/</loc>
 	
 		<lastmod>2012-11-27T15:51:03+11:00</lastmod>
 	
@@ -2647,7 +2647,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/announcements/new-faims-workshop-audio-files/</loc>
+	<loc>https://www.fedarch.org/announcements/new-faims-workshop-audio-files/</loc>
 	
 		<lastmod>2012-11-26T10:48:42+11:00</lastmod>
 	
@@ -2662,7 +2662,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/reflections/responding-to-comments/</loc>
+	<loc>https://www.fedarch.org/reflections/responding-to-comments/</loc>
 	
 		<lastmod>2012-11-25T15:53:32+11:00</lastmod>
 	
@@ -2677,7 +2677,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/reflections/weve-moved-servers-and-were-almost-through-elaboration/</loc>
+	<loc>https://www.fedarch.org/reflections/weve-moved-servers-and-were-almost-through-elaboration/</loc>
 	
 		<lastmod>2012-11-14T15:08:19+11:00</lastmod>
 	
@@ -2692,7 +2692,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/weve-moved-servers/</loc>
+	<loc>https://www.fedarch.org/news/weve-moved-servers/</loc>
 	
 		<lastmod>2012-11-14T14:34:36+11:00</lastmod>
 	
@@ -2707,7 +2707,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/workshop%20presentations/workshop-proceedings/</loc>
+	<loc>https://www.fedarch.org/workshop%20presentations/workshop-proceedings/</loc>
 	
 		<lastmod>2012-09-18T15:00:32+10:00</lastmod>
 	
@@ -2722,7 +2722,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/reflections/the-tower-of-babel/</loc>
+	<loc>https://www.fedarch.org/reflections/the-tower-of-babel/</loc>
 	
 		<lastmod>2012-09-13T15:20:18+10:00</lastmod>
 	
@@ -2737,7 +2737,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/reflections/requirements-generation-is-fun/</loc>
+	<loc>https://www.fedarch.org/reflections/requirements-generation-is-fun/</loc>
 	
 		<lastmod>2012-09-13T15:17:06+10:00</lastmod>
 	
@@ -2752,7 +2752,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/reflections/a-stranger-in-a-strange-land/</loc>
+	<loc>https://www.fedarch.org/reflections/a-stranger-in-a-strange-land/</loc>
 	
 		<lastmod>2012-08-30T17:20:09+10:00</lastmod>
 	
@@ -2767,7 +2767,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/workshop%20presentations/keynote-capacity-building-in-digital-archaeology/</loc>
+	<loc>https://www.fedarch.org/workshop%20presentations/keynote-capacity-building-in-digital-archaeology/</loc>
 	
 		<lastmod>2012-08-30T14:24:53+10:00</lastmod>
 	
@@ -2782,7 +2782,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/workshop%20presentations/analysis-processing-and-visualization/</loc>
+	<loc>https://www.fedarch.org/workshop%20presentations/analysis-processing-and-visualization/</loc>
 	
 		<lastmod>2012-08-30T14:23:18+10:00</lastmod>
 	
@@ -2797,7 +2797,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/workshop%20presentations/sustainability-strategies/</loc>
+	<loc>https://www.fedarch.org/workshop%20presentations/sustainability-strategies/</loc>
 	
 		<lastmod>2012-08-30T14:22:27+10:00</lastmod>
 	
@@ -2812,7 +2812,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/workshop%20presentations/sensitive-data/</loc>
+	<loc>https://www.fedarch.org/workshop%20presentations/sensitive-data/</loc>
 	
 		<lastmod>2012-08-30T14:17:11+10:00</lastmod>
 	
@@ -2827,7 +2827,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/workshop%20presentations/opportunities-and-issues-of-data-federation/</loc>
+	<loc>https://www.fedarch.org/workshop%20presentations/opportunities-and-issues-of-data-federation/</loc>
 	
 		<lastmod>2012-08-30T14:16:13+10:00</lastmod>
 	
@@ -2842,7 +2842,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/workshop%20presentations/archaeological-data-and-data-standards/</loc>
+	<loc>https://www.fedarch.org/workshop%20presentations/archaeological-data-and-data-standards/</loc>
 	
 		<lastmod>2012-08-30T14:15:12+10:00</lastmod>
 	
@@ -2857,7 +2857,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/workshop%20presentations/online-repositories/</loc>
+	<loc>https://www.fedarch.org/workshop%20presentations/online-repositories/</loc>
 	
 		<lastmod>2012-08-30T14:14:12+10:00</lastmod>
 	
@@ -2872,7 +2872,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/workshop%20presentations/mobile-applications/</loc>
+	<loc>https://www.fedarch.org/workshop%20presentations/mobile-applications/</loc>
 	
 		<lastmod>2012-08-30T14:12:58+10:00</lastmod>
 	
@@ -2887,7 +2887,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/media/news/faims-profile-in-computerworld/</loc>
+	<loc>https://www.fedarch.org/media/news/faims-profile-in-computerworld/</loc>
 	
 		<lastmod>2012-08-27T10:13:52+10:00</lastmod>
 	
@@ -2902,7 +2902,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/time-tracking-survey/</loc>
+	<loc>https://www.fedarch.org/news/time-tracking-survey/</loc>
 	
 		<lastmod>2012-08-24T17:41:01+10:00</lastmod>
 	
@@ -2917,7 +2917,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/announcements/news/faims-workshop-evaluation/</loc>
+	<loc>https://www.fedarch.org/announcements/news/faims-workshop-evaluation/</loc>
 	
 		<lastmod>2012-08-23T14:36:45+10:00</lastmod>
 	
@@ -2932,7 +2932,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/announcements/news/thanks-to-workshop-participants/</loc>
+	<loc>https://www.fedarch.org/announcements/news/thanks-to-workshop-participants/</loc>
 	
 		<lastmod>2012-08-20T13:13:27+10:00</lastmod>
 	
@@ -2947,7 +2947,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/updated-workshop-schedule-released/</loc>
+	<loc>https://www.fedarch.org/news/updated-workshop-schedule-released/</loc>
 	
 		<lastmod>2012-08-15T13:12:09+10:00</lastmod>
 	
@@ -2962,7 +2962,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/links/media/news/participants/brief-segment-with-shawn-ross-on-the-abcs-future-tense/</loc>
+	<loc>https://www.fedarch.org/links/media/news/participants/brief-segment-with-shawn-ross-on-the-abcs-future-tense/</loc>
 	
 		<lastmod>2012-08-12T11:35:03+10:00</lastmod>
 	
@@ -2977,7 +2977,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/media/news/faims-featured-in-the-australian/</loc>
+	<loc>https://www.fedarch.org/media/news/faims-featured-in-the-australian/</loc>
 	
 		<lastmod>2012-08-12T11:30:25+10:00</lastmod>
 	
@@ -2992,7 +2992,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/digital-data-survey/</loc>
+	<loc>https://www.fedarch.org/digital-data-survey/</loc>
 	
 		<lastmod>2012-07-27T15:03:37+10:00</lastmod>
 	
@@ -3007,7 +3007,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/media/news/unsw-press-release/</loc>
+	<loc>https://www.fedarch.org/media/news/unsw-press-release/</loc>
 	
 		<lastmod>2012-07-25T16:47:37+10:00</lastmod>
 	
@@ -3022,7 +3022,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/faims-on-nectar-webpage/</loc>
+	<loc>https://www.fedarch.org/news/faims-on-nectar-webpage/</loc>
 	
 		<lastmod>2012-07-25T16:30:50+10:00</lastmod>
 	
@@ -3037,7 +3037,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/workshop-registration-goes-live/</loc>
+	<loc>https://www.fedarch.org/news/workshop-registration-goes-live/</loc>
 	
 		<lastmod>2012-07-25T16:23:47+10:00</lastmod>
 	
@@ -3052,7 +3052,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/links/our-mendeley-group-mobile-device-applications-in-archaeology/</loc>
+	<loc>https://www.fedarch.org/links/our-mendeley-group-mobile-device-applications-in-archaeology/</loc>
 	
 		<lastmod>2012-07-17T02:40:26+10:00</lastmod>
 	
@@ -3067,7 +3067,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/participants/unsw/</loc>
+	<loc>https://www.fedarch.org/participants/unsw/</loc>
 	
 		<lastmod>2012-07-17T02:28:13+10:00</lastmod>
 	
@@ -3082,7 +3082,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/news/site-goes-live/</loc>
+	<loc>https://www.fedarch.org/news/site-goes-live/</loc>
 	
 		<lastmod>2012-07-17T01:43:50+10:00</lastmod>
 	

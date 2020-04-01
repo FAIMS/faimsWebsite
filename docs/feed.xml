@@ -5,12 +5,12 @@
 	<channel>
 		<title>FAIMS Project</title>
 		<description>FAIMS provides tools for the collection of born-digital field data through to archiving for any research discipline, workflow, ontology, and standard.</description>
-		<link>http://localhost:4000/</link>
-		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://www.fedarch.org/</link>
+		<atom:link href="https://www.fedarch.org/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>FAIMS project funded again!</title>
-				<link>http://localhost:4000/news/FAIMSfunded/</link>
+				<link>https://www.fedarch.org/news/FAIMSfunded/</link>
 				<pubDate>Tue, 31 Mar 2020 00:00:00 +1100</pubDate>
 				<description>&lt;p&gt;We are happy to announce that the FAIMS project has won an &lt;a href=&quot;https://ardc.edu.au/&quot;&gt;ARDC&lt;/a&gt; (Australian Research Data Commons) Platforms grant to refactor the FAIMS Mobile platform with 2020 technology. FAIMS Mobile was conceived and built in 2013. Remember 2013? It was a hot, sunny summer in the lush and green UNSW campus, and mangoes tasted great in January, yet I hardly remember anything else besides the constant push to get a working alpha prototype out. Yes, it was a long time ago. In mobile computing world it is prehistory!  While as archaeologists we have affinity with prehistory, IT colleagues say it’s time to rebuild and so we are happy we can.&lt;/p&gt;
 
@@ -19,12 +19,12 @@ Corona has thrown a spanner in the start of this new phase of FAIMS, but we’ll
 
 &lt;p&gt;PS: For those who are currently using FAIMS 2.7, never fear. It is not going away. It is a robust, mature and stable platform, designed for offline use. If you have been happy with your modules so far, you are welcome to keep using them. I will surely stick to my old modules until FAIMS 3.0 is well-tested and ready to go.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/news/FAIMSfunded/</guid>
+				<guid isPermaLink="true">https://www.fedarch.org/news/FAIMSfunded/</guid>
 			</item>
 		
 			<item>
 				<title>Perachora project puts FAIMS Mobile to test.. and it shines</title>
-				<link>http://localhost:4000/news/Perachora/</link>
+				<link>https://www.fedarch.org/news/Perachora/</link>
 				<pubDate>Sun, 02 Feb 2020 00:00:00 +1100</pubDate>
 				<description>&lt;p&gt;Macquarie University team of archaeologists and students spent January in Greece surveying the ancient sanctuary of Hera and its environs using FAIMS Mobile platform. The Perachora Peninsula Archaeological Project (PPAP) led by Susan Lupack of Macquarie University in collaboration with Panagiota Kasimi, the Ephor of the Ephorate of Antiquities of Corinth, aims to map the standing features around the photogenic site and explore the past human activity in the peninsula throught the long-term. Joined by Shawn Ross and 15 students, and an Aarhus team of Adela Sobotkova and Petra Janouchova, the participants used two FAIMS modules to record surface artefacts densities and standing features and photogrammetry to make digital models of the best preserved structures. With the help of &lt;a href=&quot;https://github.com/FAIMS/Perachora-2020&quot;&gt;Feature recording module&lt;/a&gt;, an on-the-spot assembled variation of &lt;a href=&quot;https://github.com/FAIMS/burial&quot;&gt;TRAP burial module&lt;/a&gt;, the students followed historical maps of the Heraion environs and recorded 108 standing walls, masonry structures, tombs, roads, cisterns and shafts. With the &lt;a href=&quot;https://github.com/FAIMS/trap-gridded-survey&quot;&gt;grid-survey module&lt;/a&gt;, they scrambled through forests, olive groves and scrubby cliffs at 5 m intervals to document 16 ha of terrain within the ancient site, documenting a total of 22,817 artefacts.&lt;/p&gt;
 
@@ -34,53 +34,53 @@ Corona has thrown a spanner in the start of this new phase of FAIMS, but we’ll
 
 &lt;p&gt;We are ready for the next season!&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/news/Perachora/</guid>
+				<guid isPermaLink="true">https://www.fedarch.org/news/Perachora/</guid>
 			</item>
 		
 			<item>
 				<title>Printing Labels on the Go</title>
-				<link>http://localhost:4000/news/YesWeCan/</link>
+				<link>https://www.fedarch.org/news/YesWeCan/</link>
 				<pubDate>Fri, 04 May 2018 00:00:00 +1000</pubDate>
 				<description>&lt;p&gt;The Tao River Archaeological Project in China has been using FAIMS to record their excavation and sampling activities since 2016. Installing mobile apps on devices in China is not without its challenges, given the inaccessibility of Google (and therefore Play Store) in the country. With meticulous preparation and great patience on the part of project director, Dr Rowan Flad from Harvard University, we have solved this and many other issues. This year Dr Flad wants to connect their field module to a mobile barcode printer to facilitate the production of human- and machine-readable labels. We are, therefore, expanding their FAIMS module to connect to a mobile Zebra printer over the Bluetooth and produce such labels on the basis of existing records at the push of a button. All of the development is happening remotely, with our team in Sydney working with a Zebra printer kindly loaned by the Gamma Solutions, while Dr Flad communicates his needs. He will harness his own mobile printer to test the new functionality after he finishes spring semester in Cambridge, Massachusetts. 
 The success of deploying digital tools in the field depends on the upfront investment of effort by the field researcher into discovering their needs and testing the initial prototypes. The Tao River Project team has demonstrated that digital tools are a priority and the increasingly sophisticated module is a testimony to their successful co-development with FAIMS.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/news/YesWeCan/</guid>
+				<guid isPermaLink="true">https://www.fedarch.org/news/YesWeCan/</guid>
 			</item>
 		
 			<item>
 				<title>Mapping the lost mining settlements in the Blue Mountains</title>
-				<link>http://localhost:4000/news/BlueMountainsOne/</link>
+				<link>https://www.fedarch.org/news/BlueMountainsOne/</link>
 				<pubDate>Fri, 27 Apr 2018 00:00:00 +1000</pubDate>
 				<description>&lt;p&gt;Ruined Castle, 27 April 2018: It is fall break at Macquarie University. Some students choose to rest or study for exams, others have chosen to spend a week wading through the ferns in the Blue Mountains World Heritage Area in search of the remains of a 19th century shale mining village. Under the direction of Bec Parkes of Lantern Heritage and Shawn Ross of Macquarie University, the team of seven history and archaeology students have been getting up at 6 am to hike down the Golden Staircase and conduct archaeological survey. 
 Once on site, students break up into teams of two and systematically scrutinize the ground looking for modifications on boulders, patterns in collapsed stones, scatters of glass and ceramics that indicate the location of miners’ huts. Dozens of such features are hiding under the dense canopy mere meters of the Ruined Castle treck. Upon discovery students record the location digitally, using Android tablets to capture coordinates from external GPS, and describing feature characteristics, such as materials, dimensions, finds and interpretations. All features are photographed and sketched, keeping all records integrated on the tablet. A flag is left on the ground for the official project photographer. In five days of work, students progress from knowing the word ‘survey’ to recognising and digitally recording over 250 historical features. Negotiating rugged terrain, and climbing the equivalent of 73 flights of stairs each day has been not only a fantastic way to spend the holidays, but a meaningful undertaking that generated an analysis-ready dataset that illustrates the history of industrial settlement in the Blue Mountains.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/news/BlueMountainsOne/</guid>
+				<guid isPermaLink="true">https://www.fedarch.org/news/BlueMountainsOne/</guid>
 			</item>
 		
 			<item>
 				<title>FAIMS at CAA 2017 Spring Institute</title>
-				<link>http://localhost:4000/news/CAA_2017_Spring_Institute/</link>
+				<link>https://www.fedarch.org/news/CAA_2017_Spring_Institute/</link>
 				<pubDate>Fri, 22 Sep 2017 00:00:00 +1000</pubDate>
 				<description>&lt;hr /&gt;
 
 &lt;p&gt;FAIMS attended the first Computer Applications &amp;amp; Qualitative Methods in Archaeology Spring Institute for Australasia from the 3rd – 8th September 2017.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/2017-09-22-Kioloa-I.jpg&quot; alt=&quot;ANU Coastal Campus, Kioloa, NSW&quot; /&gt; ANU Coastal Campus, Kioloa, NSW&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.fedarch.org/images/2017-09-22-Kioloa-I.jpg&quot; alt=&quot;ANU Coastal Campus, Kioloa, NSW&quot; /&gt; ANU Coastal Campus, Kioloa, NSW&lt;/p&gt;
 
 &lt;p&gt;The event was held at the Australian National University’s Kioloa Coastal Campus and was jointly organised by the CAA Australasia and the Department of Archaeology, University Sydney. Participants came from all over Australia and New Zealand to discuss the use of digital technologies in archaeology and looked at recent advancements in the field. The event included sessions on Spatial Data Collectio, Terrestrial Remote Sensing, Geospatial and Geophysical Data with sessions on knowledge management systems and digital workflows and archaeological repositiories given by Robert Haubt and Shawn Ross from the FAIMS Project.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/2017-09-22-Kioloa-III.png&quot; alt=&quot;Drone Workshop with Dr.Yann Tristan; FAIMS workshop with A/Prof. Shawn Ross&quot; /&gt; Drone Workshop with Dr.Yann Tristan; FAIMS workshop with A/Prof. Shawn Ross&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.fedarch.org/images/2017-09-22-Kioloa-III.png&quot; alt=&quot;Drone Workshop with Dr.Yann Tristan; FAIMS workshop with A/Prof. Shawn Ross&quot; /&gt; Drone Workshop with Dr.Yann Tristan; FAIMS workshop with A/Prof. Shawn Ross&lt;/p&gt;
 
 &lt;p&gt;More information on the CAA Australasia event can be found here &lt;a href=&quot;http://au.caa-international.org/spring-institute/&quot;&gt;CAA Australasia 2017 Spring Institute&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;We would like to thank Dr. Ian Johnson from the University of Sydney for organising this event.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/news/CAA_2017_Spring_Institute/</guid>
+				<guid isPermaLink="true">https://www.fedarch.org/news/CAA_2017_Spring_Institute/</guid>
 			</item>
 		
 			<item>
 				<title>FAIMS talks to Citizen Science Project Streamwatch</title>
-				<link>http://localhost:4000/news/Streamwatch_Australian_Museum/</link>
+				<link>https://www.fedarch.org/news/Streamwatch_Australian_Museum/</link>
 				<pubDate>Wed, 30 Aug 2017 00:00:00 +1000</pubDate>
 				<description>&lt;hr /&gt;
 
@@ -94,12 +94,12 @@ Once on site, students break up into teams of two and systematically scrutinize 
 
 &lt;p&gt;If you want to find out more about Streamwatch or our FAIMS Mobile solutions please contact us at enquires@fedarch.org.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/news/Streamwatch_Australian_Museum/</guid>
+				<guid isPermaLink="true">https://www.fedarch.org/news/Streamwatch_Australian_Museum/</guid>
 			</item>
 		
 			<item>
 				<title>FAIMS wins Ideation Challenge</title>
-				<link>http://localhost:4000/news/FAIMS_wins_ideation_challenge_for_data_capture_app/</link>
+				<link>https://www.fedarch.org/news/FAIMS_wins_ideation_challenge_for_data_capture_app/</link>
 				<pubDate>Wed, 30 Aug 2017 00:00:00 +1000</pubDate>
 				<description>&lt;hr /&gt;
 
@@ -111,12 +111,12 @@ Once on site, students break up into teams of two and systematically scrutinize 
 
 &lt;p&gt;If you want to find out more about the FAIMS Project or our FAIMS Mobile solutions please contact us at enquires@fedarch.org.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/news/FAIMS_wins_ideation_challenge_for_data_capture_app/</guid>
+				<guid isPermaLink="true">https://www.fedarch.org/news/FAIMS_wins_ideation_challenge_for_data_capture_app/</guid>
 			</item>
 		
 			<item>
 				<title>FAIMS mobile app can now print QR code and labels</title>
-				<link>http://localhost:4000/news/FAIMS-mobile-can-now-print-labels/</link>
+				<link>https://www.fedarch.org/news/FAIMS-mobile-can-now-print-labels/</link>
 				<pubDate>Wed, 31 May 2017 00:00:00 +1000</pubDate>
 				<description>&lt;hr /&gt;
 
@@ -131,12 +131,12 @@ FAIMS Mobile integrates the printer with a click of a button, connecting the app
 
 &lt;p&gt;If you would like to know more about how you can print your own labels and barcodes from FAIMS Mobile or have other external devices that you would like to integrate, contact our friendly team of experts at &lt;a href=&quot;mailto:enquires@fedarch.org&quot;&gt;enquires@fedarch.org&lt;/a&gt;.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/news/FAIMS-mobile-can-now-print-labels/</guid>
+				<guid isPermaLink="true">https://www.fedarch.org/news/FAIMS-mobile-can-now-print-labels/</guid>
 			</item>
 		
 			<item>
 				<title>FAIMS Seminar Friday, 2.June 2017, Centre for Archaeological Science, University of Wollongong</title>
-				<link>http://localhost:4000/news/FAIMS-Seminar-at-CAS-UOW/</link>
+				<link>https://www.fedarch.org/news/FAIMS-Seminar-at-CAS-UOW/</link>
 				<pubDate>Wed, 31 May 2017 00:00:00 +1000</pubDate>
 				<description>&lt;hr /&gt;
 
@@ -158,12 +158,12 @@ In this presentation, we will briefly review the history of the project and the 
 
 &lt;p&gt;We are looking forward seeing you in Wollongong!&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/news/FAIMS-Seminar-at-CAS-UOW/</guid>
+				<guid isPermaLink="true">https://www.fedarch.org/news/FAIMS-Seminar-at-CAS-UOW/</guid>
 			</item>
 		
 			<item>
 				<title>FAIMS and Macquarie University talk Archaeology at the Discover North Parramatta Open Day</title>
-				<link>http://localhost:4000/news/FAIMS-At-UrbanGrowth/</link>
+				<link>https://www.fedarch.org/news/FAIMS-At-UrbanGrowth/</link>
 				<pubDate>Tue, 30 May 2017 00:00:00 +1000</pubDate>
 				<description>&lt;hr /&gt;
 
@@ -176,7 +176,7 @@ In this presentation, we will briefly review the history of the project and the 
 &lt;p&gt;We met with archaeologists and students to talk ‘digital field recording’ and showcased some of our latest modules for &lt;a href=&quot;http://www.fedarch.org/faims-mobile/&quot;&gt;FAIMS mobile&lt;/a&gt;.
 Thank you to everyone involved for a great day in Parramatta!&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/news/FAIMS-At-UrbanGrowth/</guid>
+				<guid isPermaLink="true">https://www.fedarch.org/news/FAIMS-At-UrbanGrowth/</guid>
 			</item>
 		
 	</channel>
