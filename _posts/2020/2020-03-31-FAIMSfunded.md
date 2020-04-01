@@ -11,7 +11,7 @@ categories:
 author: adela
 header:
     image_fullwidth: 2020/perachora-survey.jpg
-    caption: "Grid-survey module in action. Image by Adela Sobotkova. CC-BY-SA 2020. " 
+    caption: "Survey module in action. Image by Adela Sobotkova. CC-BY-SA 2020. " 
     
 
 
