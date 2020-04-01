@@ -9,8 +9,8 @@
 			<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>RSS Feed (Styled)</title>
-	<link rel="stylesheet" type="text/css" href="https://www.fedarch.org/assets/css/styles_feeling_responsive.css" />
-	<script src="https://www.fedarch.org/assets/js/modernizr.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css" />
+	<script src="http://localhost:4000/assets/js/modernizr.min.js"></script>
 
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
   <script>
@@ -36,67 +36,67 @@
 
 
 	
-	<link rel="icon" sizes="32x32" href="https://www.fedarch.org/assets/img/favicon-32x32.png" />
+	<link rel="icon" sizes="32x32" href="http://localhost:4000/assets/img/favicon-32x32.png" />
 
 
 
 
 	
-	<link rel="icon" sizes="192x192" href="https://www.fedarch.org/assets/img/android-icon-192x192.png" />
+	<link rel="icon" sizes="192x192" href="http://localhost:4000/assets/img/android-icon-192x192.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://www.fedarch.org/assets/img/apple-icon-180x180.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/assets/img/apple-icon-180x180.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.fedarch.org/assets/img/apple-icon-152x152.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/assets/img/apple-icon-152x152.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.fedarch.org/assets/img/apple-icon-144x144.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/assets/img/apple-icon-144x144.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.fedarch.org/assets/img/apple-icon-120x120.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/assets/img/apple-icon-120x120.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.fedarch.org/assets/img/apple-icon-114x114.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/assets/img/apple-icon-114x114.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.fedarch.org/assets/img/apple-icon-76x76.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/assets/img/apple-icon-76x76.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.fedarch.org/assets/img/apple-icon-72x72.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/assets/img/apple-icon-72x72.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" href="https://www.fedarch.org/assets/img/apple-icon.png" />	
+	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/assets/img/apple-icon.png" />	
 
 
 
 
 	
-	<meta name="msapplication-TileImage" content="https://www.fedarch.org/assets/img/ms-icon-144x144.png" />
+	<meta name="msapplication-TileImage" content="http://localhost:4000/assets/img/ms-icon-144x144.png" />
 
 
 
@@ -111,7 +111,7 @@
 	
 	<meta property="og:title" content="RSS Feed (Styled)" />
 	<meta property="og:description" content="FAIMS provides tools for the collection of born-digital field data through to archiving for any research discipline, workflow, ontology, and standard." />
-	<meta property="og:url" content="https://www.fedarch.org//assets/xslt/rss.xslt" />
+	<meta property="og:url" content="http://localhost:4000//assets/xslt/rss.xslt" />
 	<meta property="og:site_name" content="FAIMS Project" />
 	
 
@@ -120,7 +120,7 @@
 	<!-- Search Engine Optimization -->
 	
 
-	<link type="text/plain" rel="author" href="https://www.fedarch.org/humans.txt" />
+	<link type="text/plain" rel="author" href="http://localhost:4000/humans.txt" />
 
 	
 
@@ -133,13 +133,13 @@
 	  <meta name="twitter:title" content="RSS Feed (Styled)">
 	
 	
-	  <meta name="twitter:url" content="https://www.fedarch.org/assets/xslt/rss.xslt">
+	  <meta name="twitter:url" content="http://localhost:4000/assets/xslt/rss.xslt">
 	
 	
 	  <meta name="twitter:description" content="FAIMS provides tools for the collection of born-digital field data through to archiving for any research discipline, workflow, ontology, and standard.">
 	
 	
-	  <meta name="twitter:image:src" content="https://www.fedarch.org/images/FAIMS-CYMK-FULL-VECTOR.png">
+	  <meta name="twitter:image:src" content="http://localhost:4000/images/FAIMS-CYMK-FULL-VECTOR.png">
 	
 
 		]]></xsl:text>
@@ -151,7 +151,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="https://www.fedarch.org" class="icon-tree"> FAIMS Project</a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000" class="icon-tree"> FAIMS Project</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
@@ -210,7 +210,7 @@
             
             
               <li class="divider"></li>
-              <li><a href="https://www.fedarch.org/info/">Info</a></li>
+              <li><a href="http://localhost:4000/info/">Info</a></li>
 
             
             
@@ -224,7 +224,7 @@
             
             
               <li class="divider"></li>
-              <li><a href="https://www.fedarch.org/search/">Search</a></li>
+              <li><a href="http://localhost:4000/search/">Search</a></li>
 
             
             
@@ -238,7 +238,7 @@
             
             
               <li class="divider"></li>
-              <li><a href="https://www.fedarch.org/contact/">Contact</a></li>
+              <li><a href="http://localhost:4000/contact/">Contact</a></li>
 
             
             
@@ -259,24 +259,24 @@
             
 
               <li class="has-dropdown">
-                <a href="https://www.fedarch.org/about">About</a>
+                <a href="http://localhost:4000/about">About</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a href="https://www.fedarch.org/about/#About">About Us</a></li>
+                      <li><a href="http://localhost:4000/about/#About">About Us</a></li>
                     
 
                       
 
-                      <li><a href="https://www.fedarch.org/about/#Team">Our Team</a></li>
+                      <li><a href="http://localhost:4000/about/#Team">Our Team</a></li>
                     
 
                       
 
-                      <li><a href="https://www.fedarch.org/privacy">Privacy Policy</a></li>
+                      <li><a href="http://localhost:4000/privacy">Privacy Policy</a></li>
                     
                   </ul>
                   
@@ -295,29 +295,29 @@
             
 
               <li class="has-dropdown">
-                <a href="https://www.fedarch.org/#About">Home</a>
+                <a href="http://localhost:4000/#About">Home</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a href="https://www.fedarch.org/#Mobile">FAIMS Mobile Platform</a></li>
+                      <li><a href="http://localhost:4000/#Mobile">FAIMS Mobile Platform</a></li>
                     
 
                       
 
-                      <li><a href="https://www.fedarch.org/#Services">Online Services</a></li>
+                      <li><a href="http://localhost:4000/#Services">Online Services</a></li>
                     
 
                       
 
-                      <li><a href="https://www.fedarch.org/#Federated">Federated Data Services</a></li>
+                      <li><a href="http://localhost:4000/#Federated">Federated Data Services</a></li>
                     
 
                       
 
-                      <li><a href="https://www.fedarch.org/contact">Contact Us</a></li>
+                      <li><a href="http://localhost:4000/contact">Contact Us</a></li>
                     
                   </ul>
                   
@@ -336,19 +336,19 @@
             
 
               <li class="has-dropdown">
-                <a href="https://www.fedarch.org/faims-mobile">FAIMS Mobile</a>
+                <a href="http://localhost:4000/faims-mobile">FAIMS Mobile</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a href="https://www.fedarch.org/faims-mobile">FAIMS Mobile</a></li>
+                      <li><a href="http://localhost:4000/faims-mobile">FAIMS Mobile</a></li>
                     
 
                       
 
-                      <li><a href="https://www.fedarch.org/privacy">Privacy Policy</a></li>
+                      <li><a href="http://localhost:4000/privacy">Privacy Policy</a></li>
                     
                   </ul>
                   
@@ -365,7 +365,7 @@
 
             
             
-              <li><a href="https://www.fedarch.org/support/#2">Get Started!</a></li>
+              <li><a href="http://localhost:4000/support/#2">Get Started!</a></li>
               <li class="divider"></li>
 
             
@@ -389,22 +389,22 @@
 
                       
 
-                      <li><a href="https://www.fedarch.org/support/#1">FAQ</a></li>
+                      <li><a href="http://localhost:4000/support/#1">FAQ</a></li>
                     
 
                       
 
-                      <li><a href="https://www.fedarch.org/support/#2">Getting Started</a></li>
+                      <li><a href="http://localhost:4000/support/#2">Getting Started</a></li>
                     
 
                       
 
-                      <li><a href="https://www.fedarch.org/support/#3">Documentation</a></li>
+                      <li><a href="http://localhost:4000/support/#3">Documentation</a></li>
                     
 
                       
 
-                      <li><a href="https://www.fedarch.org/support/#Pamphlets">Pamphlets</a></li>
+                      <li><a href="http://localhost:4000/support/#Pamphlets">Pamphlets</a></li>
                     
 
                       
@@ -428,39 +428,39 @@
             
 
               <li class="has-dropdown">
-                <a href="https://www.fedarch.org/research">Research</a>
+                <a href="http://localhost:4000/research">Research</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a href="https://www.fedarch.org/research/#publications">Publications</a></li>
+                      <li><a href="http://localhost:4000/research/#publications">Publications</a></li>
                     
 
                       
 
-                      <li><a href="https://www.fedarch.org/research/#posters">Posters</a></li>
+                      <li><a href="http://localhost:4000/research/#posters">Posters</a></li>
                     
 
                       
 
-                      <li><a href="https://www.fedarch.org/research/#research">Research and Reports</a></li>
+                      <li><a href="http://localhost:4000/research/#research">Research and Reports</a></li>
                     
 
                       
 
-                      <li><a href="https://www.fedarch.org/research/#workshop">Workshop Presentations</a></li>
+                      <li><a href="http://localhost:4000/research/#workshop">Workshop Presentations</a></li>
                     
 
                       
 
-                      <li><a href="https://www.fedarch.org/research/#Links">Other Projects</a></li>
+                      <li><a href="http://localhost:4000/research/#Links">Other Projects</a></li>
                     
 
                       
 
-                      <li><a href="https://www.fedarch.org/grant/">Use us in your Grant</a></li>
+                      <li><a href="http://localhost:4000/grant/">Use us in your Grant</a></li>
                     
                   </ul>
                   
@@ -479,14 +479,14 @@
             
 
               <li class="has-dropdown">
-                <a href="https://www.fedarch.org/blog/">Blog</a>
+                <a href="http://localhost:4000/blog/">Blog</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a href="https://www.fedarch.org/blog/archive/">Blog Archive</a></li>
+                      <li><a href="http://localhost:4000/blog/archive/">Blog Archive</a></li>
                     
                   </ul>
                   
@@ -524,8 +524,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="https://www.fedarch.org" title="FAIMS Project -- Creating eResearch tools for Field Researchers, Humanities, and the Sciences">
-				<img src="https://www.fedarch.org/assets/img/logo.svg" alt="FAIMS Project -- Creating eResearch tools for Field Researchers, Humanities, and the Sciences">
+			<a id="logo" href="http://localhost:4000" title="FAIMS Project -- Creating eResearch tools for Field Researchers, Humanities, and the Sciences">
+				<img src="http://localhost:4000/assets/img/logo.svg" alt="FAIMS Project -- Creating eResearch tools for Field Researchers, Humanities, and the Sciences">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -603,7 +603,7 @@
 
             <p class="shadow-black">
               FAIMS provides tools for the collection of born-digital field data through to archiving for any research discipline, workflow, ontology, and standard.
-              <a href="https://www.fedarch.org/info/">More ›</a>
+              <a href="http://localhost:4000/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -793,7 +793,7 @@
 		
 
 
-<script src="https://www.fedarch.org/assets/js/javascript.min.js"></script>
+<script src="http://localhost:4000/assets/js/javascript.min.js"></script>
 
 
 
