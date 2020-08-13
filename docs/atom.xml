@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://www.fedarch.org/</id>
 	<title>FAIMS Project</title>
-	<updated>2020-03-05T13:11:37+11:00</updated>
+	<updated>2020-08-13T16:10:49+10:00</updated>
 
 	<subtitle>FAIMS provides tools for the collection of born-digital field data through to archiving for any research discipline, workflow, ontology, and standard.</subtitle>
 
@@ -26,7 +26,7 @@
 	<link href="https://www.fedarch.org/atom.xml" rel="self" type="application/rss+xml" />
 	<link href="https://www.fedarch.org/" rel="alternate" type="text/html" />
 
-	<generator uri="http://jekyllrb.com" version="3.0.1">Jekyll</generator>
+	<generator uri="http://jekyllrb.com" version="3.9.0">Jekyll</generator>
 
 	
 		<entry>
@@ -237,7 +237,7 @@ FAIMS Mobile integrates the printer with a click of a button, connecting the app
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Wx0vSblD_bM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;If you would like to know more about how you can print your own labels and barcodes from FAIMS Mobile or have other external devices that you would like to integrate, contact our friendly team of experts at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#101;&amp;#110;&amp;#113;&amp;#117;&amp;#105;&amp;#114;&amp;#101;&amp;#115;&amp;#064;&amp;#102;&amp;#101;&amp;#100;&amp;#097;&amp;#114;&amp;#099;&amp;#104;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&quot;&gt;&amp;#101;&amp;#110;&amp;#113;&amp;#117;&amp;#105;&amp;#114;&amp;#101;&amp;#115;&amp;#064;&amp;#102;&amp;#101;&amp;#100;&amp;#097;&amp;#114;&amp;#099;&amp;#104;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you would like to know more about how you can print your own labels and barcodes from FAIMS Mobile or have other external devices that you would like to integrate, contact our friendly team of experts at &lt;a href=&quot;mailto:enquires@fedarch.org&quot;&gt;enquires@fedarch.org&lt;/a&gt;.&lt;/p&gt;
 </content>
 
 			
@@ -337,8 +337,8 @@ Thank you to everyone involved for a great day in Parramatta!&lt;/p&gt;
 	
 		<entry>
 			<id>https://www.fedarch.org/news/Introducing-Access-Coordinator/</id>
-			<title>Introducing FAIMS&#39; new Access Coordinator!</title>
-			<link href="https://www.fedarch.org/news/Introducing-Access-Coordinator/" rel="alternate" type="text/html" title="Introducing FAIMS&#39; new Access Coordinator!" />
+			<title>Introducing FAIMS' new Access Coordinator!</title>
+			<link href="https://www.fedarch.org/news/Introducing-Access-Coordinator/" rel="alternate" type="text/html" title="Introducing FAIMS' new Access Coordinator!" />
 			<updated>2017-05-23T00:00:00+10:00</updated>
 
 			
@@ -360,7 +360,7 @@ Thank you to everyone involved for a great day in Parramatta!&lt;/p&gt;
 
 &lt;p&gt;Robert is here to help you with your data management needs. He has joined FAIMS for the year to help with data curation needs and outreach.&lt;/p&gt;
 
-&lt;p&gt;E-mail him at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#114;&amp;#111;&amp;#098;&amp;#101;&amp;#114;&amp;#116;&amp;#064;&amp;#102;&amp;#101;&amp;#100;&amp;#097;&amp;#114;&amp;#099;&amp;#104;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&quot;&gt;&amp;#114;&amp;#111;&amp;#098;&amp;#101;&amp;#114;&amp;#116;&amp;#064;&amp;#102;&amp;#101;&amp;#100;&amp;#097;&amp;#114;&amp;#099;&amp;#104;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;E-mail him at &lt;a href=&quot;mailto:robert@fedarch.org&quot;&gt;robert@fedarch.org&lt;/a&gt;&lt;/p&gt;
 
 </content>
 
