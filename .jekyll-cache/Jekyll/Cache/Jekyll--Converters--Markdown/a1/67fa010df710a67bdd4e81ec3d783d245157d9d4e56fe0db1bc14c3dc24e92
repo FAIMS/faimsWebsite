@@ -1,0 +1,66 @@
+I"â%<h2>Migration of the FAIMS Repository to tDAR</h2>
+<p>In May 2016, the FAIMS Project entered into a partnership with the Center for Digital Antiquity at Arizona State University in order to transfer all resources in the FAIMS Repository into The Digital Archaeological Record (tDAR). </p>
+<h3>Background</h3>
+<p>The FAIMS Repository was established in 2013 as part of the National eResearch Collaboration Tools and Resources (NeCTAR) program to store data sets, documents, images, and sensory data produced by archaeological research in Australia or collected by Australian archaeologists working abroad. The primary focus of this first phase of the FAIMS project was the creation of an Android mobile application for archaeological field recording, and much of the development of the Repository was concerned with automating the ingest of data created on the mobile app. The Repository also subsumed the Australian Historical Archaeological Database (AHAD).</p>
+<p>The Repository is, essentially, a slightly modified Australian implementation of tDAR ('The Digital Archaeological Record') which is an open-source repository system developed by <a href="http://www.tdar.org/about/">Digital Antiquity</a> - a not-for-profit organisation at Arizona State University committed to the long-term digital preservation of archaeological data. The FAIMS Repository was developed by VeRSI (later VPAC, then V3), working in collaboration with Digital Antiquity.  While some features were never implemented, the Repository was running live from repo.fedarch.org and monitored in-kind by V3 staff until the closure of the organisation in 2015. The FAIMS team has been managing the repository in-house since then, while exploring options for funding more sustainable system administration. </p>
+<h3>Why does the FAIMS Repository need a new home?</h3>
+<p>The <i>short answer</i> is a lack of funds and resources to administer an Australian repository for archaeological data. </p>
+<p>The <i>long answer</i> is a range of circumstances has made it more desirable to merge with a larger, international repository, rather than secure the resources needed to sustain an Australian repository. These circumstances include but are not limited to:</p>
+<h4>1. Development challenges</h4>
+<p>The initial development of the Repository was hampered by technical difficulties on a number of fronts, including adaptation to NeCTAR, RDSI, and other Australian national infrastructure). Meanwhile, the developers (VeRSI, then VPAC, then V3) went through two major restructures doing development, eventually ceasing operation in 2015. </p>
+<h4>2. Limited cost-effective infrastructure </h4>
+<p>The tDAR software is complex, highly customised to the task of long-term data archiving. Few local providers have the expertise or inclination to learn the system and take on system administration at a cost the Australian archaeological community can fund from ingest fees.  Digital Antiquity knows the software better than anyone, but cannot practically take on the administration of Australian-based servers. </p>
+<p>Furthermore, appropriate data curation infrastructure (essentially, organisations that are willing to guarantee the survival and availability of data over the long term - say, a 100-year horizon) are lacking in Australia at any price. We have approached several libraries and museums, the sort of organisations who often play that role in North America or Europe, but none were interested in data curation that included datasets beyond their relatively narrow research and collection policies. We have raised this broader problem with ANDS, NeCTAR, and AARNET, who have acknowledged the need for curation services, but do not offer any short-term solutions.</p>
+<h4>3. Lack of funding streams for infrastructure of this kind</h4>
+<p>While we benefited from generous NeCTAR and ARC grants to build the FAIMS infrastructure, both explicitly excluded expenditure on maintenance and operation. This is typical of many grants which fund infrastructure: tertiary institutions are expected to run and maintain such infrastructure in perpetuity from central funds. This arrangement is unsustainable in today's funding environment. </p>
+<h4>4. Insufficient demand</h4>
+<p>While the Repository was running live from repo.fedarch.org, it attracted lots of curious users - but few depositors.  This may in part reflect the inevitable a lag in data deposition which often comes a year or two after fieldwork, or more likely the lesser urgency for deposition vs data collection, but it has proved a difficult to justify funding bids with such low rates of adoption.</p>
+<h4>5. Economy of Scale</h4>
+<p>By returning the records to the tDAR main branch, we are preserving a similar functionality that users have come to know, taking advantage of newer features not available in the FAIMS software, and securing preservation of the data in the long-term in the hands of a much better resourced staff focussed solely on digital preservation. This enables the FAIMS team to focus on enhancing digital data collection services.</p>
+<h4>6. Choice for archaeologists</h4>
+<p>As we have gained experience with data archiving and publication, it has become clear that different datasets need different homes.  Other repositories and data publication services have also matured and improved in the time since we began developing the FAIMS Repository.  In future, FAIMS will act as a broker for various data services. While we expect tDAR to remain an excellent choice for many archaeologists, <a href="http://mukurtu.org">mukurtu.org</a> (for example) might work better for culturally sensitive datasets requiring sophisticated access controls, whereas <a href="http://opencontext.org">opencontext.org</a> might be better suited to highly structured digital datasets with no access restrictions.  </p>
+
+<h3>Repository Migration: At a glance </h3>
+<h4>Benefits</h4>
+<ul><li>Storage of data in an internationally recognised <a href="http://www.tdar.org/why-tdar/preservation/">repository</a>. </li>
+<li>Continuity of basic software functionality and core terminology (i.e. Resource Definitions).</li>
+<li>Automatic application of all tDAR upgrades at no additional cost to the project or users.</li>
+<li>Access to better support from the professional service team that developed the software.</li>
+<li>Potential for international comparison of datasets.</li></ul>
+<h4>Drawbacks</h4>
+<ul><li>There may be delays in corresponding with Digital Antiquity (based in Arizona) on account of the time difference (response times are still likely to be shorter than the FAIMS team can currently guarantee).</li>
+<li>US pricing: Australian customers will be subject to currency fluctuations.</li>
+<li>Loss of some minor features and customised terminology introduced into the FAIMS Repository (but we're working with tDAR to extend their terminology).</li></ul>
+<h4>Non-issues</h4>
+<ul><li>Transferring from open-source to open-source.</li>
+<li>One-off fees are charged at ingest not download (no change; fees were planned for the FAIMS Repo beginning in 2016).</li></ul>
+<h3>What does this mean for Users?</h3>
+<p>For users who contributed records to FAIMS:</p>
+<ul><li>A new account will be created for you (this was necessary to transfer the records) but you need to log in and agree to the terms and conditions (which you may note are very similar to the FAIMS Repo).</li>
+<li>Records created in FAIMS will now appear at tdar.org (NB no draft records will be migrated); repo.faims.org will redirect to tdar.org.</li>
+<li>Project and resource numbers have changed, but you can still search for the 'old' numbers (see FAQs below).</li></ul>
+<p>For users who registered with FAIMS but did not contribute:</p>
+<ul><li>You will need to create a new account with tDAR if you do not already have one.</li></ul>
+<h1>FAQs</h1>
+<dl>
+<dt>Where did my record go?</dt>
+<dd>The FAIMS Repository has been taken down as a precautionary measure prior to the migration and following an unsuccessful security update that may have left the site vulnerable to attack.</dd>
+<dt>What will it cost?</dt>
+<dd>The transfers of records is being funded by Macquarie University and there will be no cost to Users. New records deposited into tDAR will be subject to Digital Antiquity's one-off ingest fees. See <a href="https://core.tdar.org/cart/add">tDAR Pricing</a> for details. </dd>
+
+<dt>Will the FAIMS team deposit records for me into tDAR?</dt>
+<dd>No. The FAIMS Repository was designed as a self-service facility and the FAIMS team has never had the capacity to undertake data ingest. Digital Antiquity, however, do provide fee-for-service assistance to Users. See <a href="https://core.tdar.org/cart/add">tDAR Pricing</a> for details. Once the transfer to tDAR is complete, the FAIMS team will have no direct role in the management of Repository services. </dd>
+
+<dt>What is the FAIMS Collection in tDAR?</dt>
+<dd>The 'FAIMS Collection' includes all records and resources in tDAR that have been imported from, or linked to, FAIMS. Initially this collection will include all records transferred from the FAIMS Repository, but in future may include resources uploaded by Australian researchers or researchers working in Australia, who wish to make their data discoverable as part of the FAIMS collection, thus providing a way to designate Australian (or Australian-produced) data in tDAR. </dd>
+
+<dt>How will I find a FAIMS record in tDAR</dt>
+<ul>
+<li>Browse the FAIMS Collection <b>(DETAILS COMING SOON...)</b></li>
+<li>Search by URL <b>(DETAILS COMING SOON...)</b></li>
+<li>Search by ID number <b>(DETAILS COMING SOON...)</b></li>
+</ul>
+&lt;/div&gt;
+&lt;/div&gt;
+</dl>
+:ET

@@ -572,21 +572,21 @@
 <ol>
   <li>Get the latest copy of the repo
     <ol>
-      <li>If you don’t have the repository on your computer yet: <code class="highlighter-rouge">git clone git@github.com:FAIMS/faimsWebsite.git</code>
+      <li>If you don’t have the repository on your computer yet: <code class="language-plaintext highlighter-rouge">git clone git@github.com:FAIMS/faimsWebsite.git</code>
         <ol>
           <li>You’ll need to make sure that git is set up on your computer properly. Follow the <a href="https://help.github.com/articles/generating-an-ssh-key/">Generating an SSH Key</a> instructions.</li>
           <li>This is because you are, of course, using two factor authentication, which makes https extremely tedious to login using.</li>
         </ol>
       </li>
-      <li>If you do have the repository, <code class="highlighter-rouge">git pull</code></li>
+      <li>If you do have the repository, <code class="language-plaintext highlighter-rouge">git pull</code></li>
     </ol>
   </li>
   <li>Write your blog post
     <ol>
-      <li>Copy a prior post in the <code class="highlighter-rouge">posts/2016/</code> directory</li>
+      <li>Copy a prior post in the <code class="language-plaintext highlighter-rouge">posts/2016/</code> directory</li>
       <li>Edit the header content
         <ol>
-          <li>Find a good full-width banner which is creative commons. Put it in <code class="highlighter-rouge">/images/</code>.</li>
+          <li>Find a good full-width banner which is creative commons. Put it in <code class="language-plaintext highlighter-rouge">/images/</code>.</li>
           <li>Make sure to link and give attribution.</li>
         </ol>
       </li>
@@ -595,8 +595,8 @@
   </li>
   <li>Commit your repository
     <ol>
-      <li>In the <code class="highlighter-rouge">faimsWebsite/</code> directory, run <code class="highlighter-rouge">git add -A</code></li>
-      <li>Then run <code class="highlighter-rouge">git commit -a -m "Your commit message here"</code>
+      <li>In the <code class="language-plaintext highlighter-rouge">faimsWebsite/</code> directory, run <code class="language-plaintext highlighter-rouge">git add -A</code></li>
+      <li>Then run <code class="language-plaintext highlighter-rouge">git commit -a -m "Your commit message here"</code>
         <ol>
           <li>A good commit message is important, as it is a quick summary of what action you’re taking</li>
         </ol>
@@ -605,10 +605,10 @@
   </li>
   <li>Push your repository to github
     <ol>
-      <li><code class="highlighter-rouge">git push</code></li>
+      <li><code class="language-plaintext highlighter-rouge">git push</code></li>
     </ol>
   </li>
-  <li>Then, my <a href="https://developer.github.com/webhooks/">webhook</a> calls its <a href="https://github.com/bketelsen/captainhook">listener</a>. This causes the webserver to pull the latest copy from github, and then run <code class="highlighter-rouge">jekyll build</code>. Results should show up on this website in 10 seconds or so.</li>
+  <li>Then, my <a href="https://developer.github.com/webhooks/">webhook</a> calls its <a href="https://github.com/bketelsen/captainhook">listener</a>. This causes the webserver to pull the latest copy from github, and then run <code class="language-plaintext highlighter-rouge">jekyll build</code>. Results should show up on this website in 10 seconds or so.</li>
 </ol>
 
 <p>The benefit to this approach is that the webserver is stoneaxe simple. It’s literally just <a href="https://nginx.org/en/">nginx</a> with no server-side scripting layer. This dramatically reduces cpu cycles spent as well as our threat surface. And, because we have lots of repositories (each git repository can stand alone) – we have much greater data reliability and integrety than we would with wordpress and a single source of backups. Post writing occurs in the text editor of our choice, and we don’t have to struggle with an often slow and frustrating web interface to “preview” and “publish” posts. It’s faster, more secure, and simpler.</p>

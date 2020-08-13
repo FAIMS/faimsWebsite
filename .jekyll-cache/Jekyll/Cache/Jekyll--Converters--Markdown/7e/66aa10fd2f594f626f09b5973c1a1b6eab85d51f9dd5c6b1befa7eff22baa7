@@ -1,0 +1,4 @@
+I"<p>Atlassian released a security advisory for <a href="https://confluence.atlassian.com/display/CROWD/Crowd+Security+Advisory+2014-05-21">crowd</a> and <a href="https://confluence.atlassian.com/display/DOC/Confluence+Security+Advisory+2014-05-21">confluence</a> warning of a critical struts security flaw allowing remote code execution. Out of a preponderance of caution, we’re taking the servers down until they’re fully patched.</p>
+
+<p>Our wiki, jira, and test repository will not be available until early next week.</p>
+:ET

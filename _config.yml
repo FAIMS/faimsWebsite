@@ -56,9 +56,9 @@ markdown: kramdown
 permalink: /:categories/:title/
 highlight: rouge
 plugins:
-  - jekyll-index-pages
-  - jekyll-asciidoc
-  - jekyll-gist
+  # - jekyll-index-pages
+  # - jekyll-asciidoc
+  # - jekyll-gist
   - jekyll-paginate
 
 excerpt_separator: "<!--more-->"
