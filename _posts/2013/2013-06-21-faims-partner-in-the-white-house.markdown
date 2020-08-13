@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2013-06-21 00:49:20+00:00
-layout: page
+layout: post
 slug: faims-partner-in-the-white-house
 title: FAIMS partner in the White House
 wordpress_id: 992

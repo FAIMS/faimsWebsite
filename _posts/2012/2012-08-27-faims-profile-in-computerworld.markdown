@@ -2,7 +2,7 @@
 author: shawn
 comments: true
 date: 2012-08-27 00:13:52+00:00
-layout: page
+layout: post
 slug: faims-profile-in-computerworld
 title: FAIMS profile in ComputerWorld
 wordpress_id: 245

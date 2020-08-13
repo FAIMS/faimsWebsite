@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2013-04-14 06:54:20+00:00
-layout: page
+layout: post
 slug: for-our-more-technical-readers-links-to-our-repositories
 title: For our more Technical Readers... links to our code
 wordpress_id: 818

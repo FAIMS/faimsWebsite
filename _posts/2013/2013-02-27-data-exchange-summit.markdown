@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2013-02-27 00:53:31+00:00
-layout: page
+layout: post
 slug: data-exchange-summit
 title: Data Exchange Summit
 wordpress_id: 591

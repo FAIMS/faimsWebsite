@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2014-05-09 04:26:49+00:00
-layout: page
+layout: post
 slug: more-awesomeness
 title: More Awesomeness
 wordpress_id: 1325

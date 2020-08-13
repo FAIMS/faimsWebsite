@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2014-06-03 12:52:27+00:00
-layout: page
+layout: post
 slug: watch-the-faims-workshop-at-uq-tomorrow
 title: Watch the FAIMS Workshop at UQ Tomorrow!
 wordpress_id: 1337

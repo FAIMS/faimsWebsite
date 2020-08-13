@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2013-02-19 08:07:23+00:00
-layout: page
+layout: post
 slug: some-light-sql-to-finish-your-day
 title: Some light SQL to finish your day.
 wordpress_id: 569

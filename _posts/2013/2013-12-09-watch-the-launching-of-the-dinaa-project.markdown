@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2013-12-09 02:40:01+00:00
-layout: page
+layout: post
 slug: watch-the-launching-of-the-dinaa-project
 title: Watch the launching of the DINAA project!
 wordpress_id: 1171

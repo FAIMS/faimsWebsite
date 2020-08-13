@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2012-12-15 03:31:33+00:00
-layout: page
+layout: post
 slug: excavation-mock-up
 title: Excavation mock-up
 wordpress_id: 437

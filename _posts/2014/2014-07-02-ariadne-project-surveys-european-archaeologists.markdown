@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2014-07-02 01:04:13+00:00
-layout: page
+layout: post
 slug: ariadne-project-surveys-european-archaeologists
 title: ARIADNE project surveys European archaeologists,
 wordpress_id: 1356

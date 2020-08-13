@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2013-03-19 21:04:33+00:00
-layout: page
+layout: post
 slug: almost-done
 title: Almost done.....
 wordpress_id: 734

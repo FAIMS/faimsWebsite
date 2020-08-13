@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2013-08-12 07:00:49+00:00
-layout: page
+layout: post
 slug: on-a-new-server
 title: On a "new" server!
 wordpress_id: 1033

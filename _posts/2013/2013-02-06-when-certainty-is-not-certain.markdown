@@ -2,7 +2,7 @@
 author: penny
 comments: true
 date: 2013-02-06 06:24:39+00:00
-layout: page
+layout: post
 slug: when-certainty-is-not-certain
 title: When certainty is not certain...
 wordpress_id: 521

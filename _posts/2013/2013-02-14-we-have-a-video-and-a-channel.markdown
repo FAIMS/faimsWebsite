@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2013-02-14 06:00:04+00:00
-layout: page
+layout: post
 slug: we-have-a-video-and-a-channel
 title: We have a video! And a channel!
 wordpress_id: 543

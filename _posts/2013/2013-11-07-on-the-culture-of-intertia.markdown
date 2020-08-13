@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2013-11-07 05:19:07+00:00
-layout: page
+layout: post
 slug: on-the-culture-of-intertia
 title: On the Culture of Intertia...
 wordpress_id: 1125

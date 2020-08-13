@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2013-04-13 12:56:32+00:00
-layout: page
+layout: post
 slug: csv-parsing-a-question-to-our-community
 title: 'CSV parsing: a question to our community'
 wordpress_id: 804

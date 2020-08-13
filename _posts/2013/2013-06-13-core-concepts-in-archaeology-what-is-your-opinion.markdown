@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2013-06-13 06:04:27+00:00
-layout: page
+layout: post
 slug: core-concepts-in-archaeology-what-is-your-opinion
 title: Core Concepts in Archaeology - What is your opinion?
 wordpress_id: 956

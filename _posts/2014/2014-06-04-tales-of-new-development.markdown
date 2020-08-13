@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2014-06-04 03:10:45+00:00
-layout: page
+layout: post
 slug: tales-of-new-development
 title: Tales of new development
 wordpress_id: 1345

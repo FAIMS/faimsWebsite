@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2013-01-16 11:19:28+00:00
-layout: page
+layout: post
 slug: some-pictures-from-jordan
 title: Some pictures from Jordan
 wordpress_id: 508

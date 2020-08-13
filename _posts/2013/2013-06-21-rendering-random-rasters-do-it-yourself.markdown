@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2013-06-21 00:15:13+00:00
-layout: page
+layout: post
 slug: rendering-random-rasters-do-it-yourself
 title: Rendering Random Rasters  - Do It Yourself
 wordpress_id: 983

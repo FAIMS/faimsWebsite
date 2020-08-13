@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2013-04-08 07:58:03+00:00
-layout: page
+layout: post
 slug: colour-colour-everywhere-and-not-a-drop-to-see
 title: Colour, colour everywhere and not a drop to see...
 wordpress_id: 800

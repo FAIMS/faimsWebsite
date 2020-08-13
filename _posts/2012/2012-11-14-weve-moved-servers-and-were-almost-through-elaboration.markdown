@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2012-11-14 04:08:19+00:00
-layout: page
+layout: post
 slug: weve-moved-servers-and-were-almost-through-elaboration
 title: We've moved servers and we're almost through elaboration...
 wordpress_id: 384

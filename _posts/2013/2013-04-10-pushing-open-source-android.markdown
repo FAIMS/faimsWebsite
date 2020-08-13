@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2013-04-10 04:11:15+00:00
-layout: page
+layout: post
 slug: pushing-open-source-android
 title: Pushing Open Source Android
 wordpress_id: 807

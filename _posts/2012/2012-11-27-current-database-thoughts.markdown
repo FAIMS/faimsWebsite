@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2012-11-27 04:51:03+00:00
-layout: page
+layout: post
 slug: current-database-thoughts
 title: Current Database Thoughts
 wordpress_id: 408

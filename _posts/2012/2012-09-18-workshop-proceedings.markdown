@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2012-09-18 05:00:32+00:00
-layout: page
+layout: post
 slug: workshop-proceedings
 title: Workshop Proceedings
 wordpress_id: 360

@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2012-07-25 06:47:37+00:00
-layout: page
+layout: post
 slug: unsw-press-release
 title: UNSW Press Release
 wordpress_id: 103

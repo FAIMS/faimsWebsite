@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2012-07-25 06:23:47+00:00
-layout: page
+layout: post
 slug: workshop-registration-goes-live
 title: Workshop Registration goes live
 wordpress_id: 98

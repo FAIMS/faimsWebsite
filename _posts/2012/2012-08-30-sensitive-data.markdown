@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2012-08-30 04:17:11+00:00
-layout: page
+layout: post
 slug: sensitive-data
 title: 'Sensitive Data '
 wordpress_id: 286

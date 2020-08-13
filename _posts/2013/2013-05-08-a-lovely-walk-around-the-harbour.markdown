@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2013-05-08 06:40:43+00:00
-layout: page
+layout: post
 slug: a-lovely-walk-around-the-harbour
 title: ' A lovely walk around the harbour'
 wordpress_id: 908

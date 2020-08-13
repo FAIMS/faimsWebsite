@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2012-07-25 06:30:50+00:00
-layout: page
+layout: post
 slug: faims-on-nectar-webpage
 title: FAIMS on NeCTAR Webpage
 wordpress_id: 106

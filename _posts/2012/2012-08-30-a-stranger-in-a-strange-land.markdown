@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2012-08-30 07:20:09+00:00
-layout: page
+layout: post
 slug: a-stranger-in-a-strange-land
 title: A Stranger in a Strange Land
 wordpress_id: 309

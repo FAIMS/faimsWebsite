@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2012-12-10 00:03:08+00:00
-layout: page
+layout: post
 slug: at-the-nectar-conference
 title: At the NeCTAR Conference
 wordpress_id: 419

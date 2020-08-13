@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2014-02-25 06:56:12+00:00
-layout: page
+layout: post
 slug: a-really-big-shout-out-to-floobits
 title: A really big shout out to Floobits
 wordpress_id: 1220

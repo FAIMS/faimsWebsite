@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2012-08-24 07:41:01+00:00
-layout: page
+layout: post
 slug: time-tracking-survey
 title: Time Tracking Survey
 wordpress_id: 241

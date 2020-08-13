@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2013-03-13 10:05:31+00:00
-layout: page
+layout: post
 slug: we-are-testing-new-prototypes
 title: 'We are testing new prototypes '
 wordpress_id: 696

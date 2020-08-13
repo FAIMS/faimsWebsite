@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2013-03-11 06:56:22+00:00
-layout: page
+layout: post
 slug: screenshots-galore-of-testing-tests-for-testing
 title: Screenshots Galore of testing tests for testing...
 wordpress_id: 680

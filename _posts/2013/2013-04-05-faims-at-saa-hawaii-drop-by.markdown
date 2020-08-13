@@ -2,7 +2,7 @@
 author: penny
 comments: true
 date: 2013-04-05 18:46:15+00:00
-layout: page
+layout: post
 slug: faims-at-saa-hawaii-drop-by
 title: FAIMS at SAA Hawaii - drop by!
 wordpress_id: 796

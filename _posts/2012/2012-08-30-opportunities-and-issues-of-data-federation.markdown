@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2012-08-30 04:16:13+00:00
-layout: page
+layout: post
 slug: opportunities-and-issues-of-data-federation
 title: Opportunities and Issues of Data Federation
 wordpress_id: 284

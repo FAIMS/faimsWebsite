@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2015-03-24 08:38:22+00:00
-layout: page
+layout: post
 slug: find-us-at-the-saa
 title: Find us at the SAA!
 wordpress_id: 1990

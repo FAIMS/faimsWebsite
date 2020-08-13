@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2013-02-27 00:29:25+00:00
-layout: page
+layout: post
 slug: faims-in-a-new-office
 title: FAIMS in a new office - ready for visitors!
 wordpress_id: 577

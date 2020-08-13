@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2012-08-30 04:12:58+00:00
-layout: page
+layout: post
 slug: mobile-applications
 title: Mobile Applications
 wordpress_id: 277

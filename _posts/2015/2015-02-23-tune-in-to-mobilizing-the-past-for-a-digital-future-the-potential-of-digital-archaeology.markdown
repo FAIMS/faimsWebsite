@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2015-02-23 23:31:40+00:00
-layout: page
+layout: post
 slug: tune-in-to-mobilizing-the-past-for-a-digital-future-the-potential-of-digital-archaeology
 title: 'Tune in to Mobilizing the Past for a Digital Future: the Potential of Digital
 Archaeology'

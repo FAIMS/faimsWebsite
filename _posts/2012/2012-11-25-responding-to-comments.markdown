@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2012-11-25 04:53:32+00:00
-layout: page
+layout: post
 slug: responding-to-comments
 title: Responding To Comments
 wordpress_id: 390

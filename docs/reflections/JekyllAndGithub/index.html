@@ -540,16 +540,17 @@
 
 
 
+
 	<div class="row t30">
 	<div class="medium-8 columns medium-offset-2 end">
 		<article itemscope itemtype="http://schema.org/Article">
 			<header>
 				
 
-				<div itemprop="name">
+				<span itemprop="name">
 					<p class="subheadline">Some of the infrastructure</p>
 					<h1>A discussion of the technology which makes this blog possible</h1>
-				</div>
+				</span>
 			</header>
 
 
@@ -559,7 +560,7 @@
 			</p>
 			
 
-			<div itemprop="articleSection">
+			<span itemprop="articleSection">
 			<p>When we moved to the RAAP funding, I decided that it was time that we moved from our antiquated Wordpress design to a static site. Conversion from markdown (source for the post is <a href="https://github.com/FAIMS/faimsWebsite/tree/master/_posts/2016">here</a>) mainly involved using the <a href="https://github.com/thomasf/exitwp">ExitWP</a> tool to extract our content from wordpress, customising our theme (<a href="https://phlow.github.io/feeling-responsive/">Feeling Responsive</a> by Phlow), and figuring out our deployment solution.</p>
 
 <p>As an aside, as our previous webhook was using entirely too much CPU (some seventeen thousand hours versus the one hour for nginx, I’m also using this post to test my new solution. You may see edits appear if you’re reading this in an <a href="http://newsblur.com">RSS reader</a>). This post, in many ways, is also something of a guide to “how to publish a markdown post.”</p>
@@ -613,7 +614,7 @@
 <p>The benefit to this approach is that the webserver is stoneaxe simple. It’s literally just <a href="https://nginx.org/en/">nginx</a> with no server-side scripting layer. This dramatically reduces cpu cycles spent as well as our threat surface. And, because we have lots of repositories (each git repository can stand alone) – we have much greater data reliability and integrety than we would with wordpress and a single source of backups. Post writing occurs in the text editor of our choice, and we don’t have to struggle with an often slow and frustrating web interface to “preview” and “publish” posts. It’s faster, more secure, and simpler.</p>
 
 
-			</div>
+			</span>
 
 			
 						<div id="page-meta" class="t30">

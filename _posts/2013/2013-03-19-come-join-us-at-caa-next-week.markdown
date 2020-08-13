@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2013-03-19 00:48:55+00:00
-layout: page
+layout: post
 slug: come-join-us-at-caa-next-week
 title: Come join us at CAA next week!
 wordpress_id: 724

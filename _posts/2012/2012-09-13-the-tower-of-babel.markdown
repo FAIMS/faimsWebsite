@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2012-09-13 05:20:18+00:00
-layout: page
+layout: post
 slug: the-tower-of-babel
 title: Climbing the Tower of Babel
 wordpress_id: 336

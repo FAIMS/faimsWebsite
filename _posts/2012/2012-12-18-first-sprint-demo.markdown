@@ -2,7 +2,7 @@
 author: adela
 comments: true
 date: 2012-12-18 08:21:43+00:00
-layout: page
+layout: post
 slug: first-sprint-demo
 title: First Sprint Demo
 wordpress_id: 457

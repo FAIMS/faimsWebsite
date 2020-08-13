@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2014-05-23 00:25:50+00:00
-layout: page
+layout: post
 slug: emergency-wiki-downtime-ahead
 title: Emergency wiki downtime ahead
 wordpress_id: 1333

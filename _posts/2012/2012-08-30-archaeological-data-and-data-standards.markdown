@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2012-08-30 04:15:12+00:00
-layout: page
+layout: post
 slug: archaeological-data-and-data-standards
 title: 'Archaeological Data and Data Standards '
 wordpress_id: 282

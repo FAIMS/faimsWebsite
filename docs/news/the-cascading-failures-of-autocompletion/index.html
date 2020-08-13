@@ -534,22 +534,23 @@
 
 
 
+
 	<div class="row t30">
 	<div class="medium-8 columns medium-offset-2 end">
 		<article itemscope itemtype="http://schema.org/Article">
 			<header>
 				
 
-				<div itemprop="name">
+				<span itemprop="name">
 					
 					<h1>The cascading failures of autocompletion</h1>
-				</div>
+				</span>
 			</header>
 
 
 			
 
-			<div itemprop="articleSection">
+			<span itemprop="articleSection">
 			<p>So, after further investigation, all of the problem we’ve been having is due to our little cute country-state auto-completion script dropping tens of warnings into the Apache error log…. every few milliseconds while people were trying to auto-complete it.</p>
 
 <p>While this worked in our tests… clearly it scaled <em>exceedingly</em> poorly. This morning, tearing out the php conversion of csv to json (which was clearly overtaxing our poor little server) left us with unexpected jquery errors.</p>
@@ -558,7 +559,7 @@
 
 <p>I would like to extend my sincere apologies to everyone who encountered slowdowns or errors during the survey.</p>
 
-			</div>
+			</span>
 
 			
 						<div id="page-meta" class="t30">

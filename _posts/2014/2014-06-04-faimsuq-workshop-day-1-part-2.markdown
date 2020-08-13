@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2014-06-04 00:56:53+00:00
-layout: page
+layout: post
 slug: faimsuq-workshop-day-1-part-2
 title: FAIMS@UQ Workshop, Day 1 Part 2
 wordpress_id: 1343

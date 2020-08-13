@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2014-07-02 02:39:26+00:00
-layout: page
+layout: post
 slug: faims-mentioned-in-intersect-monthly-newsletter
 title: FAIMS Mentioned in Intersect Monthly Newsletter
 wordpress_id: 1353

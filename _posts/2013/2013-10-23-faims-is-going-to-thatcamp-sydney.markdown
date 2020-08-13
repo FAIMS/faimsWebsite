@@ -2,7 +2,7 @@
 author: denubis
 comments: true
 date: 2013-10-23 01:41:41+00:00
-layout: page
+layout: post
 slug: faims-is-going-to-thatcamp-sydney
 title: FAIMS is going to THATcamp Sydney!
 wordpress_id: 1077
