@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: https://www.fedarch.org/sitemap.xml
